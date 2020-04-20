@@ -1,0 +1,108 @@
+# Title
+Vienna Named World’s Top City for Quality of Life
+
+
+# Paragraph
+
+Adv: Vienna is the world’s best city to live in, Baghdad is the worst and London, Paris and New York do not even make it into the top 35, according to international research into quality of life. <D3>German-speaking cities</D3> dominate the rankings in the <A1>18th Mercer Quality of Life study, with Vienna joined by Zurich, Munich, Dusseldorf and Frankfurt in the top seven. Paris has tumbled down the league, falling ten places to 37th,</A1> <D1>just ahead of London at 39th,</D1> almost entirely because of the city’s vulnerability to terrorist attacks. The study examined <D2>social and economic conditions, health, education, housing and the environment,</D2> and is <A3><A2>used by big companies to assess where they should locate offices and factories and how much they should pay staff.</A2></A3>
+
+Int: Vienna is the world’s best city to live in, Baghdad is the worst and London, Paris and New York do not even enter the top 35, according to international research into quality of life. <D3>German-speaking cities</D3> dominate the rankings in the <A1>18th Mercer Quality of Life study, with Vienna joined by Zurich, Munich, Dusseldorf and Frankfurt in the top seven. Paris has dropped down the table – it has fallen ten places to 37th,</A1> <D1>just ahead of London at 39th,</D1> mostly because of the terrorist attacks on the city. The study examined <D2>social and economic conditions, health, education, housing and the environment.</D2> <A3><A2>It is used by big companies to decide where they should open offices and factories and how much they should pay staff.</A2></A3>
+
+Ele: Vienna is the world’s best city to live in, Baghdad is the worst and London, Paris and New York are not in the top 35, says an international study on quality of life. <D3>German-speaking cities</D3> do well in the <A1>18th Mercer Quality of Life study, with Vienna, Zurich, Munich, Dusseldorf and Frankfurt in the top seven. Paris fell ten places to 37th.</A1> This was mostly because of the terrorist attacks on the city. <D1>Paris was just above London in 39th place.</D1> The study looked at the <D2>economy, health, education, housing and the environment.</D2> <A3><A2>Big companies use the results of the study to decide where they should open offices and factories and how much they should pay their employees.</A2></A3>
+
+Q: What is the ranking of Paris in the 18th Mercer Quality of Life study? # Q,a,b,c,d
+a: 37th
+b: 10th
+c: 39th
+d: 2nd
+
+Q: What is one way in which big companies use the results of the Mercer Quality of Life study? # Q,a,b,d
+a: To determine salary amounts
+b: To decide on the opening hours of offices and factories
+c: To improve the economy, health, education, housing, and the environment
+d: To improve their marketing campaigns
+
+Q2: What factor can influence where big companies will open new offices and factories? # c
+a: The ranking a city receives in the Mercer Quality of Life study 
+b: How much staff are paid on average in a city
+c: How many German speakers work for the company
+d: The amount of taxes it would need to pay
+
+# Paragraph
+
+Adv: Viennese-born Helena Hartlauer, 32, said she was not surprised at her city’s top position. <A1><D3>The municipality’s social democratic government has a long tradition of investing in high-quality social housing,</D3> making Vienna almost uniquely affordable among major cities.</A1> <A3><A2><D1>“I live in a 100sq-meter turn-of-the-century apartment in a good area about 20 minutes’ walk from the city center.</D1> But my rent is just €800 (£625) a month.”</A2></A3> <D2>An equivalent apartment in London would cost upwards of £2,000 and even more in New York,</D2> ranked 44th in the table.
+
+Int: Helena Hartlauer, 32, from Vienna, said she was not surprised at her city’s top position. <A1><D3>The city’s social democratic government has a long tradition of investing money in high-quality social housing,</D3> which makes Vienna less expensive than other major cities.</A1> <A3><A2><D1>“I live in a 100sq-meter apartment in a good area about 20 minutes’ walk from the city center.</D1> But my rent is just €800 (£625) a month.”</A2></A3> <D2>A similar apartment in London would cost over £2,000 and even more in New York,</D2> ranked 44th in the table.
+
+Ele: Helena Hartlauer, 32, is from Vienna. She said she was not surprised about her city’s top position. <A1><D3>For many years, Vienna’s government has spent money on good social housing.</D3> This makes Vienna a cheap place to live compared to other big cities.</A1> <A3><A2><D1>“I live in a 100 square-meter apartment in a good area about 20 minutes’ walk from the city center.</D1> But my rent is just €800 (£625) a month.”</A2></A3> <D2>A similar apartment in London costs over £2,000 and even more in New York,</D2> which came 44th in the study.
+
+Q: Why is Vienna a cheap place to live compared to other cities? # b,c,d
+a: The government has helped make housing cheap
+b: A social tradition of sharing apartments among several people
+c: Apartments in other cities are closer to the city center
+d: Vienna is not a bustling economic center
+
+Q: How much rent does Helena Hartlauer pay for her apartment?
+a: £625
+b: £100
+c: £2,000
+d: She does not pay rent as she owns her apartment
+
+Q2: What is one thing Hartlauer lists as a desirable aspect of her apartment? # Q,b,c
+a: Its proximity to the center of the city
+b: It is a 20 minute walk from her workplace
+c: It is owned by Vienna’s government
+d: The lack of crime in its surroundings
+
+# Paragraph
+
+Adv: <D3>US cities perform relatively poorly in the study, largely because of <D1>issues around personal safety and crime.</D1></D3> The highest ranking city in the US is San Francisco, at 28th; Boston is 34th. Canadian cities, led by Vancouver, far outrank their US rivals in the table. <A3><A1>“You don’t realize how <D2>safe Vienna is</D2> until you head abroad,”</A1></A3> said Hartlauer. <A2>“We also have terrific public transport, with the underground working 24 hours at weekends, and it only costs €1 per trip.”</A2>
+
+Int: <D3>US cities perform relatively badly in the study, mostly because of <D1>issues around personal safety and crime.</D1></D3> The highest ranking city in the US is San Francisco, at 28th; Boston is 34th. Canadian cities, led by Vancouver, do much better than their US rivals in the table. <A3><A1>“You don’t realize how <D2>safe Vienna is</D2> until you go abroad,”</A1></A3> said Hartlauer. <A2>“We also have terrific public transport, with the underground working 24 hours at weekends and it only costs €1 per trip.”</A2>
+
+Ele: <D3>US cities do badly in the study, mostly because of <D1>worries about personal safety and crime.</D1></D3> The US city in top position is San Francisco, in 28th position; Boston is 34th. <A3><A1>“You don’t realize how <D2>safe Vienna is</D2> until you go abroad,” said Hartlauer.</A1></A3> <A2>“We also have terrific public transport – the underground trains run 24 hours at weekends and it only costs €1 per trip.”</A2>
+
+Q: What does Hartlauer think about safety in Vienna? # Q,a,b,c,d
+a: She thinks people don’t recognize how safe it is
+b: She thinks people abroad believe it is safe
+c: She worries about personal safety and crime there
+d: She thinks the government should implement better safety policies
+
+Q: What is one reason why the Viennese public transport system is good, according to Hartlauer? # Q,a,b,d
+a: The subway is cheap to ride
+b: The trains run 24 hours a day, every day
+c: It is very safe
+d: The stations are clean and orderly
+
+Q1: What did going abroad make Hartlauer realize? # Q,a,b,c,d
+a: That Vienna is safer than other places
+b: That Vienna is the safest city in the world
+c: That US cities are not very safe
+d: That nothing is more important than safety
+
+# Paragraph
+
+Adv: “Our big USP (unique selling point) is our geographical location,” said <A1><A3>Martin Eichtinger, Austrian ambassador to London, who lived in Vienna for 20 years.</A3> “The fall of the Berlin Wall helped define <D2>Vienna as a hub for companies wanting to do business in Central Europe.”</D2></A1> According to the World Bank, Austria has one of the highest figures for GDP per head in the world, just behind the US and ahead of Germany and Britain, although quite some way below neighboring Switzerland. <A2><D3>Zurich</D3> in Switzerland is named by Mercer as having the world’s second highest quality of life but the Viennese say their city is far more fun.</A2> <D1>“There are more students in Vienna</D1> than any other German-speaking city,” said Hartlauer. “It’s a very fast growing, young and lively city,” she added – though she conceded she works for the city’s tourist board.
+
+Int: “Our big USP (unique selling point) is our geographical location,” said <A1><A3>Martin Eichtinger, Austrian ambassador to London, who lived in Vienna for 20 years.</A3> “The fall of the Berlin Wall helped make <D2>Vienna is a hub for companies wanting to do business in Central Europe.”</D2></A1> According to the World Bank, Austria has one of the highest figures for GDP (gross domestic product) per person in the world, just behind the US and ahead of Germany and Britain, although below neighboring Switzerland. <A2>Mercer says <D3>Zurich</D3> in Switzerland has the world’s second highest quality of life but the Viennese say their city is far more fun.</A2> <D1>“There are more students in Vienna</D1> than any other German-speaking city,” said Hartlauer. “It’s a very fast growing, young and lively city,” she added.
+
+Ele: “Vienna’s location is very special,” said <A1><A3>Martin Eichtinger, Austrian ambassador to London, who lived in Vienna for 20 years.</A3> “The fall of the Berlin Wall helped make <D2>Vienna a center for companies who want to do business in Central Europe.”</D2></A1> <A2>Mercer says <D3>Zurich</D3> in Switzerland has the world’s second highest quality of life but the Viennese say their city is far more fun.</A2> <D1>“There are more students in Vienna</D1> than any other German-speaking city,” said Hartlauer. “It’s a very young and lively city,” she added.
+
+Q: What does Eichtinger say about business in Vienna? # a,b,c,d
+a: Vienna is an important location for business in Central Europe
+b: Vienna has the largest concentration of businesses in Central Europe
+c: Vienna’s businesses are fueled by the student population
+d: Vienna has some of the fastest-growing businesses in the world
+
+Q: How do the Viennese say their city compares to Zurich? # Q,a,b,c,d
+a: They say Zurich is less fun than their city
+b: They say Zurich is second after Vienna in quality of life
+c: They say Zurich has fewer companies
+d: They say Zurich is less multicultural
+
+Q1: Where is the embassy at which Martin Eichtinger works located? # Q,a,b,c,d
+a: London
+b: Vienna
+c: Zurich
+d: New York
+

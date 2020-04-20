@@ -1,0 +1,107 @@
+# Title
+Bangladeshi Organization Delivers a Lesson on Ending Child Labor
+
+
+# Paragraph
+
+Adv: The small space is set up to look like a classroom. <A1>Its corrugated iron walls are hung with educational charts – illustrated letters of the alphabet and a map of Bangladesh.</A1> <D2><D3>But, the constant sound of hammering and the chemicals in the air that catch in the back of the throat and irritate the eyes make it hard to concentrate.</D3></D2> <A3><A2>The children who learn in this three-square-meter room are the lucky ones, however. They have escaped <D1>working in the factories opposite.</D1></A2></A3>
+
+Int: The small space is set up to look like a classroom. <D3><A1>On its corrugated iron walls are educational charts – letters of the alphabet and a map of Bangladesh.</A1> But, it is hard to concentrate</D3> – <D2>there is the constant sound of hammering and chemicals in the air that stick in the back of the throat and irritate the eyes.</D2> <A3><A2>However, the children who learn in this three-square-meter room are the lucky ones. They have escaped <D1>working in the factories opposite.</D1></A2></A3>
+
+Ele: The small room looks like a classroom. <A1>The posters on the walls show letters of the alphabet and a map of Bangladesh.</A1> <D3>But, it is hard to concentrate – <D2>there is the loud hammering and chemicals in the air that hurt the throat and eyes.</D2></D3> <A3><A2>But, the children who learn in this three-square-meter room are lucky. They have escaped <D1>working in the factories opposite.</D1></A2></A3>
+
+Q: What is depicted on the walls?
+a: A map of a country
+b: Letters from several languages
+c: Images of factory workers
+d: Portraits of historical figures
+
+Q: Why are the people in the room lucky?
+a: They do not work in factories nearby
+b: They no longer need to study in a three-square-meter room
+c: They are not exposed to harmful chemicals in the air
+d: Their parents can afford sending them to a private school
+
+Q2: Which children are referred to as “lucky”?
+a: Children who study in a tiny classroom
+b: Children who found jobs after finishing school
+c: Children who are able to concentrate
+d: Children whose parents have jobs
+
+# Paragraph
+
+Adv: <D2>For 14 years, SOHAY,</D2> a grassroots <D3>non-governmental organization (NGO)</D3> funded by the Global Fund for Children and Comic Relief, has been working in slum areas of Dhaka to get child laborers into school. <D2><D1>It focuses on children working in hazardous conditions</D1></D2> – in aluminum and plastic factories, and tanneries. <A1>The classroom is one of 23 urban development centers that SOHAY has set up across the capital. The centers prepare children for primary school with classes that help them catch up on their education. Once they are in primary school, the children can do homework at the centers, with help from their peers.</A1> <A3><A2>Alamin, ten, who used to work in a plastic factory, attends one of the centers. His father is a street seller and his mother a part-time domestic worker. They are all happy that he’s now in school and away from hazardous work.</A2></A3> His friend Rabi says he wants to forget his past in the factory. “I like school,” he says. 
+
+Int: <D2>For 14 years, SOHAY,</D2> a grassroots <D3>non-governmental organization (NGO)</D3> funded by the Global Fund for Children and Comic Relief, has been working in slum areas of Dhaka to get child laborers into school. <D2><D1>It focuses on children working in hazardous conditions.</D1></D2> <A1>The classroom is one of 23 urban development centers that SOHAY has set up in the capital. The centers prepare children for primary school with classes that help them catch up on their education. Once they are in primary school, the children get help with their homework at the centers.</A1> <A3><A2>Alamin, ten, who used to work in a plastic factory, attends one of the centers. His father is a street seller and his mother a part-time domestic worker. They are all happy that he’s now in school and away from hazardous work.</A2></A3> His friend Rabi says he wants to forget his past in the factory. “I like school,” he says.
+
+Ele: <D2>For 14 years, SOHAY,</D2> <D3>a non-governmental organization (NGO),</D3> has worked in slums in Dhaka to send child workers to school. <D2>It especially tries to <D1>help children who do dangerous work.</D1></D2> <A1>The classroom is one of 23 centers that SOHAY has set up in Dhaka. The classes at the centers help children enter primary school. When they are in school, the children get extra help with their homework at the centers.</A1> <A3><A2>Alamin, ten years old, used to work in a plastic factory. He now goes to one of the centers. His parents are happy that he’s now in school and not doing dangerous work.</A2></A3> His friend Rabi says he wants to forget his past in the factory. “I like school,” he says.
+
+Q: What do the classes at the center do?
+a: Assist children with getting ready for primary school
+b: Provide children additional homework
+c: Teach children safety conditions for doing risky work
+d: Provide childcare for children while their parents are working
+
+Q: Who is Alamin?
+a: A former factory worker
+b: A teacher in one of the centers
+c: A 14 year old from SOHAY
+d: A factory owner who is against child labor
+
+Q2: What does Alamin currently do?
+a: Attends one of the learning centers
+b: Works at a plastic factory
+c: Volunteers at an NGO
+d: Rescues children from factories
+
+# Paragraph
+
+Adv: <D1>SOHAY also runs sessions for parents and employers</D1> to discourage child labor and offers skills training to increase family income. <A1>“Getting working children into formal education is really very challenging,” says SOHAY’s program manager, Mohammed al-Mamun. “Their psychological and physical condition is not like other children in society. After they leave work, <D3>they sometimes find it difficult to make friends and adapt to school.”</D3></A1> <D2>It is also very challenging to ensure they stay in school – the dropout rate is very high for these children.</D2> <A3><A2>Seven-year-old Zhorna Akter Sumayya has two older brothers, both of whom are in work (one at a restaurant, one at a local club). But, after being introduced to education at one of SOHAY’s centers, she now goes to a state primary school. Her parents can’t survive without the income their sons bring home, but they were keen for their daughter to go to school.</A2></A3> 
+
+Int: <D1>SOHAY also has sessions for parents and employers</D1> to discourage child labor and offers skills training to increase family income. <A1>“Getting working children into formal education is really very difficult,” says SOHAY’s program manager, Mohammed al-Mamun. “They are not like other children. After they leave work, <D3>they sometimes find it difficult to make friends and adapt to school.”</D3></A1> <D2>It is also very difficult to make sure they stay in school – lots of these children don’t finish school.”</D2> <A3><A2>Seven-year-old Zhorna Akter Sumayya has two older brothers – they are both in work (one at a restaurant, one at a local club). But, after her introduction to education at one of SOHAY’s centers, she now goes to a state primary school. Her parents can’t survive without the money their sons earn, but they wanted their daughter to go to school.</A2></A3>
+
+Ele: <D1>SOHAY also has classes for parents and employers</D1> to stop child labor. <A1>“It can be very difficult for working children to go to school,” says SOHAY’s program manager, Mohammed al-Mamun. “They are not like other children. After they stop working, <D3>they sometimes find it difficult to make friends and adapt to school.”</D3></A1> <D2>It is also difficult to make sure they stay in school – lots of these children don’t finish school.</D2> <A3><A2>Seven-year-old Zhorna Akter Sumayya has two older brothers – they both work (one at a restaurant, one at a local club). But, she went to a SOHAY center and she now goes to school. Her parents need the money their sons make, but they want their daughter to go to school.</A2></A3> 
+
+Q: What is a challenge working children face in regards to attending school, according to al-Mamun?
+a: It can be hard for them to assimilate to the school environment
+b: After they stop working, they miss their friends from the factory
+c: SOHAY's classes are intended for parents and employers, not children
+d: They don’t have enough preparation for the level of learning
+
+Q: What do Zhorna’s brothers do?
+a: They are both employed so that they can make money for their parents
+b: One works at a restaurant and a club, and the other goes to school
+c: They try their best to not drop out of school before finishing
+d: They help Zhorna with her homework after school
+
+Q2: Why do Zhorna’s brothers both work instead of attending school?
+a: Their family is reliant on their salaries to make ends meet
+b: They prefer helping their parents
+c: They found it too difficult to adapt to school
+d: The nearest school is too far to commute to daily
+
+# Paragraph
+
+Adv: <A3><A1><D2>In 2015, SOHAY helped 1,540 children to leave hazardous work</D2> and 2,125 vulnerable children – those in danger of entering work – into school. About 780 more children are preparing to enter school in 2017.</A1></A3> The organization is also helping 635 children who are working in hazardous conditions to know their rights under Bangladesh’s 2010 child labor elimination code of conduct. The policy aimed to eradicate all forms of child labor by 2015 but that target was missed. <A2><D1>The Labor Law of Bangladesh 2006 bans children under the age of 14 from working but, according to the UN children’s agency, UNICEF, 4.7 million children under that age are employed in the informal sector</D1> and <D3>1.3 million aged five to 17 work in hazardous industries.</D3></A2> 
+
+Int: <A3><A1><D2>In 2015, SOHAY helped 1,540 children to leave hazardous work</D2> and 2,125 more children – those in danger of starting work – into school. About 780 more children are preparing to enter school in 2017.</A1></A3> The organization is also helping 635 children who are working in hazardous conditions to know their rights. <A2><D1>The Labor Law of Bangladesh 2006 does not allow children under the age of 14 to work but, according to the UN children’s agency, UNICEF, 4.7 million children under that age are employed</D1> and <D3>1.3 million aged five to 17 work in hazardous industries.</D3></A2>
+
+Ele: <A3><A1><D2>In 2015, SOHAY helped 1,540 children to leave dangerous work</D2> and helped 2,125 more children – those who would soon start work – to go to school. About 780 more children are preparing to start school in 2017.</A1></A3> <A2><D1>The Labor Law of Bangladesh 2006 does not allow children younger than 14 to work but UNICEF says that, in Bangladesh, 4.7 million children younger than 14 are employed</D1> and <D3>1.3 million children aged five to 17 do dangerous work.</D3></A2>
+
+Q: What did SOHAY do in 2015?
+a: Assisted 2,125 children in attending school instead of beginning work
+b: Provided funds for 1,540 children in danger of leaving school
+c: Collaborated with UNICEF to reduce child labor
+d: Provided free classes for 3,000 children
+
+Q: What statistic does UNICEF provide about children in Bangladesh?
+a: 1.3 million children are employed in unsafe working conditions
+b: 4.7 million children are unable to attend school
+c: 1,540 children were able to leave risky work in 2015
+d: The children labor rates in Bangladesh are higher than in other countries
+
+Q1: How many children did SOHAY help leave work in 2015?
+a: 1,540
+b: 2,125
+c: 1.3 million
+d: 10,000

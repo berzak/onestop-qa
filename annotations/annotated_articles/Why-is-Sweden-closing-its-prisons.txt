@@ -1,0 +1,108 @@
+# Title
+Why is Sweden Closing its Prisons?
+
+
+# Paragraph
+
+Adv: <D1>Swedish prisons have long had a reputation around the world for being progressive. But are the country’s prisons a soft option?</D1> The head of Sweden’s prison and probation service, <D3>Nils Oberg, announced in November 2013 that four Swedish prisons are to be closed due to an “out of the ordinary” decline in prisoner numbers.</D3> <A1>Although there has been no <D2>fall in crime rates,</D2> between 2011 and 2012 there was a 6% drop in Sweden’s prisoner population, now a little over 4,500.</A1> A similar decrease is expected in 2013 and 2014. <A3><A2>Oberg admitted to being puzzled by the unexpected dip, but expressed optimism that the reason was to do with how his prisons are run. “We certainly hope that the efforts we invest in rehabilitation and preventing relapse of crime has had an impact,” he said.</A2></A3>
+
+Int: <D1>Swedish prisons have long had a reputation around the world for being progressive. But are the country’s prisons a soft option?</D1> The head of Sweden’s prison and probation service, <D3>Nils Oberg, said in November 2013 that four Swedish prisons will close due to an “out of the ordinary” fall in prisoner numbers.</D3> <A1>Although there has been no <D2>fall in crime rates,</D2> between 2011 and 2012 there was a 6% fall in Sweden’s prisoner population, now a little over 4,500.</A1> A similar decrease is expected in 2013 and 2014. <A3><A2>Oberg said he was puzzled by the unexpected fall, but hoped that the reason was to do with how his prisons are run. “We certainly hope that the efforts we put into rehabilitation and preventing criminals from reoffending has made a difference,” he said.</A2></A3>
+
+Ele: <D1>Swedish prisons have a reputation around the world for being liberal and modern. But are the country’s prisons too soft?</D1> The head of Sweden’s prison and probation service, <D3>Nils Oberg, said in November 2013 that four Swedish prisons will close because of an “out of the ordinary” drop in the number of prisoners.</D3> <A1>There has been no <D2>fall in crime rates,</D2> but, between 2011 and 2012, there was a 6% drop in the number of people in Sweden’s prisons, now a little over 4,500.</A1> <A3><A2>Oberg said he was confused by the drop in numbers, but hoped that the reason was to do with how his prisons are managed. “We certainly hope that the efforts we put into rehabilitation and into stopping criminals from reoffending has made a difference,” he said.</A2></A3>
+
+Q: What changed between 2011 and 2012? # a,b,c,d
+a: There are fewer people in Sweden’s prisons
+b: Crime rates in Sweden have dropped
+c: Swedish prisons became more liberal and progressive
+d: The Swedish government started publishing crime statistics
+
+Q: What does Oberg hope is the reason for the reduction in the number of prisoners in Sweden? # Q,b
+a: Fewer criminals commit crimes again due to rehabilitation practices
+b: Efforts to change the management team in prisons
+c: A fall in crime rates
+d: A new law that he passed
+
+Q2: Did Oberg anticipate the falling number of prisoners in Swedish prisons?
+a: No, he was surprised by the drop
+b: Yes, because of improved prison management and rehabilitation practices
+c: Yes, as he knew that four Swedish prisons had already closed in 2013
+d: No, he expected the number of prisoners to increase
+
+# Paragraph
+
+Adv: <D3>“The modern prison service in Sweden is very different from when I joined as a young prison officer in 1978,” says Kenneth Gustafsson, governor of Kumla Prison, Sweden’s most secure jail. However, he doesn’t think the system has gone soft. “When I joined, the focus was very much on humanity in prisons. <D2>Prisoners were treated well – maybe too well,</D2> some might say.</D3> <A3><A1>But, after a number of high-profile escapes in 2004, we had to implement changes to make prisons more secure.”</A1></A3> The Swedes still managed to maintain a broadly humane approach to sentencing, even of the most serious offenders: jail terms rarely exceed ten years. <A2>Sweden was the first country in Europe to introduce the electronic tagging of convicted criminals and continues to strive to <D1>minimize short-term prison sentences</D1> wherever possible by using community-based punishments, which have been proven to be more effective at reducing reoffending.</A2>
+
+Int: <D3>“The modern prison service in Sweden is very different from when I joined as a young prison officer in 1978,” says Kenneth Gustafsson, governor of Kumla Prison, Sweden’s most secure jail. However, he doesn’t think the system has gone soft. “When I joined, the focus was very much on humanity in prisons. <D2>Prisoners were treated well – maybe too well,</D2> some might say.</D3> <A3><A1>But, after a number of escapes in 2004, we had to implement changes to make prisons more secure.”</A1></A3> The Swedes still have a humane approach to sentencing, even of the most serious offenders: jail sentences are not usually more than ten years. <A2>Sweden was the first country in Europe to introduce the electronic tagging of convicted criminals and continues to <D1>keep prison sentences short</D1> wherever possible by using community-based punishments. These have been effective at stopping criminals from reoffending.</A2>
+
+Ele: <D3>“The modern prison service in Sweden is very different from when I joined as a young prison officer in 1978,” says Kenneth Gustafsson, governor of Kumla Prison, Sweden’s most secure jail. “When I joined, <D2>prisoners were treated well – maybe too well.</D2></D3> <A3><A1>But, after high profile escapes in 2004, we had to make the prisons more secure.”</A1></A3> In Sweden, prison sentences are not usually for more than ten years. <A2>Sweden was the first country in Europe to introduce the electronic tagging of criminals and it continues to <D1>keep prison sentences short</D1> when possible by using community-based punishments. These have stopped many criminals from reoffending.</A2>
+
+Q: What changed in Swedish prisons after 2004? # Q,a,d
+a: Prisons have become more secure
+b: There have been more high profile escapes
+c: Prison sentences have become shorter
+d: Prisoners were allowed to receive visitors more frequently
+
+Q: What is one measure that has been effective in preventing criminals from reoffending? # Q,a,b,c,d
+a: Short prison sentences
+b: Avoiding community-based punishments
+c: Good treatment of prisoners
+d: Extended prison times for reoffending
+
+Q1: What caused prisons to reevaluate their security in 2004? # b,c,d
+a: Multiple escapes from prisons
+b: The arrest of many high-profile prisoners
+c: Gustafsson’s complaint that prisoners were treated too well
+d: A request from the Swedish government
+
+# Paragraph
+
+Adv: <D3>The overall reoffending rate in Sweden stands at between 30 and 40% over three years – to compare that with another European country, the number is around half that of the UK.</D3> <A1><A3>One likely reason for the relatively low reoffending rate and the low rate of incarceration in Sweden (below 70 per 100,000 head of population) is that <D2>the age of criminal responsibility is set at 15.</D2></A3></A1> In the UK, for example, children aged ten to 17 and young people under the age of 21 record the highest reoffending rates: almost three quarters and two thirds, respectively. A good proportion of these offenders go on to populate adult jails. <A2><D1>In Sweden, no young person under the age of 21 can be sentenced to life</D1> – this is not the case in many other countries – and every effort is made to ensure that as few juvenile offenders as possible end up in prison.</A2>
+
+Int: <D3>The overall reoffending rate in Sweden is between 30 and 40% over three years – to compare that with another European country, the number is around half that of the UK.</D3> <A1><A3>One thing that has kept reoffending down and the number of prisoners in Sweden below 70 per 100,000 people is that <D2>the age of criminal responsibility is 15.</D2></A3></A1> In the UK, for example, children aged ten to 17 and young people under the age of 21 have the highest reoffending rates. <A2><D1>In Sweden, no young person under the age of 21 can be sentenced to life</D1> – this is not the case in many other countries – and they try to keep young offenders out of prison.</A2>
+
+Ele: <D3>The reoffending rate in Sweden is between 30 and 40% – to compare that with another European country, the number is around half that of the UK.</D3> <A1><A3>One thing that has kept reoffending down and the number of prisoners in Sweden below 70 per 100,000 people is that <D2>anyone under 15 cannot be responsible for their crime.</D2></A3></A1> <A2><D1>Also, in Sweden, no young person under the age of 21 can be sentenced to life</D1> – this is not the same in many other countries – and they try to keep young offenders out of prison.</A2>
+
+Q: What does “below 70 per 100,000” refer to? # a,b,c,d
+a: The number of people who sit in Swedish prisons
+b: The reoffending rate for people under 15 in Sweden
+c: The number of people under 21 sentenced to life in Sweden
+d: The success rate of prison escape attempts in Sweden
+
+Q: What is true of young offenders in many countries that is not true in Sweden? # Q,a,b,c,d
+a: Offenders under 21 can be given a life-term prison sentence
+b: Offenders under 21 are actively kept out of prison
+c: Offenders under 15 cannot be legally accountable for their crimes
+d: Offenders over 15 can be legally accountable for their crimes
+
+Q1: What is true of offenders under the age of 15 in Sweden? # Q,a,b,c,d
+a: They cannot be held responsible for crimes they commit
+b: The have a particularly low reoffending rate as compared to other age groups
+c: They have to be released from prison before they turn 21
+d: They find prison conditions harsh
+
+# Paragraph
+
+Adv: One strong reason for the drop in prison numbers might be the amount of post-prison support available in Sweden. <A1><A3>A confident probation service – a government agency – is tasked not only with supervising those on probation but is also guaranteed to provide treatment programs for offenders with drug, alcohol or violence issues.</A3> The service is assisted by around 4,500 lay supervisors – members of the public who <D2>volunteer to befriend and support offenders under supervision.</D2></A1> “In Sweden, we believe very much in the concept of rehabilitation, without being naive of course,” says <A2><D1>Gustafsson.</D1> <D3>“There are some people who will not or cannot change.</D3> But, in my experience, the majority of prisoners want to change, and we must do what we can to help to facilitate that. It is not always possible to achieve this in one prison sentence.”</A2>
+
+Int: One strong reason for the fall in prison numbers might be the amount of post-prison support available in Sweden. <A1><A3>A government-run probation service supervises people on probation and provides treatment programs for offenders with drug, alcohol or violence problems.</A3> The service is helped by around 4,500 members of the public who <D2>volunteer to befriend and support offenders under supervision.</D2></A1> “In Sweden, we believe very much in the idea of rehabilitation,” says <A2><D1>Gustafsson.</D1> <D3>“Of course, there are some people who will not or cannot change.</D3> But, in my experience, the majority of prisoners want to change and we must do what we can to help them.”</A2>
+
+Ele: One reason for the drop in prison numbers might be the amount of post-prison support available in Sweden. <A1><A3>A government-run probation service gives treatment programs to offenders with drug, alcohol or violence problems.</A3> Around 4,500 Swedes help the service – <D2>they volunteer to make friends with and support offenders.</D2></A1> “In Sweden, we believe very much in the idea of rehabilitation,” says <A2><D1>Gustafsson.</D1> <D3>“Of course, there are some people who will not or cannot change.</D3> But, in my experience, most prisoners want to change and we must do what we can to help them.”</A2>
+
+Q: Who helps the treatment programs for prisoners? # Q,b,d
+a: 4,500 volunteers
+b: Former offenders
+c: Gustafsson
+d: Religious organizations
+
+Q: What is something Gustafsson says about prisoners’ behavior? # a,b,c,d
+a: Some prisoners refuse or are unable to change
+b: Most prisoners have changed
+c: Prisoners often volunteer to support other offenders
+d: Prisoners behave fundamentally differently than other people
+
+Q1: What kind of programs are run by the Swedish government? # a,b,c,d
+a: Treatment programs for alcohol-related issues
+b: Support programs for violence victims
+c: Reform programs for reoffenders unwilling to change
+d: Programs allowing prisoners to get high school degrees
+

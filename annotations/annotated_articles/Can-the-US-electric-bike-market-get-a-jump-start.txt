@@ -1,0 +1,185 @@
+# Title
+Can the US Electric Bike Market Get a Jump Start?
+
+
+# Paragraph
+
+Adv: When <A1>Larry Pizzi</A1> first heard about <D1>electric bikes <D3>nearly 20 years ago,</D3></D1> he asked: “Why would anyone want to screw up a bike by putting a motor and batteries on it?” It’s a question that still puzzles traditionalists. Bicycle shops have been slow to stock e-bikes, even though they have been around since the late 1990s. Sales in the US have been modest. <A3><A1>Pizzi, who is now CEO of <D2>Currie Technologies, the number one seller of e-bikes in the US,</D2></A1></A3> believes that’s about to change. Others in the industry agree. <A2>Familiar brands including Trek, Raleigh and Specialized all offer electric models and they’re betting the market is about to take off.</A2> “We’re on the cusp of mainstream adoption,” Pizzi said. “There are more players entering the category, it seems, with every passing month.” 
+
+Int: When <A1>Larry Pizzi</A1> first heard about <D1>electric bikes <D3>nearly 20 years ago,</D3></D1> he asked: “Why would anyone want to screw up a bike by putting a motor and batteries on it?” It’s a question that still puzzles some people. Bicycle shops in the US do not usually sell e-bikes, even though they have been around since the late 1990s. <A3><A1>Pizzi, who is now CEO of <D2>Currie Technologies, the number one seller of e-bikes in the US,</D2></A1></A3> believes that’s about to change. Others in the bike industry agree. <A2>Familiar brands including Trek, Raleigh and Specialized all offer electric models and they believe that the market is about to take off.</A2>
+
+Ele: When <A1>Larry Pizzi</A1> first heard about <D1>electric bikes <D3>nearly 20 years ago,</D3></D1> he asked: “Why would anyone want to spoil a bike by putting a motor and batteries on it?” It’s a question that some people still ask. Many bicycle shops in the US do not sell e-bikes. <A3><A1>Pizzi is CEO of <D2>Currie Technologies, the number one seller of e-bikes in the US.</D2></A1></A3> He believes that things will change very soon. Other people who sell bikes agree. <A2>Familiar brands including Trek, Raleigh and Specialized all offer electric bikes and they believe that the market is going to grow.</A2>
+
+Q: Who is Larry Pizzi?
+a: The CEO of the largest company that sells e-bikes in the US
+b: The CEO of the first company to sell e-bikes in the US
+c: A CEO who used e-bikes almost 20 years ago
+d: A CEO who bikes to work every day
+
+Q: What do the bicycle brands Trek, Raleigh, and Specialized think will happen?
+a: That e-bike sales are going to expand
+b: That they will soon offer electric bikes
+c: That Currie Technologies will be the number one seller of e-bikes in the US
+d: That electric bikes will become lighter in the future
+
+Q1: What is Currie Technologies?
+a: A company that is headed by Larry Pizzi
+b: A company that will soon sell e-bikes
+c: A company founded nearly 20 years ago
+d: A company known for selling non-electric bikes
+
+# Paragraph
+
+Adv: <A1>The US is an outlier when it comes to electric bikes. <A3><D2>Nearly 32 million e-bikes were sold in 2014, the vast majority in China, where they are primarily used for transportation.</D2></A3></A1> <A2><D1>They are popular in much of Europe, too.</D1> They’re common in the Netherlands and Switzerland; German postal workers use them to get around and <D3>BMW offers one for about $3,000.</D3></A2>
+
+Int: <A1>The US is different from other countries when it comes to electric bikes. <A3><D2>Nearly 32 million e-bikes were sold in 2014, most of them in China, where they are mostly used for transportation.</D2></A3></A1> <A2><D1>They are popular in much of Europe, too.</D1> They’re common in the Netherlands and Switzerland; German postal workers use them to get around and <D3>BMW offers one for about $3,000.</D3></A2>
+
+Ele: <A1>The US is different from other countries when it comes to electric bikes. <A3><D2>Nearly 32 million e-bikes were sold in 2014, most of them in China, where people mostly use them for transportation.</D2></A3></A1> <A2><D1>They are popular in many parts of Europe, too.</D1> They’re common in the Netherlands and Switzerland; German postal workers use them and <D3>BMW sells one for about $3,000.</D3></A2>
+
+Q: What was true about the e-bike market in 2014?
+a: Most e-bike sales in the world were in China
+b: E-bike sales in China reached 32 million
+c: E-bike regulations emerged in many parts of Europe
+d: E-bike sales in Europe doubled from their level in 2013
+
+Q: Who uses e-bikes for work?
+a: People who work for the German post office
+b: People who work for BMW
+c: 32 million people around the world
+d: People who deliver food
+
+Q1: What is true of the e-bike market in China?
+a: It was the largest e-bike market in the world as of 2014
+b: Over 32 million e-bikes were sold there in 2014
+c: It is dominated by BMW
+d: It does not exist yet
+
+# Paragraph
+
+Adv: <A1>Electric bikes are different from motorcycles or mopeds, which rely on motorized power; <D3>they are bicycles that can be pedaled with – or without – assistance from an electric motor. <D2>Riding an e-bike feels like riding a conventional bike with a brisk tailwind;</D2></A1> <D1>the motor helps you go faster or climb hills</D1> but it’s typically not the primary source of propulsion.</D3> <A3><A2>Unlike mopeds, e-bicycles are usually permitted on bike paths and they can’t travel faster than 20mph.</A2></A3>
+
+Int: <A1>Electric bikes are different from motorcycles or mopeds, which rely on motorized power; <D3>they are bicycles that can be pedaled with – or without – help from an electric motor. <D2>Riding an e-bike feels like riding a normal bike with a strong wind behind you;</D2></A1> <D1>the motor just helps you go faster or climb hills.</D1></D3> <A3><A2>Unlike mopeds, e-bicycles are usually permitted on bike paths and they can’t travel faster than 20mph.</A2></A3>
+
+Ele: <A1>Electric bikes are different from motorcycles or mopeds, which use motors; <D3>you pedal an electric bike with – or without – help from an electric motor. <D2>Riding an e-bike feels like riding a normal bike with a strong wind behind you;</D2></A1> <D1>the motor just helps you go faster or climb hills.</D1></D3> <A3><A2>Unlike mopeds, you can usually ride e-bicycles on bike lanes and they can’t travel faster than 20mph.</A2></A3>
+
+Q: What is one difference between e-bikes and mopeds with regard to their motors?
+a: E-bikes can be ridden without using their motor
+b: E-bike motors are less resilient to wind
+c: E-bike motors are better suited for going fast uphill
+d: E-bike motors are quieter
+
+Q: What is one limitation of e-bikes?
+a: Their speed usually does not go above 20 mph
+b: They aren’t usually allowed to be ridden in bike lanes
+c: Their battery runs out quickly when ridden against the wind
+d: They are usually heavier than normal bikes
+
+Q2: When can you ride e-bikes on bike lanes?
+a: In most cases
+b: Whenever you ride slower than 20mph
+c: Whenever you ride without the help of the motor
+d: Never
+
+# Paragraph
+
+Adv: To succeed, the electric bike business in the US must clear legal, cultural and financial hurdles. <D2><D1>E-bikes are banned in some states,</D1> including New York, although the law isn’t strictly enforced.</D2> <A1>Traditionalists who own and staff bike shops don’t like putting motors on bicycles, citing, among other things, <D3>the added weight. Some e-bikes are close to 30kg.</D3></A1> E-bikes are also pricey. <A3><A2>While low-end models sell for as little as $700, Court Rye, the founder and editor of ElectricBikeReview.com, a popular website, says riders should expect to pay at least $1,500 for a quality e-bike with a good battery. Top-of-the-line models cost more than twice that.</A2></A3>
+
+Int: To succeed, the electric bike business in the US must overcome legal, cultural and financial obstacles. <D2><D1>E-bikes are banned in some states,</D1> including New York.</D2> <A1>Some people who own and work in bike shops don’t like putting motors on bicycles – one of the reasons is the extra weight. <D3>Some e-bikes weigh nearly 30kg.</D3></A1> E-bikes are also expensive. <A3><A2>While cheaper models sell for as little as $700, Court Rye, the founder and editor of ElectricBikeReview.com, a popular website, says riders should expect to pay at least $1,500 for a quality e-bike with a good battery. The best models cost more than twice that.</A2></A3>
+
+Ele: To succeed, the electric bike business in the US must overcome legal, cultural and financial challenges. <D2><D1>E-bikes are banned in some states</D1> in the US, including New York.</D2> <A1>Some bike shops don’t like putting motors on bicycles because it makes them too heavy. <D3>Some e-bikes weigh nearly 30kg.</D3></A1> E-bikes are also expensive. <A3><A2>While cheap bikes sell for just $700, you will pay at least $1,500 for a quality e-bike with a good battery. The best bikes cost more than $3,000.</A2></A3>
+
+Q: Why don’t some bike sellers want to put motors on bikes?
+a: Because they prefer the bikes to be lighter
+b: Because the bikes they sell already have a weight of almost 30kg
+c: Because motor sales are banned in some states
+d: Because they think e-bikes are unsafe
+
+Q: What is true of e-bike prices?
+a: They vary from several hundred to a few thousand dollars
+b: They cost at least $1,500
+c: They are exempt from taxes in states like New York
+d: They are getting cheaper
+
+Q2: What can you get for $1,500?
+a: A quality e-bike
+b: A low-tier e-bike
+c: A bike that weighs at least 30kg
+d: A bike that weighs at least 50kg
+
+# Paragraph
+
+Adv: The companies that make and sell e-bikes say they can overcome those obstacles. E-bike technology, particularly the batteries, is improving. <A3><A1>“Batteries are getting smaller, they’re getting lighter, they’re getting more reliable and they are lasting longer,” says Don DiCostanza, the founder and CEO of Pedego, an electric bikemaker and retailer.</A1></A3> Big companies like Bosch and Shimano are entering the business, which should help erode resistance from bike shops. <A2>In the meantime, lobbying efforts are underway to permit the use of e-bikes everywhere. Perhaps most importantly, as more cities build cycling infrastructure, including dedicated bike lanes, bicycle commuting has become more popular.</A2> <D3>As the US Census Bureau reported in 2014,</D3> <D1>the number of bike commuters grew from about 488,000 in 2000 to 786,000 in 2012.</D1> Electric bikes make commuting <D2>more practical</D2> – and fun – by easing worry about hills, headwinds and fatigue. 
+
+Int: The companies that make and sell e-bikes say they can overcome those obstacles. E-bike technology, particularly the batteries, is improving. <A3><A1>“Batteries are getting smaller, they’re getting lighter, they’re getting more reliable and they are lasting longer,” says Don DiCostanza, the founder and CEO of Pedego, an electric bikemaker and retailer.</A1></A3> Big companies like Bosch and Shimano are entering the business. This should help lower the resistance from bike shops. <A2>Perhaps most importantly, more cities are building cycling infrastructure including bike lanes so bicycle commuting has become more popular.</A2> <D3>As the US Census Bureau reported in 2014,</D3> <D1>the number of bike commuters grew from about 488,000 in 2000 to 786,000 in 2012.</D1> Electric bikes make commuting <D2>more practical</D2> – and fun – by reducing worry about hills, headwinds and tiredness.
+
+Ele: The companies that make and sell e-bikes say they can deal with those challenges. E-bike technology, particularly the batteries, is improving. <A3><A1>“Batteries are getting smaller, they’re getting lighter, they’re getting more reliable and they are lasting longer,” says Don DiCostanza, the CEO of Pedego, an electric bikemaker and retailer.</A1></A3> <A2>Perhaps most importantly, more cities are building bike lanes so bicycle commuting has become more popular.</A2> <D3>As the US Census Bureau reported in 2014,</D3> <D1>the number of bike commuters grew from about 488,000 in 2000 to 786,000 in 2012.</D1> Electric bikes make commuting <D2>more practical</D2> – and fun – because people don’t have to worry about hills, strong winds and tiredness.
+
+Q: What does DiCostanza say about e-bike batteries?
+a: They used to last for a shorter time
+b: They used to be smaller
+c: Their sales increased between 2000 and 2012
+d: They will soon be rechargeable at gas stations
+
+Q: Why has bicycle commuting become more popular?
+a: There are more bike lanes available for people to bike in
+b: More bikes are being built and distributed in cities
+c: It is more practical than commuting by car
+d: There is a recent trend of people wanting to be more active
+
+Q1: Who or what is DiCostanza?
+a: The head of a company
+b: A company that makes and sells electric bikes
+c: A worker of the US Census Bureau
+d: An opponent of e-bike technology
+
+# Paragraph
+
+Adv: <A1>Most of our customers are “aging baby boomers who want to rekindle the experience they had as a kid,” says Pedego’s Don DiCostanza.</A1> “The main reason they <D2>stopped riding bikes</D2> was because of hills.” Pedego has opened nearly 60 stores in the US and it has sold bikes to tour companies in San Francisco and Washington, DC. <A2><A3>ElectroBike, which operates 30 stores in Mexico, opened its first American store in <D1>Venice Beach, California</D1> in the autumn of 2014 and hopes to grow to 25 US stores in a year.</A3> CEO Craig Anderson says: “We want to help reduce traffic, help reduce our carbon footprint and promote a healthy lifestyle.”</A2> <D3>Startups like Pedego and ElectroBike will have to compete with big companies like Trek and Currie, which, in 2012, was acquired by Accell, a public company based in the Netherlands that is Europe’s market leader in e-bikes. Accell owns the Raleigh brand, as well as Haibike, an award-winning German electric bike.</D3> 
+
+Int: <A1>Most of our customers are “aging baby boomers who want to have the cycling experience they had as a kid,” says Pedego’s Don DiCostanza.</A1> “The main reason they <D2>stopped riding bikes</D2> was because of hills.” Pedego has opened nearly 60 stores in the US and it has sold bikes to tour companies in San Francisco and Washington, DC. <A2><A3>ElectroBike, which operates 30 stores in Mexico, opened its first American store in <D1>Venice Beach, California</D1> in the autumn of 2014 and hopes to grow to 25 US stores in a year.</A3> CEO Craig Anderson says: “We want to help reduce traffic, help reduce our carbon footprint and encourage a healthy lifestyle.”</A2> <D3>Startups like Pedego and ElectroBike will have to compete with big companies like Trek and Currie, which, in 2012, was acquired by Accell, a public company based in the Netherlands that is Europe’s market leader in e-bikes. Accell owns the Raleigh brand, as well as Haibike, an award-winning German electric bike.</D3>
+
+Ele: <A1>Most of our customers are “baby boomers who want to have the cycling experience they had as a kid,” says Pedego’s Don DiCostanza.</A1> “The main reason they <D2>stopped riding bikes</D2> was because of hills.” Pedego has opened nearly 60 stores in the US. <A2><A3>ElectroBike has 30 stores in Mexico. It opened its first American store in <D1>Venice Beach, California</D1> in 2014 and hopes to have 25 US stores in a year.</A3> CEO Craig Anderson says: “We want to help reduce traffic, help reduce our carbon footprint and encourage a healthy lifestyle.”</A2> He tells customers: “Ride this bike once and try not to smile.” <D3>Startups like Pedego and ElectroBike will have to compete with big companies like Trek, Currie, and Accell - the market leader in e-bikes in Europe. Accell owns the Raleigh brand, as well as Haibike, an award-winning German electric bike.</D3>
+
+Q: Who are the customers of Pedego, according to Don DiCostanza?
+a: Adults
+b: Kids
+c: Californians
+d: High-tech employees
+
+Q: According to Craig Anderson, what is one goal of ElectroBike?
+a: To contribute to people’s health
+b: To reduce ElectroBike’s carbon footprint
+c: To become bigger than Trek, Currie and Accell
+d: To to improve e-bike technology
+
+Q2: What does ElectroBike hope to accomplish within a year of opening its store in Venice Beach?
+a: Have 25 stores in the US 
+b: Have 30 stores in Mexico
+c: Sell more bikes than Accell
+d: Sell more bikes than General Electric
+
+# Paragraph
+
+Adv: “Accell has great expectations about e-bikes <D3>in North America,”</D3> Currie’s <A1>Larry Pizzi says. <D2>“While baby boomers are still a very important segment,</D2> we’re finding that a lot of younger people are now using e-bikes for transportation, instead of cars.”</A1> <A3><A2>Accell’s Yuba brand even sells a cargo bike with a stronger motor and rear rack. “You can carry two <D1>children,”</D1> says Pizzi. “You can carry 45kg of shopping. It’s a minivan alternative.”</A2></A3>
+
+Int: “Accell has great hopes for e-bikes <D3>in North America,”</D3> Currie’s <A1>Larry Pizzi says. <D2>“While baby boomers are still very important,</D2> we’re finding that a lot of younger people are now using e-bikes for transportation, instead of cars.”</A1> <A3><A2>Accell’s Yuba brand even sells a cargo bike with a stronger motor and rear rack. “You can carry two <D1>children,”</D1> says Pizzi. “You can carry 45kg of shopping. It’s a minivan alternative.”</A2></A3>
+
+Ele: Currie’s Larry Pizzi thinks that e-bikes will become popular <D3>in North America.</D3> <A1>Pizzi says <D2>“Baby boomers are still very important,</D2> but also a lot of young people are now using e-bikes for transportation, instead of cars.”</A1> <A3><A2>There is even a cargo bike with a stronger motor and rack at the back. “You can carry two <D1>children,”</D1> says Pizzi. “You can carry 45kg of shopping. It’s a minivan alternative.”</A2></A3>
+
+Q: According to Pizzi, which population is now using e-bikes?
+a: Young people
+b: People who can not afford cars
+c: Small children
+d: Wealthy people
+
+Q: What is true of the cargo bike?
+a: It can transport 45kg
+b: It can be ridden by children
+c: It is especially popular with baby boomers
+d: It is more expensive than regular e-bikes
+
+Q2: According to Pizzi, what is one benefit of the “cargo bike”?
+a: It can be used to transport children
+b: It has a stronger motor than a minivan
+c: It is manufactured in North America
+d: It is very stable compared to other bikes

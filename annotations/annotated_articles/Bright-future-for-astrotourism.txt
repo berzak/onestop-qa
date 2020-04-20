@@ -1,0 +1,133 @@
+# Title
+Bright Future for Astrotourism
+
+
+# Paragraph
+
+Adv: <A1>On Black Fell, looking down on Northumberland’s beautiful Kielder Water reservoir, a group of people <D3>wait in a car park next to a strange wooden building</D3> with a minimalist design beamed down from the future. This is Kielder Observatory, the center of Britain’s nascent astrotourism industry.</A1> And those waiting outside were the lucky ones. Many more had <D2>applied for a night of stargazing</D2> at the observatory but numbers are strictly limited. <A2>Inside, next to a woodburner and under dimmed lights, the observatory’s founder and lead astronomer, Gary Fildes, a former bricklayer with Tarzan hair, delivers a pep talk to his colleagues. <A3>The team discusses the prospect of seeing the northern lights but Fildes is doubtful. Instead, they decide to train their powerful telescopes on Jupiter and Venus and later to pick out stars such as <D1>Capella and Betelgeuse.</D1></A3></A2> An additional attraction is the appearance of the International Space Station.
+
+Int: <A1>On the top of a hill, looking down on Northumberland’s beautiful Kielder Water reservoir, a group of people <D3>wait in a car park next to a strange wooden building.</D3> They are looking for darkness and this is Kielder Observatory, the center of Britain’s latest industry – astrotourism.</A1> The people waiting outside are the lucky ones. Many more <D2>apply for a night of stargazing at the observatory but numbers are strictly limited.</D2> <A2>Inside, under a dim light, the observatory’s founder and lead astronomer, Gary Fildes, delivers a speech to his colleagues. <A3>The team discusses the prospect of seeing the northern lights but Fildes is doubtful. Instead, they decide to use their powerful telescopes to observe Jupiter and Venus and, later, to pick out stars such as <D1>Capella and Betelgeuse.</D1></A3></A2> An additional attraction is the appearance of the International Space Station.
+
+Ele: <A1>On the top of a hill, above Northumberland’s beautiful Kielder Water lake, a group of people are <D3>waiting in a car park next to a strange wooden building.</D3> They are here because of the darkness and this is Kielder Observatory, the center of Britain’s latest industry – astrotourism.</A1> The people who are waiting outside are lucky. Many more people <D2>apply for a night of stargazing at the observatory but not everyone can come because numbers are strictly limited.</D2> <A2>Inside, the observatory’s founder and lead astronomer, Gary Fildes, speaks to his colleagues. <A3>The team discusses that they might see the northern lights but Fildes doesn’t think they will. Instead, they decide to use their powerful telescopes to look at Jupiter and Venus and, later, to find stars such as <D1>Capella and Betelgeuse.</D1></A3></A2> An extra attraction is the appearance of the International Space Station.
+
+Q: What is located next to the Kielder Observatory?
+a: A car park
+b: A wooden building
+c: Capella and Betelgeuse
+d: A research center
+
+Q: Who mentions that it might be possible to see the northern lights?
+a: Members of a team of astronomers at Kielder Observatory
+b: The head astronomer of the Kielder Observatory, Gary Fields
+c: People who applied for a night of stargazing at the Kielder Observatory
+d: Tourists in Norway's National Observatory in Oslo
+
+Q2: What does Fildes’ team decide to do?
+a: Observe Jupiter and Venus
+b: Observe the northern lights
+c: Wait for more visitors to arrive from the car park
+d: Observe the moon
+
+# Paragraph
+
+Adv: “Remember,” Fildes tells his team, “it’s about interaction, it’s about entertainment, it’s about inspiring people.” <D1><D2>Fildes, 49, is at the forefront of the UK’s burgeoning astrotourism industry.</D2></D1> The pivotal moment for Northumberland came in 2013 when the entire national park housing Hadrian’s Wall, along with Kielder Water and Forest Park, some 1,500 square kilometers, was awarded Dark Sky Park status, the only one in England. Dark Sky Parks are rare. <A1><D3>The 2013 Star Count revealed that only 5% of the UK population can see more than 31 stars on a good night.</D3></A1> <A3><A2>The Tucson, Arizona-based International Dark-Sky Association (IDA) confers the status</A2> only on places that take major steps to avoid light pollution. Recipients must also prove their night skies are sufficiently dark. In Northumberland Dark Sky Park, as the area was rebadged, it is so dark that Venus casts a shadow on the Earth.</A3>
+
+Int: <D1><D2>Fildes, 49, is at the forefront of the UK’s growing astrotourism industry.</D2></D1> The key moment for Northumberland came in 2013 when the entire national park, about 1,500 square kilometers in area, was awarded Dark Sky Park status, the only one in England. Dark Sky Parks are rare. <A1><D3>The 2013 Star Count revealed that only 5% of the UK population can see more than 31 stars on a clear night.</D3></A1> <A3><A2>The Arizona-based International Dark-Sky Association (IDA) awards the status of Dark Sky Park</A2> only to places that take major steps to avoid light pollution. And those areas must also prove their night skies are dark enough. In Northumberland Dark Sky Park, as the area was renamed, it is so dark that Venus casts a shadow on the Earth.</A3>
+
+Ele: <D1><D2>Fildes is a leading figure in the UK’s growing astrotourism industry.</D2></D1> The key moment for Northumberland came in 2013 when the entire national park, about 1,500 square kilometers in area, got Dark Sky Park status. It is the only one in England. Dark Sky Parks are rare. <A1><D3>The 2013 Star Count showed that only 5% of the UK population can see more than 31 stars on a clear night.</D3></A1> <A3><A2>The International Dark-Sky Association (IDA) gives the status of Dark Sky Park</A2> only to places that take big steps to prevent light pollution. The areas must also prove their night skies are very dark. In Northumberland Dark Sky Park, it is so dark that Venus casts a shadow on the Earth.</A3>
+
+Q: What did the 2013 Star Count find? #Q,c,d
+a: That only a small portion of the population could see over 31 stars on a clear night
+b: That 5% of the UK population goes out to look at stars
+c: That Fieldes is the leading figure in the UK’s astrotourism industry
+d: That the UK is one of the best countries in the world for stargazing
+
+Q: What does the International Dark-Sky Association (IDA) do?
+a: Awards special status to parks
+b: Regulates light pollution across the world
+c: Oversees UK’s astrotourism industry
+d: Organizes astronomy conferences
+
+Q2: What is one criteria the International Dark-Sky Association looks for when awarding Dark Sky Park status to a park?
+a: Whether the park’s night sky is sufficiently dark
+b: Whether Venus casts a shadow over the park
+c: Whether over 31 stars can be seen on a clear night
+d: Whether the park is a popular region for tourism
+
+# Paragraph
+
+Adv: <A1><D2>Duncan Wise,</D2> visitor development officer for the Northumberland National Park Authority, helped to spearhead the campaign for dark-sky status. “We tend to look at landscape as everything up to the horizon,” Wise said. “But what about what’s above it?”</A1> Wise and others spent years drawing up their submission to the IDA, <D3>collecting reams of light readings</D3> and forming an alliance of local councils, parks’ bodies and community groups to produce an exterior lighting master plan that influences the construction of new developments in the area. Their efforts have been vindicated. Many of the 1.5 million who visit Northumberland each year are now aware of its Dark Sky status. <A2><A3>“We get a lot of people coming here to see the sky now,” says the man at the car-hire firm in Newcastle. “They come in autumn and winter, when it’s darkest. <D1>Good for the local hotels as they get business all year round now.”</D1></A3></A2>
+
+Int: <A1><D2>Duncan Wise,</D2> visitor development officer for the Northumberland National Park Authority, helped to lead the campaign for dark-sky status. “We tend to look at landscape as everything up to the horizon,” Wise said. “But what about what’s above it?”</A1> Wise and others spent years preparing their application to the IDA, <D3>collecting thousands of light readings</D3> and producing an exterior lighting master plan that influences the construction of new developments in the area. Their efforts have been rewarded. Many of the 1.5 million who visit Northumberland each year are now aware of its Dark Sky status. <A2><A3>“We get a lot of people coming here to see the sky now,” says the man at the car-hire firm in Newcastle. “They come in autumn and winter, when it’s darkest. <D1>It’s good for the local hotels because they get business all year round now.”</D1></A3></A2>
+
+Ele: <A1><D2>Duncan Wise,</D2> visitor development officer for the Northumberland National Park, helped to lead the campaign for dark-sky status. “We usually think that 'landscape' is everything up to the horizon,” Wise said. “But what about what’s above the horizon?”</A1> Wise and others spent years preparing their application to the IDA – <D3>they collected thousands of light readings.</D3> Because of their hard work, many of the 1.5 million tourists who visit Northumberland each year are now aware of its Dark Sky status. <A2><A3>“A lot of people come here to see the sky now,” says a man who works for a local car-hire company. “They come in autumn and winter, when it’s darkest. <D1>It’s good for the local hotels because tourists come all year round now.”</D1></A3></A2>
+
+Q: According to Duncan Wise, what do people normally consider as “landscape”?
+a: Everything below the horizon
+b: Everything below and above the horizon
+c: Everything that can be appreciated all year round
+d: Everything above sea level
+
+Q: Who is quoted as saying that hotels benefit from the park’s new Dark Sky status?
+a: An employee of a car-hire company
+b: A worker for a local hotel
+c: Duncan Wise
+d: The UK’s minister of tourism
+
+Q2: What is true of the autumn and winter in Northumberland?
+a: Many visitors come to see the sky then
+b: Local hotels are cheaper then
+c: It is possible to collect more light readings then
+d: Observatory tickets are cheaper then
+
+# Paragraph
+
+Adv: <A1><A3>Wise acknowledges that Northumberland needs to do more to capitalize on its scarce resource and believes the region needs a couple more observatories to ensure that visitors will see what they came for. <D2>A £14m national landscape discovery center, which he describes as the north’s answer to the Eden Project,</D2> will have an observatory when it is completed in a couple of years.</A3></A1> <A2>Fildes has grand designs. He is planning Britain’s first “astrovillage,” one that would house the largest public observatory in the world and boast a 100-seat auditorium, <D3>a 100-seat planetarium, a one-meter aperture telescope, and radiomagnetic and solar telescopes.</A2> The multimillion-pound project would feature a hotel</D3> and <D1>draw in 100,000 people a year, four times the number currently able to use the observatory. Fildes is cryptic about his backers but believes the astrovillage will be a reality by 2018.</D1>
+
+Int: <A1><A3>Wise agrees that Northumberland needs to do more to take advantage of its scarce resource. He believes the region needs a couple more observatories to ensure that visitors will see what they came for. <D2>A new £14m national landscape discovery center</D2> will have an observatory when it is completed in a couple of years.</A3></A1> <A2>Fildes has big ambitions. He is planning Britain’s first “astrovillage,” one that would contain the largest public observatory in the world and have a 100-seat auditorium, <D3>a 100-seat planetarium, a one-meter aperture telescope, and radiomagnetic and solar telescopes.</A2> The multimillion-pound project would also have a hotel</D3> and <D1>draw in 100,000 people a year, four times the number currently able to use the observatory. Fildes believes the astrovillage will be a reality by 2018.</D1>
+
+Ele: <A1><A3>Wise agrees that Northumberland needs to do more to take advantage of its dark skies, which are very rare. He believes the region needs more observatories to make sure that visitors will see what they came for. <D2>A new £14-million national landscape discovery center</D2> will have an observatory when it is completed in a couple of years.</A3></A1> <A2>Fildes has big ambitions. He is planning Britain’s first “astrovillage” – it would have the largest public observatory in the world, a 100-seat auditorium, <D3>a 100-seat planetarium, and radiomagnetic and solar telescopes.</A2> The multimillion-pound project would also have a hotel</D3> and <D1>attract 100,000 visitors a year – that is four times the number that are currently able to use the observatory. Fildes believes the astrovillage will be a reality by 2018.</D1>
+
+Q: Why does Wise believe Northumberland needs more observatories? #a,b,d
+a: So that more visitors will be able to view the dark skies
+b: So that the government will invest £14 million in the region
+c: So that 100,000 people can visit Northumberland by 2018
+d: So that the UK can attract more tourists from other countries
+
+Q: What is Fildes’ ambition?
+a: Creating Britain’s first “astrovillage”
+b: Replacing the observatory’s radiomagnetic and solar telescopes
+c: Creating a £14-million national landscape discovery center
+d: Starting a network of observatories around the world
+
+Q1: What will £14 million be used for?
+a: A visitor center with an observatory
+b: A nationwide landscape improvement project
+c: A complex of hotels
+d: A research program for studying outer space
+
+# Paragraph
+
+Adv: <D2>However, Northumberland faces competition. <A3><A1>Galloway Forest Park in Scotland also has Dark Sky Park status. Since Exmoor was designated Europe’s first International Dark Sky Reserve – one notch below Dark Sky Park – in 2011,</A1></A3> a range of local businesses offering stargazing breaks and safaris has sprung up.</D2> <D3>The UK will have to go some way to eclipse northern Chile, which boasts more than a dozen tourist observatories and has some of the clearest skies in the world.</D3> The Teide National Park in Tenerife is also becoming a major astrotourism destination. <A2>So, what is driving the desire to look upwards? The media have helped. TV presenters like Brian Cox have attracted a new generation of stargazers. Technology has also played a part. <D1>Apps such as Stellarium</D1> now turn smartphones into pocket-size planetariums.</A2> Ultimately, though, Fildes believes people are starting to appreciate what lies above.
+
+Int: <D2>However, Northumberland has competition. <A3><A1>Galloway Forest Park in Scotland also has Dark Sky Park status. Since Exmoor was designated Europe’s first International Dark Sky Reserve – one level below Dark Sky Park – in 2011,</A1></A3> a range of local businesses offering stargazing breaks and safaris has sprung up.</D2> <D3>The UK has a long way to go to rival northern Chile, which has more than a dozen tourist observatories and some of the clearest skies in the world.</D3> The Teide National Park in Tenerife is also becoming a major astrotourism destination. <A2>So, why do people want to look up into the night sky? The media have helped. TV presenters like Brian Cox have attracted a new generation of stargazers. Technology has also made astronomy more popular. <D1>Apps such as Stellarium</D1> now turn smartphones into pocket-size planetariums.</A2> But Fildes believes that, most importantly, people are starting to appreciate what lies above.
+
+Ele: <D2>However, Northumberland has competition. <A3><A1>Galloway Forest Park in Scotland also has Dark Sky Park status. Exmoor in south-west England became Europe’s first International Dark Sky Reserve – one level below Dark Sky Park – in 2011.</A1></A3> A number of local businesses there now offer stargazing holidays.</D2> <D3>The UK is not as good as northern Chile, which has more than ten tourist observatories and some of the clearest skies in the world.</D3> <A2>So, why do people want to look at the night sky? The media have helped. TV programmes about astronomy have attracted a new generation of stargazers. Technology has also made astronomy more popular. <D1>Apps such as Stellarium</D1> now turn smartphones into pocket-size planetariums.</A2> But Fildes believes that, most importantly, people are starting to appreciate the sky.
+
+Q: What was created in 2011?
+a: A Dark Sky Reserve
+b: A Dark Sky Park
+c: An app called “Stellarium”
+d: An app for astrological forecasts
+
+Q: What did apps like Stellarium contribute to?
+a: More public interest in the sky
+b: A better visitor experience in public planetariums
+c: The creation of new Dark Sky Parks in the UK
+d: Increased sales of telescopes
+
+Q1: How does the “Dark Sky Park” status differ from the “Dark Sky Reserve” status?
+a: Dark Sky Park is more exclusive
+b: Dark Sky Reserve is more exclusive
+c: Dark Sky Reserve is only awarded in Chile
+d: Dark Sky Park is only awarded in Norway

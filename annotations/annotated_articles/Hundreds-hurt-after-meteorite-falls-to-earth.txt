@@ -1,0 +1,159 @@
+# Title
+Hundreds Hurt after Meteorite Falls to Earth
+
+
+# Paragraph
+
+Adv: <A1>Galina Zaglumyonova was woken in her flat in central Chelyabinsk by an enormous explosion that blew in the balcony windows and shattered clay pots containing her few houseplants.</A1> When she jumped out of bed <D1>she could see a huge vapor trail</D1> hanging in the morning sky and hear the wail of car alarms from the street below. “I didn’t understand what was going on,” said Zaglumyonova. “There was a big explosion and then a series of little explosions. <D3><D2>My first thought was that it was a plane crash.”</D2></D3> What she had actually witnessed were the death throes of a ten-ton meteorite that plunged to Earth in a series of fireballs just after sunrise. <A3><A2>Officials put the number of people injured at almost 1,200, with more than 40 taken to hospital – most as a result of flying glass shattered by the sonic boom created by the meteorite’s descent. There were no reported deaths.</A2></A3>
+
+Int: <A1>Galina Zaglumyonova was woken in her flat in central Chelyabinsk by an enormous explosion that blew in the balcony windows and shattered pots containing her houseplants.</A1> When she jumped out of bed, <D1>she could see a huge vapor trail</D1> hanging in the morning sky and hear car alarms from the street below. “I didn’t understand what was going on,” said Zaglumyonova. “There was a big explosion and then a series of little explosions. <D3><D2>My first thought was that it was a plane crash.”</D2></D3> What she had actually witnessed was a ten-ton meteorite that fell to Earth in a series of fireballs just after sunrise. <A3><A2>Officials said almost 1,200 people had been injured, with more than 40 taken to hospital – most as a result of flying glass shattered by the sonic boom created by the meteorite’s fall. There were no reported deaths.</A2></A3>
+
+Ele: <A1>Galina Zaglumyonova was woken in her flat in central Chelyabinsk by a very big explosion that broke the balcony windows and broken pots containing her houseplants.</A1> When she jumped out of bed <D1>she could see a huge vapor trail</D1> in the morning sky and hear car alarms from the street below. “I didn’t understand what was going on,” said Zaglumyonova. “There was a big explosion and then lots of little explosions. <D3><D2>My first thought was that it was a plane crash.”</D2></D3> In fact, it was a ten-ton meteorite that fell to Earth in lots of pieces. <A2><A3>Almost 1,200 people were injured. More than 40 people were taken to hospital – most of them were hurt by flying glass.</A3> There were no deaths.</A2>
+
+Q: What happened in Galina's apartment because of the explosion?
+a: Pots were damaged
+b: The balcony collapsed
+c: The apartment filled up with vapor
+d: A chandelier fell off the ceiling
+
+Q: What happened to almost 1,200 people?
+a: They were hurt in the meteorite incident
+b: They were brought to the hospital
+c: They were in a plane crash
+d: They lost their homes
+
+Q2: Who arrived at the hospital?
+a: Over 40 people
+b: Almost 1,200 people
+c: Several survivors of a plane crash
+d: Several survivors of a hurricane
+
+# Paragraph
+
+Adv: The meteorite entered the atmosphere traveling at a speed of at least 33,000mph and broke up into chunks <D2>between 18 and 32 miles</D2> above the ground, according to a statement from the Russian Academy of Sciences. <A1><A3>The event caused panic in Chelyabinsk, a Russian city of one million people to the south of the Ural mountains,</A3></A1> as mobile phone networks swiftly became jammed by the volume of calls. Amateur video footage from the area, often peppered with the obscene language of frightened observers, showed the chunks of meteorite glowing more brightly as they approached the moment of impact. <A2>The vapor trail was visible for hundreds of miles around, <D3><D1>including in neighboring Kazakhstan.</D1></D3></A2>
+
+Int: The meteorite entered the atmosphere traveling at a speed of at least 33,000mph and broke up into pieces between <D2>18 and 32 miles</D2> above the ground, according to a statement from the Russian Academy of Sciences. <A1><A3>The event caused panic in Chelyabinsk, a Russian city of one million people to the south of the Ural mountains.</A3></A1> Mobile phone networks swiftly became jammed by the volume of calls. A video showed the pieces of meteorite glowing more brightly as they approached the moment of impact. <A2>The vapor trail was visible for hundreds of miles around, <D3><D1>including in neighboring Kazakhstan.</D1></D3></A2>
+
+Ele: The meteorite entered the atmosphere at a speed of at least 33,000 miles per hour and broke into pieces <D2>between 18 and 32 miles</D2> above the ground. <A1><A3>The event caused panic in Chelyabinsk, a Russian city of one million people to the south of the Ural mountains.</A3></A1> Mobile phone networks quickly became jammed by the large number of calls. A video showed the pieces of meteorite glowing more brightly as they approached the moment of impact. <A2>People could see the vapor trail for hundreds of miles, <D3><D1>even from neighboring Kazakhstan.</D1></D3></A2>
+
+Q: Where is Chelyabinsk located?
+a: In Russia
+b: In the Ural mountains
+c: In Kazakhstan
+d: In Ukraine
+
+Q: What was notable about the vapor trail left behind by the meteorite?
+a: It was noticeable from very far distances
+b: It was located in Kazakhstan
+c: It spanned between 18 and 32 miles
+d: It remained in the air for weeks
+
+Q1: Where do one million people live?
+a: In Chelyabinsk
+b: In the Ural mountains
+c: In Kazakhstan
+d: In Novosibirsk
+
+# Paragraph
+
+Adv: <A1><D3>Tatyana Bets was at work in the reception area of a hospital clinic in the center of the city when the meteorite struck.</D3> <A3>“First we noticed the wind, and then the room was filled with a very bright light and we could see a cloud of some unspecified smoke in the sky,” she said. Then, after a few minutes, came the explosions.</A3></A1> At least three craters were subsequently discovered, according to the Ministry of the Interior, and were being monitored by the military. <A2>One crater was more than six meters wide, while <D1>another lump of meteorite was reported to have slammed through the thick ice of a nearby lake.</D1></A2> <D2>Radiation levels at the impact sites were normal, according to local military officials.</D2>
+
+Int: <A1><D3>Tatyana Bets was at work in the reception area of a hospital clinic in the center of the city when the meteorite hit.</D3> <A3>“First we noticed the wind, and then the room was filled with a very bright light and we could see a cloud of smoke in the sky,” she said. Then, after a few minutes, the explosions came.</A3></A1> At least three craters were discovered, according to the Ministry of the Interior. <A2>One crater was more than six meters wide and <D1>another piece of the meteorite broke through the thick ice of a nearby lake.</D1></A2> <D2>Radiation levels at the impact sites were normal, according to the local military.</D2>
+
+Ele: <A1><D3>Tatyana Bets was at work in the reception area of a hospital clinic in the center of the city when the meteorite hit.</D3> <A3>“First we noticed the wind, and then the room was filled with a very bright light and we could see smoke in the sky,” she said. Then, after a few minutes, the explosions came.</A3></A1> At least three craters were found. <A2>One crater was more than six meters wide. <D1>Another piece of meteorite broke through the thick ice of a lake.</D1></A2> <D2>The local military said that the radiation levels at the impact sites were normal.</D2> 
+
+Q: What was Tatyana Bets doing as she noticed the wind, light and smoke?
+a: Working at the city center
+b: Hospitalized at a clinic
+c: Visiting a lake
+d: Preparing to go to bed
+
+Q: What is true of one of the meteorite fragments?
+a: It landed on a lake
+b: It was more than six meters wide
+c: It had abnormal radiation levels
+d: It formed at the backyard of a school
+
+Q1: What happened in the room Tatyana Bets worked in?
+a: It became bright
+b: There were explosions in it
+c: Its reception desk was impacted by a meteorite
+d: A fire started in it
+
+# Paragraph
+
+Adv: In Chelyabinsk itself, schools and universities were closed and many other staff told to go home early. <A1>About 200 <D2>children</D2> were among the injured. A steady stream of lightly injured people, most suffering cuts from flying glass, came into the clinic where Bets works.</A1> <A3><A2>She said a nearby college was particularly badly affected and many of the students were brought in suffering from fright. <D1>“There were a lot of girls from the college in shock.</D1> Some were very pale and many of them fainted,” she said.</A2></A3> Early estimates suggested more than 100,000 square meters of glass had been <D3>broken and 3,000 buildings hit.</D3> The total cost of the damage in the city was being valued at in excess of one billion roubles (£20m). 
+
+Int: In Chelyabinsk itself, schools and universities were closed and many other staff told to go home early. <A1>About 200 <D2>children</D2> were among the injured. A steady stream of lightly injured people, most suffering cuts from flying glass, came into the clinic where Bets works.</A1> <A3><A2>She said a nearby college was particularly badly affected and many of the students were brought in suffering from fright. <D1>“There were a lot of girls from the college in shock.</D1> Some were very pale and many of them fainted,” she said.</A2></A3> Early estimates suggested more than 100,000 square meters of glass had been <D3>broken and 3,000 buildings hit.</D3> The total cost of the damage in the city was being valued at more than one billion roubles (£20m).
+
+Ele: In Chelyabinsk, schools and universities were closed and people were told to go home early. <A1>About 200 <D2>children</D2> were injured. Many people, mostly with cuts from flying glass, came into the clinic where Bets works.</A1> <A3><A2>She said many of the students at a nearby college came to the hospital because they were scared. <D1>“There were a lot of girls from the college in shock,”</D1> she said.</A2></A3> More than 100,000 square meters of glass were <D3>broken and 3,000 buildings were hit.</D3> The total cost of the damage in the city is probably more than one billion roubles (£20 million).
+
+Q: What is true of most of the people who came into the clinic where Bets works?
+a: They were injured by glass
+b: They were children
+c: They were in shock
+d: They were brought in ambulances
+
+Q: Who was in shock, according to Bets?
+a: College students
+b: People injured by glass
+c: Children
+d: Hospital staff
+
+Q2: What does Bets say about the students of a nearby college?
+a: Many of them arrived at the hospital
+b: All the girls were in shock
+c: 3,000 of them were hit by wreckage from buildings
+d: They were not able to afford their medical bills
+
+# Paragraph
+
+Adv: <A1>The meteorite over Chelyabinsk arrived less than a day before <D3><D2>asteroid 2012 DA14</D2></D3> was expected to make the closest pass to Earth (about 17,510 miles) of any recorded cosmic body. But experts said the two events were linked by nothing more than coincidence.</A1> <A3><A2>Rumors and conspiracy theories, however, swirled in the first few hours after the incident. Reports on Russian state television and in local media suggested that <D1>the meteorite was</D1> engaged by local air defense units and <D1>blown apart</D1></A2></A3> at an altitude of more than 15 miles. 
+
+Int: <A1>The meteorite over Chelyabinsk arrived less than a day before <D3><D2>asteroid 2012 DA14</D2></D3> was expected to pass Earth very closely (about 17,510 miles). But experts said the two events were not connected.</A1> <A3><A2>There were lots of rumors and conspiracy theories, however, in the first few hours after the incident. Reports on Russian state television and in local media suggested that <D1>the meteorite was blown apart</D1> by local air defense units</A2></A3> at an altitude of more than 15 miles.
+
+Ele: <A1>The meteorite arrived a day before <D3><D2>asteroid 2012 DA14</D2></D3> passed Earth very closely (about 17,510 miles). But experts said the two events were not connected.</A1> <A3><A2>There were lots of rumors in the first few hours after the incident. Reports on Russian state television and in local media suggested that the Russian military <D1>blew apart the meteorite.</D1></A2></A3>
+
+Q: What is true of the asteroid 2012 DA14?
+a: It passed Earth without hitting it
+b: It hit earth 17,510 miles away from the landing site of the meteorite
+c: It was blown apart by the Russian military
+d: It created panic in Russia
+
+Q: What did rumours say about the Russian military and air defense?
+a: They exploded the meteorite into pieces
+b: They only responded to the incident after a few hours had passed
+c: They detected the asteroid 2012 DA14
+d: They ignored the impending meteorite
+
+Q2: What took place in the first few hours after the incident?
+a: A lot of press coverage and media speculation about the meteorite
+b: The Russian military announced that it blew apart the meteorite
+c: Panic about another impending crash from asteroid 2012 DA14
+d: Community service efforts to help people affected by the meteor
+
+# Paragraph
+
+Adv: <A1><A3>The ultranationalist leader of Russia’s Liberal Democrat party, Vladimir Zhirinovsky, said it was not a meteorite but military action by the United States, echoing much of the speculation voiced on amateur film footage. “It’s not a meteorite falling – <D2>it’s a test of new American weapons,”</D2> Zhirinovsky said. Some were quick to take advantage of the confusion. Enterprising people were offering lumps of meteorite for sale through internet sites within a few hours of the impact.</A3></A1> <D3>President Vladimir Putin and the Prime Minister, Dmitry Medvedev,</D3> were informed about the incident, and Putin convened a meeting with the head of the Emergency Situations Ministry. <A2><D1>“It’s proof that not only are economies vulnerable but the whole planet,” Medvedev said</D1></A2> at an economic forum in Siberia.
+
+Int: <A1><A3>The ultra-nationalist leader of Russia’s Liberal Democrat party, Vladimir Zhirinovsky, said it was not a meteorite but military action by the United States. “It’s not a meteorite falling – <D2>it’s a test of new American weapons,”</D2> Zhirinovsky said. Some were quick to take advantage. Enterprising people were offering pieces of meteorite for sale through internet sites within a few hours of the impact.</A3></A1> <D3>President Vladimir Putin and the Prime Minister, Dmitry Medvedev,</D3> were informed about the incident, and Putin called a meeting with the head of the Emergency Situations Ministry. <A2><D1>“It’s proof that not only are economies vulnerable but the whole planet,” Medvedev said</D1></A2> at an economic forum in Siberia.
+
+Ele: <A1><A3>The ultra-nationalist leader of Russia’s Liberal Democrat party, Vladimir Zhirinovsky, said it was not a meteorite. He said it was <D2>a weapons test by the United States.</D2> Some people were selling pieces of meteorite through internet sites within a few hours of the impact.</A3></A1> <D3>President Vladimir Putin and the Prime Minister, Dmitry Medvedev,</D3> were updated about the incident, and Putin met with the head of the Emergency Situations Ministry. <A2><D1>Prime Minister Dmitry Medvedev said that it shows us that the whole planet is vulnerable.</D1></A2>
+
+Q: What did Vladimir Zhirinovsky say?
+a: That an arms trial was conducted by another country
+b: That meteorite pieces were sold online
+c: That the event demonstrates how vulnerable Russia is
+d: That his thoughts are with the Russian people
+
+Q: What does Dmitry Medvedev say the incident shows?
+a: That other places can be affected by similar incidents
+b: That Russia is less vulnerable than other parts of the planet 
+c: That the United States has been testing weapons
+d: That more research about outer space is needed
+
+Q1: How did some people react to the meteorite crash?
+a: They attempted to profit off of it
+b: They expressed their support for Vladimir Zhirinovsky
+c: They blamed Putin and Medvedev
+d: They retreated into hiding in underground shelters

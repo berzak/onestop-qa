@@ -1,0 +1,134 @@
+# Title
+Spain’s Robin Hood
+
+
+# Paragraph
+
+Adv: They call him the Robin Hood of the banks, <A3><A1>a man who took out dozens of loans, worth almost half a million euros, with no intention of ever paying them back. Instead, Enric Duran handed the money out to projects that created and promoted alternatives to capitalism.</A1></A3> <D3><D1>After 14 months in hiding,</D1></D3> <D2>Duran is unapologetic, even though his activities could land him in jail.</D2> <A2>“I’m proud of what I did,” he said in an interview by Skype from an undisclosed location.</A2> 
+
+Int: They call him the Robin Hood of the banks, <A3><A1>a man who took out many loans worth almost half a million euros with no intention of ever paying them back. Instead, Enric Duran gave the money to projects that created and promoted alternatives to capitalism.</A1></A3> <D3><D1>After 14 months in hiding,</D1></D3> <D2>Duran is unapologetic, even though his activities could put him in jail.</D2> <A2>“I’m proud of what I did,” he said in an interview by Skype from a secret location.</A2>
+
+Ele: They call him the Robin Hood of the banks. <A3><A1>He is a man who took out loans for almost half a million euros and never paid the money back. Enric Duran gave the money to projects that created and supported alternatives to capitalism.</A1></A3> <D3><D1>Duran has spent 14 months in hiding.</D1></D3> <D2>He will not say he is sorry, even though he might go to prison for what he has done.</D2> <A2>“I’m proud of what I’ve done,” he said in an interview by Skype from a secret location.</A2>
+
+Q: What did Enric Duran do with the money he took from the banks? # b,c,d
+a: He gave the money to projects that were anti-capitalist
+b: He gave the money to projects that supported alternatives to socialism
+c: He hid the money for 14 months
+d: He gave the money to charities and humanitarian projects
+
+Q: How did Enric feel about taking money from banks? # b,c,d
+a: He was proud of it
+b: He refused to comment in his Skype interview
+c: He was sorry he wasn’t able to take more money
+d: He denied that he has ever taken money from banks
+
+Q1: What was Duran’s relationship to anti-capitalist projects? # Q,a,b,c,d
+a: He supported them financially
+b: He managed them
+c: He had ties with them that were cut after 14 months
+d: He was opposed to them
+
+# Paragraph
+
+Adv: From 2006 to 2008, Duran took out 68 commercial and personal loans from <D2>39 banks in Spain.</D2> <A1><D3>He farmed the money out to social activists, funding speaking tours against capitalism and TV cameras for a media network.</A1> <D1>“I saw that, on one side, these social movements were building alternatives but that they lacked resources and communication capacities,”</D1></D3> he said. <A3><A2>“Meanwhile, our economy was perpetually growing, which lead to a system that created money out of nothing.”</A2></A3>
+
+Int: From 2006 to 2008, Duran took out 68 commercial and personal loans from <D2>39 banks in Spain.</D2> <A1><D3>He gave the money to social activists, who used it to pay for speaking tours against capitalism and TV cameras for a media network.</A1> <D1>He said he saw that these social movements were building alternatives but that they didn’t have enough money.</D1></D3> <A3><A2>“Meanwhile, constant growth was creating a system that created money out of nothing.”</A2></A3>
+
+Ele: From 2006 to 2008, Duran took out 68 loans from <D2>39 banks in Spain.</D2> <A1>He gave the money to social activists. <D3>They used the money to pay for speaking tours against capitalism and TV cameras for a media network.</A1> <D1>He said that these social activists didn’t have enough money.</D1></D3> <A3><A2>At the same time, he said, the economy was constantly growing, which created money from nothing.</A2></A3>
+
+Q: What was the money Duran took from the banks used for? # b,c,d # d
+a: Speeches and equipment for campaigns against capitalism
+b: Funding for pro-capitalism activists and media networks
+c: Helping social activists have enough money for their basic needs
+d: Aid for unemployed and homeless people
+
+Q: What does Duran believe was wrong with Spain’s economic system? # Q,b,c
+a: Spain was trying to create money from nothing
+b: Spain’s economy wasn’t growing
+c: Spain has only 39 banks
+d: Spain was not able to pay its debts
+
+Q2: How has Spain’s economic situation been changing, according to Duran? # Q,a,b,c,d  # p
+a: The economy has been continually expanding
+b: The economy has been increasingly lacking money
+c: The economy was slowed down by funding of social campaigns and media networks
+d: The country has been gradually recovering from an economic crisis
+
+# Paragraph
+
+Adv: The loans Duran swindled from banks were his way of regulating and denouncing this situation, he said. He started slowly. <A1><D2>“I filled out a few credit applications with my real details.</D2> <D3>They denied me,</D3></A1> but I just wanted to get a feel for what they were asking for.” From there, the former table-tennis coach began to weave an intricate web of accounts, payments and transfers. <D1>“I was learning constantly.”</D1> <A3><A2>By the summer of 2007, he had discovered how to make the system work, applying for loans under the name of a false television production company. “Then, I managed to get a lot.” €492,000, to be exact.</A2></A3>
+
+Int: The loans Duran swindled from banks were his way of regulating and denouncing this situation, he said. He started slowly. <A1><D2>“I filled out a few credit applications with my real details.</D2>  <D3>They said no,</D3></A1> but I just wanted to understand what they were asking for.” From there, the former table-tennis coach began to set up a confusing web of accounts, payments and transfers. <D1>“I was learning constantly.”</D1> <A3><A2>By the summer of 2007, he had discovered how to make the system work – he applied for loans under the name of a false television production company. “Then, I managed to get a lot.” €492,000, to be exact.</A2></A3>
+
+Ele: The loans Duran took out dishonestly from banks were his way of showing that this situation was wrong, he said. He started slowly. <A1><D2>He tried to take out a few bank loans using his real details.</D2> <D3>The banks said no.</D3></A1> Then, he learned how to get money from the banks. <D1>“I was learning all the time.”</D1> By the summer of 2007, <A3><A2>he learned how to make the system work – he took out loans under the name of a false television production company. This way, he got a lot of money. €492,000, to be exact.</A2></A3>
+
+Q: Why did the banks reject Duran’s loan applications at first? # Q,b,c,d
+a: He provided his real information, based on which he wasn’t eligible for loans
+b: A few important details were missing from his applications
+c: The banks suspected he was trying to learn how the banking system operates
+d: The banks thought that he was cheating
+
+Q: How did Duran obtain a lot of money in 2007? # c,d
+a: He took out extensive loans on behalf of a fake company
+b: He struck a deal with a television production company
+c: He leveraged the few bank loans he previously took out using his real details
+d: He requested loans from banks outside of Spain
+
+Q2: How much money did Duran manage to take out in loans? # Q,a,b,c,d
+a: €492,000 in total
+b: A lot, with the largest single loan amounting to €492,000
+c: The banks refused to give him money
+d: He refused to disclose the total amount
+
+# Paragraph
+
+Adv: Duran was arrested in Spain in 2009, on charges brought against him by six of the 39 banks that had lent him money. <D3>He spent two months in prison before being bailed for €50,000.</D3> <A3><A1>In February 2013, facing up to eight years in prison, he decided to flee rather than stand trial.</A1></A3> “I don’t see legitimacy in a judicial system based on authority, because I don’t recognize its authority,” he said. <A2>His actions, he said, were in the vanguard of a worldwide debate on the economic crisis. <D1>The timing pushed the anti-capitalist movement into the light,</D1></A2> <D2>just as many Spaniards were seeking alternatives to a system that had wreaked havoc on their lives.</D2>
+
+Int: Duran was arrested in Spain in 2009, on charges brought against him by six of the 39 banks that had lent him money. <D3>He spent two months in prison before being let out on €50,000 bail.</D3> <A3><A1>In February 2013, threatened with up to eight years in prison, he decided to flee rather than stand trial</A1></A3> because, he said, he doesn’t recognize the authority of the judicial system. <A2>His actions, he said, were an important part of a worldwide debate on the economic crisis. <D1>The timing pushed the anti-capitalist movement into the light,</D1></A2> <D2>just as many Spaniards were looking for alternatives to a system that has caused chaos in their lives.</D2>
+
+Ele: Duran was arrested in Spain in 2009. <D3>He spent two months in prison; then, they let him out on €50,000 bail.</D3> <A3><A1>In February 2013, with the possibility of up to eight years in prison, he decided to run away.</A1></A3> <A2><D1>His actions in 2006 to 2008 made many people notice the anti-capitalist movement for the first time.</D1></A2> <D2>This happened at a time when many Spanish people were looking for alternatives to a system that has caused problems in their lives.</D2>
+
+Q: Why did Duran leave Spain? # Q,a,b
+a: He could be sentenced to substantial prison time 
+b: He was sentenced to eight years in prison
+c: He wanted to draw international attention to his anti-capitalist movement
+d: He was ordered by the authorities to leave the country
+
+Q: What effect did Duran’s actions before his arrest have? # a,c,d
+a: More people became aware of the anti-capitalist movement
+b: More people became anti-capitalist
+c: People began searching for alternatives to the current system
+d: Taking money from the banks became harder
+
+Q1: How much prison time would Duran have to serve if he hadn’t fled Spain? # Q,a,b,c,d
+a: Up to eight years
+b: One year (the year 2013)
+c: Two months
+d: A life sentence
+
+# Paragraph
+
+Adv: While the same actions would probably be better understood in today’s Spain, he said that they would not be needed. <D3><D2><D1>The anti-capitalist movement has grown from a fringe movement to one supported by thousands of Spaniards, he said, evidenced by the widely supported movements such as the Indignados.</D1></D2></D3> Duran is widening his focus to include Spain’s justice system, by promoting restorative justice. <A1>“The people in Spain who believe that banks don’t work, they think that I don’t owe anything. I also think that,” he said. “But there is a part of a population that is not in agreement with us and I think I should respond to that.”</A1> <A2><A3>In his case, he said, the element of reciprocity he could offer to banks might lie in the insight he gleaned from years of obtaining bank loans fraudulently.</A3> He could share his thoughts on “which best practices work and the bad ones that don’t, for the general population and for bank workers”.</A2>
+
+Int: <D3><D2><D1>In today’s Spain, the anti-capitalist movement, and groups such as the Indignados, are supported by thousands of Spaniards.</D1></D2></D3> Duran is now widening his focus to include Spain’s justice system, by promoting restorative justice. <A1>“The people in Spain who believe that banks don’t work, they think that I don’t owe anything. I’ve already done my work,” he said. “But there is a part of a population that is not in agreement with us and I think I should respond to that.”</A1> <A2><A3>In his case, he said, he could offer banks the insight he got from years of obtaining bank loans fraudulently.</A3> He could share his thoughts on “which best practices work and the bad ones that don’t,” he suggested, “for the general population and for bank workers”.</A2>
+
+Ele: <D3><D2><D1>In today’s Spain, thousands of people support the anti-capitalist movement and groups such as the Indignados.</D1></D2></D3> <A1>Duran says he does not want to give back the money to the banks</A1> but he can offer them something. <A2><A3>He learned a lot in the years when he was taking loans out dishonestly,</A3> so he can show the banks how they can improve things for people in general and for bank workers.</A2>
+
+Q: How much money is Duran willing to return to the banks? # Q,a,b,c,d
+a: He is not willing to give any money back
+b: Nothing; in fact, he thinks that the banks are the ones that owe him money
+c: He is willing to return money to banks that give loans to social movements such as the Indignados
+d: He hasn’t decided yet
+
+Q: Who does Duran plan to share the knowledge he gained with? # Q,a,b
+a: The Spanish banks
+b: The general public
+c: Members of the Spanish anti-capitalist movement
+d: Non-profit organizations
+
+Q2: How did Duran learn about the Spanish banking system? # b,d,c
+a: Through his experience lying to banks to get loans
+b: Through others who took out loans honestly
+c: Through meetings with members of anti-capitalist movements
+d: Through books that he read
+

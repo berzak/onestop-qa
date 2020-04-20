@@ -1,0 +1,133 @@
+# Title
+Nepal’s Tiger Population on the Rise
+
+
+# Paragraph
+
+Adv: <D3>Tigers are more numerous in Nepal than at any time since the 1970s, a new census has revealed, giving conservationists hope that the big cats, whose numbers have been dropping across south Asia for 100 years, can be saved.</D3> <A1>The number of wild royal bengal tigers in Nepal has increased to 198 – a 63.6% rise in five years – the government survey showed.</A1> <D2>“This is very encouraging,” said Maheshwar Dhakal, an ecologist with Nepal’s Department of National Parks and Wildlife Conservation.</D2> <A3><A2>The census is based on the examination of pictures from more than <D1>500 cameras placed in five protected areas</D1> and three wildlife corridors. More than 250 conservationists and wildlife experts worked on the survey, which cost about £250,000.</A2></A3>
+
+Int: <D3>According to a new census, there are more tigers in Nepal than at any time since the 1970s. This has given conservationists hope that the big cats, whose numbers have been dropping across south Asia for 100 years, can be saved.</D3> <A1>The number of wild royal bengal tigers in Nepal has increased to 198 – a 63.6% rise in five years – the government survey showed.</A1> <D2>“This is very good news,” said Maheshwar Dhakal, an ecologist with Nepal’s Department of National Parks and Wildlife Conservation.</D2> <A3><A2>The census is based on the examination of pictures from more than <D1>500 cameras in five protected areas</D1> and three wildlife corridors. More than 250 conservationists and wildlife experts worked on the survey, which cost about £250,000.</A2></A3>
+
+Ele: <D3>According to a new survey, there are more tigers in Nepal than at any time since the 1970s. The number of big cats has been decreasing in south Asia for 100 years, but conservationists now hope that we can save them.</D3> <A1>The number of wild royal bengal tigers in Nepal has increased to 198 – a 63.6% increase in five years – the survey showed.</A1> <D2>“This is very good news,” said Maheshwar Dhakal, an ecologist with Nepal’s Department of National Parks and Wildlife Conservation.</D2> <A3><A2>The survey looked at pictures from more than <D1>500 cameras in five protected areas</D1> and three wildlife corridors. More than 250 conservationists and wildlife experts worked on the survey, which cost about £250,000.</A2></A3>
+
+Q: What has happened to Nepal’s royal bengal tiger population over the past five years?
+a: It has increased and has now reached 198 tigers
+b: It has increased by 198 tigers
+c: It has increased by 500 tigers in five protected areas
+d: It has steadily decreased
+
+Q: What was done as part of the tiger population study?
+a: Pictures were taken in wildlife areas
+b: 500 cameras were mounted on tigers
+c: Dhakal was hired by Nepal’s Department of National Parks
+d: Experts from other countries were brought over to Nepal
+
+Q2: What is true of conservationists and wildlife experts working on the survey?
+a: There were more than 250 of them
+b: Some of them were paid £250,000
+c: There were more of them than at any time since the 1970s
+d: Many of them came to Nepal from other countries
+
+# Paragraph
+
+Adv: <D2><D1><D3>Increasing prosperity in Asia has pushed up prices for tiger skins</D3></D1></D2> and the body parts used in traditional Chinese medicines. <A1><A3>International gangs pay poor local Nepali significant sums to kill the cats. The skin and bones are handed to middlemen, who pass easily through the porous border to India, where the major dealers are based.</A3></A1> <A2>One major problem is complicity between senior officials and mafia networks involved in the trade.</A2>
+
+Int: <D2><D1><D3>Increasing wealth in Asia has led to higher prices for tiger skins</D3></D1></D2> and the body parts used in traditional Chinese medicines. <A1><A3>International gangs pay poor local Nepali large amounts of money to kill the cats. The skin and bones are given to middlemen, who pass easily through the border with India, where the major dealers are based.</A3></A1> <A2>One major problem is that some senior officials help mafia networks involved in the trade.</A2>
+
+Ele: <D2><D1><D3>Some rich people want tiger skins.</D3></D1></D2> Tiger body parts are used in traditional Chinese medicine. <A1><A3>International gangs pay poor local Nepali people large amounts of money to kill the cats. The skin and bones are taken through the border to India, where the big dealers are.</A3></A1> <A2>One big problem is that some senior officials help the mafia who are involved in the illegal buying and selling.</A2>
+
+Q: What do international gangs do?
+a: Pay others to kill tigers
+b: Kill tigers
+c: Use tiger skins for clothing
+d: Raise tigers for sale
+
+Q: What is one problem with some of the senior officials in Nepal which hinders the reduction of the tiger trade?
+a: They help the mafia trade tigers
+b: They are part of the mafia
+c: They buy tiger skins
+d: They publicly support the tiger trade
+
+Q1: How are poor locals involved in the tiger trade?
+a: They kill tigers
+b: They provide international gangs with information in exchange for money
+c: They make clothes from tiger skins
+d: They raise tigers for sale
+
+# Paragraph
+
+Adv: <A3><A1><D2>Conservation experts credit the increase in numbers to the effective policing of national parks,</D2> stronger anti-poaching drives and better management of tiger habitats in Nepal, where forests cover 29% of the land.</A1> But they say Nepal needs to do more to protect the habitat and animals on which tigers prey so the big cats have enough space to roam and food to eat.</A3> <A2><D3><D1>As the number of tigers has increased over the years, so have incidents of conflict with villagers. Seven people were killed in attacks by tigers around national parks in 2012 compared to four in 2011, park officials said. Villagers are also seeking better protection.”</D1></D3></A2>
+
+Int: <A3><A1><D2>Conservation experts believe that the increase in tiger numbers is the result of better policing of national parks</D2> and better management of tiger habitats in Nepal, where forests cover 29% of the land.</A1> But they say Nepal needs to do more to protect the habitat and animals on which tigers feed so the big cats have enough space to roam and food to eat.</A3> <A2><D3><D1>As the number of tigers has increased over the years, conflict with villagers has increased, too. Seven people were killed in attacks by tigers around national parks in 2012 compared to four in 2011, park officials said. Villagers also want better protection.</D1></D3></A2>
+
+Ele: <A3><A1><D2>Conservation experts believe that tiger numbers have increased because the police are controlling national parks better,</D2> and because there is now better management of tiger habitats in Nepal, where forests cover 29% of the land.</A1> But they say Nepal must do more to protect the habitat and animals that tigers eat so the big cats have enough space to move around and food to eat.</A3> <A2><D3><D1>The number of tigers has increased but attacks on villagers have increased, too. Seven people were killed in attacks by tigers around national parks in 2012 compared to four in 2011, park officials said. Villagers also want better protection.</D1></D3></A2>
+
+Q: According to conservation experts, what is one reason for the increase in the tiger population in Nepal?
+a: Better management of areas where tigers live
+b: Forests now cover 29% of the land in tiger habitats
+c: Fewer attacks by villagers
+d: More severe punishments for tiger hunting
+
+Q: What is one consequence of the increase in the number of tigers in Nepal?
+a: More people are killed by tigers in villages
+b: More people are visiting Nepal’s national parks
+c: More police surveillance around national parks
+d: More international tourists are visiting Nepal’s zoos
+
+Q1: What do conservation experts say has changed with respect to tiger habitats?
+a: They are better managed
+b: They occupy more space
+c: They receive more protection from villagers
+d: They are cleaner
+
+# Paragraph
+
+Adv: The government is making conservation plans for tigers. <D1><D3>But it should also come up with plans to protect people from tigers,” Krishna Bhurtel, a local village headman in Chitwan, told Nepali newspaper Nagarik.</D3></D1> <A3><A1>Wildlife authorities captured a tiger in Chitwan after it killed two people, including a villager who was pulled from his bed in May.</A1></A3> <A2>Thousands of tigers once roamed the forests in Bangladesh, India and Nepal. But their numbers have dropped to about 3,000, a 95% drop over a century.</A2> <D2>Chitwan National Park in central Nepal has the highest number of adult tigers, with 120,</D2> followed by Bardiya National Park (50) and Shukla Phanta Wildlife Reserve (17).
+
+Int: “The government is making conservation plans for tigers. <D1><D3>But it should also produce plans to protect people from tigers,” Krishna Bhurtel, a village headman, told a Nepali newspaper.</D3></D1> <A3><A1>Wildlife authorities captured a tiger after it killed two people, including a villager who was pulled from his bed in May.</A1></A3> <A2>Thousands of tigers once roamed the forests in Bangladesh, India and Nepal. But their numbers have dropped to about 3,000, a 95% drop over a century.</A2> <D2>Chitwan National Park in central Nepal has the highest number of adult tigers, with 120,</D2> followed by Bardiya National Park (50) and Shukla Phanta Wildlife Reserve (17).
+
+Ele: “The government is making conservation plans for tigers. <D1><D3>But it should also make plans to protect people from tigers,” Krishna Bhurtel, a village leader, told a Nepali newspaper.</D3></D1> <A3><A1>Recently, a tiger was captured after it killed two people, including a villager who was pulled from his bed in May.</A1></A3> <A2>Thousands of tigers used to live in the forests in Bangladesh, India and Nepal. But their numbers have decreased to about 3,000, a 95% decrease in one hundred years.</A2> <D2>Chitwan National Park in central Nepal has the most adult tigers, with 120,</D2> followed by Bardiya National Park (50) and Shukla Phanta Wildlife Reserve (17).
+
+Q: What happened in a recent tiger incident in a village?
+a: A tiger killed two people
+b: A tiger killed two people and pulled a third from his bed
+c: A tiger protected villagers
+d: Villagers saved a tiger
+
+Q: What happened to the tiger population of Bangladesh, India and Nepal in the past hundred years?
+a: It decreased by 95%
+b: It decreased by 3,000 tigers
+c: It decreased to 120 tigers
+d: It decreased to 10 tigers
+
+Q1: What happened in May?
+a: A tiger attacked villagers
+b: Two villagers captured a tiger
+c: The government announced a plan for protecting villagers from tigers
+d: The government announced a ban on tiger hunting
+
+# Paragraph
+
+Adv: <A3><A1>Dhakal said that a parallel survey was conducted in India and the results from both countries will be published later in 2013. “It will take a few more months for India, which now has 1,300 big cats in several huge protected areas, to finalize the data,” he added.</A1></A3> <D3><D1>Nepal has pledged to double its own population of tigers by the year 2022 from 121 in 2009 when the last systematic tiger count took place.</D1></D3> Diwakar Chapagain, who heads a World Wildlife Fund Nepal unit that monitors wildlife trade, said tiger skins were in demand in Tibet, where well-heeled people use them as festival costumes. <A2>In Nepal, kings used to stand on tiger skins for special occasions.</A2> <D2>Some affluent Nepali have mounted tiger heads on the walls of their living rooms.</D2> Tiger bones are in high demand for use in traditional Chinese medicines.” The trade in tiger parts is lucrative and fetches thousands of dollars in illegal markets,” Chapagain said.
+
+Int: <A3><A1>Dhakal said that a similar survey was done in India and the results from both countries will be published later in 2013. “It will take a few more months for India, which now has 1,300 big cats in several huge protected areas, to finish the survey,” he added.</A1></A3> <D3><D1>Nepal has promised to double its own population of tigers by the year 2022 from 121 in 2009 when the last systematic tiger count took place.</D1></D3> Diwakar Chapagain, head of a World Wildlife Fund Nepal unit that monitors wildlife trade, said tiger skins were in demand in Tibet, where rich people use them as festival costumes. <A2>In Nepal, kings used to stand on tiger skins for special occasions.</A2> <D2>Some wealthy Nepali have tiger heads on the walls of their living rooms.</D2> Tiger bones are used in traditional Chinese medicines. “The trade in tiger parts is lucrative and fetches thousands of dollars in illegal markets,” Chapagain said.
+
+Ele: <A3><A1>Dhakal said that there was a similar survey in India and the results from both countries will be published later in 2013. “It will take a few more months for India, which now has 1,300 big cats in several huge protected areas, to finish the survey,” he added.</A1></A3> <D3><D1>Nepal says it will double its own population of tigers by the year 2022 from 121 in 2009 to 242.</D1></D3> Diwakar Chapagain said tiger skins are popular in Tibet, where rich people use them as festival costumes. <A2>In Nepal, kings used to stand on tiger skins for special occasions.</A2> <D2>Some rich Nepali have tiger heads on the walls of their living rooms.</D2> Tiger bones are in high demand for use in traditional Chinese medicine. Chapagain said people can make a lot of money selling tiger skins and bones illegally.
+
+Q: What happened in India in 2013, according to Dhakal?
+a: A tiger survey took place
+b: 1,300 tigers were found outside protected areas
+c: The government announced plans to double the tiger population
+d: There were demonstrations against tiger-hunting
+
+Q: What did kings used to do in Nepal?
+a: Use tiger skins in special circumstances
+b: Stand next to tigers on special occasions
+c: Hand tiger heads on walls
+d: Give tigers as gifts
+
+Q1: When will India finish its tiger survey?
+a: In 2013
+b: Once all its 1,300 tigers are in protected areas
+c: Once its tiger population doubles
+d: In 2016

@@ -1,0 +1,160 @@
+# Title
+Bolivians Demand the Right to Chew Coca Leaves
+
+
+# Paragraph
+
+Adv: A major international disagreement with wide-ranging implications for global drugs policy has erupted over the right of Bolivia’s indigenous Indian tribes to chew coca leaves, the principal ingredient in cocaine. <A3><A1><D2>Bolivia has obtained a special exemption from the 1961 Single Convention on Narcotic Drugs,</D2> the framework that governs international drugs policy, allowing its indigenous people to chew the leaves.</A1></A3> <A2><D1>Bolivia had argued that the convention was in opposition to its new constitution,</D1> adopted in 2009, which obliges it to “protect native and ancestral coca as cultural patrimony” and maintains that <D3>coca “in its natural state ... is not a dangerous narcotic.”</D3></A2>
+
+Int: The right of Bolivia’s indigenous Indian tribes to chew coca leaves, the main ingredient in cocaine, has caused major international disagreement, which could have a significant effect on global drugs policy. <A3><A1><D2>Bolivia has received a special exemption from the 1961 Convention on Narcotic Drugs,</D2> which controls international drugs policy. The exemption allows Bolivia’s indigenous people to chew the leaves.</A1></A3> <A2><D1>Bolivia had argued that the convention was in opposition to its new constitution,</D1> adopted in 2009, which says it must “protect native and ancestral coca” as part of its cultural heritage and maintains that <D3>coca “in its natural state ... is not a dangerous narcotic.”</D3></A2>
+
+Ele: A big international disagreement has started over the right of Bolivia’s indigenous Indian tribes to chew coca leaves, the main ingredient in cocaine. This could have a significant effect on global drugs policy. <A3><A1><D2>Bolivia has received a special exemption from the 1961 Convention on Drugs,</D2> the agreement that controls international drugs policy. The exemption allows Bolivia’s indigenous people to chew the leaves.</A1></A3> <A2><D1>Bolivia said that the convention was against its new constitution,</D1> adopted in 2009, which says it must “protect native and ancestral coca” as part of its cultural heritage and says that <D3>coca “in its natural state ... is not a dangerous drug.”</D3></A2> 
+
+Q: What was the purpose of the 1961 Convention on Drugs? # Q,a,b,c,d
+a: Regulating international policy on drugs
+b: Discussing whether indigenous people in Bolivia should be allowed to chew coca leaves
+c: Discussing the legal status of Bolivia’s constitution
+d: Negotiating extradition agreements for drug traffickers
+
+Q: What does Bolivia’s constitution say? # Q,a,b,c,d
+a: That coca should be protected
+b: Bolivia does not allow the consumption of dangerous drugs
+c: That it accepts the decisions of the 1961 Convention on Drugs
+d: That consumption of drugs, but not their distribution, is legal
+
+Q1: Who is currently permitted to consume coca in Bolivia? # Q,a,b,c,d
+a: Anyone who is considered to be indigenous
+b: Anyone who received a special exemption from the Bolivian government
+c: Anyone who uses it in its natural state
+d: Anyone who uses it recreationally
+
+# Paragraph
+
+Adv: South American Indians have chewed coca leaves for centuries. <D1>The leaves reputedly provide energy and are said to have medicinal qualities.</D1> <A1>Supporters of <D3>Bolivia’s position praised it for doing the right thing by <D2>defending the rights of indigenous people.</D2></D3></A1> <A3><A2>“The Bolivian move is inspirational and groundbreaking,” said Danny Kushlick, Head of External Affairs at the Transform Drug Policy Foundation, which promotes drug liberalization. “It shows that any country that has had enough of the war on drugs can change the terms of its engagement with the UN conventions.”</A2></A3> 
+
+Int: South American Indians have chewed coca leaves for centuries. <D1>The leaves are said to provide energy and have medicinal qualities.</D1> <A1>Supporters of <D3>Bolivia’s position said that <D2>defending the rights of indigenous people</D2></D3> was the right thing to do.</A1> <A3><A2>“The Bolivian move is inspirational and groundbreaking,” said Danny Kushlick, of the Transform Drug Policy Foundation, which supports drug liberalization. “It shows that any country that is fed up with the war on drugs can change its relations with the UN conventions.”</A2></A3>
+
+Ele: South American Indians have chewed coca leaves for hundreds of years. <D1>The leaves give energy and have medicinal qualities.</D1> <A1>People who support <D3>Bolivia’s position said that <D2>defending the rights of indigenous people</D2></D3> was the right thing to do.</A1> <A3><A2>“The Bolivian move is very important,” said Danny Kushlick, of the Transform Drug Policy Foundation. “It shows that any country that doesn’t want to continue the war on drugs can change its relations with the UN conventions.”</A2></A3> 
+
+Q: Why do some people support Bolivia’s position?
+a: Because it protects the rights of the people native to the land
+b: Because they they see it as a humanitarian issue
+c: Because they believe coca leaves have medicinal qualities
+d: Because their countries are facing similar issues
+
+Q: According to Danny Kushlick, why was the Bolivian move significant?
+a: It showed that countries can change how they interact with the UN
+b: It was a significant step towards transforming the drug policy of the UN
+c: It protected the indigenous people from UN resolutions
+d: It catalyzed dissent movements in Bolivia against the UN
+
+Q2: Who is Danny Kushlick?
+a: A member of the Transform Drug Policy Foundation
+b: A delegate to a UN convention
+c: An indigenous Bolivian fighting for the right to chew coca leaves
+d: A researcher studying the health benefits of coca
+
+# Paragraph
+
+Adv: <D1>However, the UN’s <D3>International Narcotics Control Board (INCB),</D3> which monitors implementation of the global drug treaties, has accused <D2>Bolivia of threatening the integrity of the international drug control regime.</D2></D1> <A1>A number of countries – including the UK, the US, Italy, Sweden, the Netherlands and Russia – opposed Bolivia’s demands. The UK’s submission to the UN, which oversees the convention, told the UN that it “acknowledges and respects the cultural importance of the coca leaf in Bolivia,”</A1> but it adds: <A3><A2>“The United Kingdom is … concerned that the reservation could lead to increases in coca production and – most importantly – the amount of coca diverted to the cocaine trade. As such, the reservation would weaken international law as it relates to the global effort to tackle the illegal drugs trade and could weaken the international community’s response to that trade.”</A2></A3>
+
+Int: <D1>However, the UN’s <D3>International Narcotics Control Board (INCB),</D3> which checks implementation of global drug treaties, says that <D2>Bolivia is threatening international drug controls.</D2></D1> <A1>A number of countries – including the UK, the US, Italy, Sweden, the Netherlands and Russia – opposed Bolivia’s demands. The UK told the UN that it “respects the cultural importance of the coca leaf in Bolivia,”</A1> but it adds: <A3><A2>“The United Kingdom is … worried that the exemption could lead to increases in coca production and – most importantly – the amount of coca that goes into the cocaine trade. As a result, the exemption would weaken … the global effort to tackle the drugs trade.”</A2></A3>
+
+Ele: <D1>But the UN’s <D3>International Narcotics Control Board (INCB),</D3> which checks global drug agreements, says <D2>Bolivia may harm international drug controls.</D2></D1> <A1>Many countries – including the UK, the US, Italy, Sweden, the Netherlands and Russia – do not want to give Bolivia what it is asking for. The UK told the UN that it “respects the cultural importance of the coca leaf in Bolivia,”</A1> but it adds: <A3><A2>“The United Kingdom is worried that the exemption could lead to more coca production and – most importantly – more coca reaching the cocaine trade. The exemption would make it more difficult to control the illegal drugs trade.”</A2></A3>
+
+Q: What stance are countries like the UK, the US, and Italy taking on Bolivia’s request?
+a: They are opposed to it
+b: They are supporting it out of respect for the cultural importance of coca
+c: They do not believe the INCB is authorized to discuss it 
+d: They do not wish to be involved in Bolivian drug policy
+
+Q: What is the UK worried about?
+a: Increased coca production and cocaine trade
+b: Greater difficulty in controlling coca leaves trade
+c: Current international drug control laws
+d: The drug trade straining international diplomacy
+
+Q2: What possible consequence of the exemption is the UK worried about most?
+a: More trade of illegal drugs
+b: More coca consumption
+c: More countries leaving the INCB
+d: More diplomatic tension between Bolivia and UK
+
+# Paragraph
+
+Adv: <D3>The right of indigenous communities in South America’s Andean region to chew coca leaf was removed in 1964</D3> when <D1><D2>Bolivia was under a dictatorship</D2> and it signed up to the convention.</D1> But Bolivia was given 25 years to implement the ban. This expired in 1989 and since then the issue has been under dispute. <A1>In 2011, Bolivia formally notified the UN of its withdrawal from the convention. On Friday it reacceded to the convention, but with an exemption from the prohibition on the chewing of coca leaves.</A1> The move is the first of its kind in the history of UN drug-control treaties and has sparked concerns that other countries may apply for amendments. <A3><A2>Russia has argued that the move will lead to “an increase in illegal circulation of cocaine” and warned that “it also sets a dangerous precedent that could be used by other states in creating a more liberal drug-control regime.”</A2></A3>
+
+Int: <D3>The right of indigenous people in South America’s Andean region to chew coca leaf was removed in 1964</D3> when <D1><D2>Bolivia was under a dictatorship</D2> and it signed up to the convention.</D1> But Bolivia was given 25 years to implement the ban. This arrangement came to an end in 1989 and since then the issue has been under dispute. <A1>In 2011, Bolivia formally told the UN that it did not want to be in the convention any more. It has now signed up to the convention again, but with an exemption so that its indigenous people can continue chewing coca leaves.</A1> The exemption is the first of its kind in the history of UN drug-control treaties and has led to concerns that other countries may apply for exemptions. <A3><A2>Russia has argued that the exemption will lead to “an increase in illegal circulation of cocaine” and warned that “it also sets a dangerous precedent that could be used by other states in creating a more liberal drug-control regime.”</A2></A3>
+
+Ele: <D3>The right of indigenous people in South America’s Andean region to chew coca leaf was removed in 1964</D3> when <D1><D2>Bolivia was under a dictatorship</D2> and it signed the convention.</D1> <A1>In 2011, Bolivia told the UN that it did not want to be part of the convention any more. It is now part of the convention again, but with an exemption so that its indigenous people can continue chewing coca leaves.</A1> The exemption is the first in the history of UN drug-control agreements. It has led to worries that other countries may also ask for exemptions. <A3><A2>Russia says that the exemption will lead to more illegal cocaine and warns that “it also sets a dangerous example that could be used by other states in creating a more liberal drug-control regime.”</A2></A3> 
+
+Q: What happened in 2011?
+a: Bolivia announced that it decided to leave the convention
+b: The UN announced that Bolivia is banned from the convention
+c: Bolivia announced that its dictatorship was over
+d: The UN announced that it has a new policy on the war on drugs
+
+Q: What does Russia believe the exemption will result in?
+a: A greater amount of cocaine being distributed 
+b: Lower risk of more liberal drug control regimes
+c: Less popular support for Bolivia’s dictatorship
+d: An increased risk of conflict in the region
+
+Q2: What did Russia warn will happen? 
+a: Bolivia’s exemption will be a hazardous model that could be used by other countries
+b: Dangerously strict drug control regimes will be adopted by many countries
+c: Russia will annul its 1964 decision to support the right of indigenous people to chew coca
+d: Russia will leave the convention if Bolivia’s exemption is granted
+
+# Paragraph
+
+Adv: <D3>The British parliament has recommended that Bolivia’s request should be backed by the UK government,</D3> arguing that it was important that countries remained within the single convention. <A1><D2>Bolivia’s re-accession could be blocked only if a third or more of the <D3>184 countries</D3> that have signed up to the convention opposed its request.</D2></A1> There are suspicions that the US and UK are frantically lobbying other countries to gain sufficient numbers to block Bolivia’s request. <A2>Nancie Prud’homme,</A2> of the International Center on Human Rights and Drug Policy, criticized the co-ordinated opposition to Bolivia’s demands. <A3><A2>“These objections are legally questionable,” she said. “They support an arbitrary and over-broad provision and apply international drug laws in a vacuum. This is not appropriate. There are established international norms on <D1>cultural and indigenous rights,</D1> so we should support Bolivia’s efforts.”</A2></A3>
+
+Int: <D3>The British parliament has recommended that Bolivia’s request should be supported by the UK government.</D3> It argues that it is important that countries stay in the convention. <A1><D2>Bolivia’s return could be blocked only if a third or more of the <D3>184 countries</D3> that have signed up to the convention opposed its request.</D2></A1> There are suspicions that the US and UK are trying to persuade other countries to block Bolivia’s request. <A2>Nancie Prud’homme,</A2> of the International Center on Human Rights and Drug Policy, criticized the co-ordinated opposition to Bolivia’s demands. <A3><A2>“These objections are legally questionable,” she said. “They support an arbitrary and over-broad provision and apply international drug laws in a vacuum. This is not right. There are established international norms on <D1>cultural and indigenous rights,</D1> so we should support Bolivia’s efforts.”</A2></A3>
+
+Ele: <D3>The British parliament has recommended that the UK government should support Bolivia’s request.</D3> It says that it is important that countries stay in the convention. <A1><D2>Bolivia’s return could be blocked only if a third or more of the <D3>184 countries</D3> that have signed the convention opposed the exemption.</D2></A1> Some people believe that the US and UK are telling other countries that they should block Bolivia’s request. <A2>Nancie Prud’homme,</A2> of the International Center on Human Rights and Drug Policy, said people are wrong to oppose Bolivia’s request. <A3><A2>“These objections are not completely legal,” she said. She added that, all over the world, it has become the norm to support <D1>cultural and indigenous rights,</D1> so we should support Bolivia’s efforts.</A2></A3> 
+
+Q: How could Bolivia’s return to the convention be blocked?
+a: If over a third of the members of the convention reject Bolivia’s demands
+b: If more than 184 countries sign the convention
+c: If Bolivia’s cultural and indigenous rights are deemed unlawful
+d: If Bolivia fails to stop all cocaine trade within its borders
+
+Q: What does Nancie Prud’homme say is the norm across the globe?
+a: Respecting and encouraging cultural rights
+b: Supporting Bolivia’s efforts for exemption
+c: Signing the convention in opposition to Bolivia’s return
+d: Objecting to UN decisions
+
+Q2: According to Nancie Prud’homme, why should Bolivia’s efforts be aided?
+a: It has become increasingly common to be considerate of cultural rights
+b: Because they are completely legal
+c: Because Britain and 184 other countries support it
+d: To support Bolivia’s economy
+
+# Paragraph
+
+Adv: <A3><A1>The decision to ban coca chewing was based on a 1950 report produced by the UN Commission of Inquiry on the Coca Leaf, which proponents of drug liberalization say was <D2>not based on supporting evidence.</D2></A1></A3> In an interview in 1949, the head of the Commission, Howard B Fonda, signaled his opposition to the chewing of coca leaves before his inquiry had begun. Fonda told an interviewer: “We believe that the daily, inveterate use of coca leaves by chewing … is thoroughly noxious and therefore detrimental.” The growing of coca leaves is legal and licensed in Bolivia. <A2>The policy has been credited with <D1>a fall in cocaine production in the country,</D1> leading <D3>some experts to see the Bolivian model as a way forward for other countries.</D3></A2>
+
+Int: <A3><A1>The decision to ban coca chewing was based on a 1950 report produced by the UN Commission of Inquiry on the Coca Leaf, which supporters of drug liberalization <D2>say was not based on evidence.</D2></A1></A3> The growing of coca leaves is legal and licensed in Bolivia. <A2>Some believe this has led to <D1>a fall in cocaine production in the country.</D1> For this reason, <D3>some experts see Bolivia as a model for other countries.</D3></A2>
+
+Ele: <A3><A1>The decision to ban coca chewing was based on a 1950 report by the UN. Supporters of drug liberalization say <D2>the report was not based on any evidence.</D2></A1></A3> It is legal to grow coca leaves in Bolivia. <A2>As a result, <D1>cocaine production has decreased in the country</D1> and <D3>some experts see Bolivia as a model for other countries.</D3></A2>
+
+Q: What was decided based on the 1950 report?
+a: That coca chewing should be banned
+b: That the law banning coca chewing was not based on evidence
+c: That Bolivia will decrease its cocaine production
+d: That the ban on drug trade would be lifted for some nations
+
+Q: What do experts believe about Bolivia?
+a: It could set an example for other nations in regards to cocaine policy
+b: It is a model that people in many countries follow to produce illegal cocaine
+c: It needs more evidence to support its case for an exemption
+d: It should be more considerate of other nations in the convention
+
+Q1: What did supporters of drug liberalization say about the UN report?
+a: The statements of the report were not backed up by evidence
+b: The report can be interpreted as banning coca chewing
+c: The report presented Bolivia as a positive model for other countries
+d: The report was a major step towards successful international diplomacy
+

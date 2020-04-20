@@ -1,0 +1,134 @@
+# Title
+A New Form of Lie Detector Test
+
+
+# Paragraph
+
+Adv: Police and intelligence agencies around the world have, for almost 100 years, relied on polygraphs as lie detectors to help convict criminals or unearth spies and traitors. The polygraph is beloved of the movies, with countless dramatic moments showing the guilty sweating profusely as they are hooked up. But the invention could soon be defunct. <A1><A3>Researchers in Britain and the Netherlands have made a breakthrough, developing a method with a success rate in tests of over 70% that <D2>could be in use in police stations around the world within a decade.</D2></A3></A1> <A2>Rather than relying on facial tics, talking too much or waving of arms – all seen as tell-tale signs of lying – <D1><D3>the new method involves monitoring full-body motions</D3></D1> to provide an indicator of signs of guilty feelings.</A2> 
+
+Int: Police and intelligence agencies around the world have, for almost 100 years, used polygraphs as lie detectors to help convict criminals or find spies and traitors. But the polygraph could soon be defunct. <A1><A3>Researchers in Britain and the Netherlands have developed a new method that has a success rate, in tests, of over 70%. <D2>This new method could be in use in police stations around the world within a decade.</D2></A3></A1> <A2>It doesn’t monitor facial tics, talking too much or waving of arms, which are all signs that someone is lying. <D1><D3>The new method monitors full-body motion,</D3></D1> which can show that the person is feeling guilty.</A2>
+
+Ele: Police and intelligence agencies around the world have, for almost 100 years, used the polygraph, a lie-detector test, to help catch criminals and spies. <A1><A3>But, now, researchers in Britain and the Netherlands have developed a new method, which is correct (in tests) over 70% of the time. <D2>Police stations around the world might begin using this new method within ten years.</D2></A3></A1> <A2>It doesn’t monitor movements in the face, talking too much or waving arms – all signs that someone is lying. <D1><D3>The new method monitors movements in the whole body,</D3></D1> which can show that the person is feeling guilty.</A2>
+
+Q: When is the new lie detection method expected to work with over 70% accuracy?
+a: It has already achieved this accuracy level in tests
+b: Within ten years
+c: Once it is modified to monitor movements of the entire body
+d: It is currently not known
+
+Q: What does the new method of lie detection monitor that the polygraph does not?
+a: Motions in the entire body
+b: Talking too much and arm waving
+c: Body responses to statements about events within a period of ten years
+d: Body temperature
+
+Q1: When are police stations expected to start using the new lie detection method?
+a: Within 10 years
+b: Once it reaches an accuracy of at least 70%
+c: Once it is able to track the movements of the entire body
+d: It is already in use in many police stations
+
+# Paragraph
+
+Adv: <D2>The polygraph is widely used in the US in criminal and other cases and for security clearance for the <D1>FBI and CIA</D1> but is much less popular in Europe. <D1>There has been a lot of skepticism in the scientific and legal communities about its reliability.</D1></D2> By contrast, the new method developed by the researchers has performed well in experiments. <A1>The basic premise is that liars fidget more and so the use of an all-body motion suit – the kind used in films to <D3>create computer-generated characters</D3> – will pick this up.</A1> One of the research team, Ross Anderson, said: “Decades of deception research show that the interviewer will tell truth from lies only slightly better than random.” He said the new method, by contrast, achieved a reliability rating of over 70%. <A3>In some tests, the team has already achieved more than 80%. <A2>Anderson said: “The takeaway message is that guilty people fidget more and we can measure this robustly.”</A2></A3>
+
+Int: <D2>The polygraph is widely used in the US in criminal cases and for security clearance for the <D1>FBI and CIA</D1> but is much less popular in Europe. <D1>Many people in the scientific and legal communities do not believe that it is reliable.</D1></D2> By contrast, the new method has performed well in experiments. <A1>The basic thought is that liars fidget more and so the use of an all-body motion suit – the kind used in films to <D3>create computer-generated characters</D3> – will record this.</A1> One of the research team, Ross Anderson, said that years of research show that an interviewer will know whether someone is telling the truth, and not lies, in only about 55 times out of 100. He said the new method, by contrast, was reliable over 70% of the time. And he was confident they would be able to do better. <A3>In some tests, the team has already achieved more than 80%. <A2>Anderson said: “Guilty people fidget more and we can measure this.”</A2></A3>
+
+Ele: <D2>The polygraph is often used in the US in criminal cases and by the <D1>FBI and CIA</D1> but is much less popular in Europe. <D1>Many people do not believe that it is reliable.</D1></D2> <A1>The basic idea behind the new method is that liars fidget more and that an all-body motion suit – the kind used in films to <D3>create computer-generated characters</D3> – will record this.</A1> The new method is over 70% reliable – the polygraph is only 55% reliable. <A3>In some tests, the success rate of the new method was more than 80%. <A2>Ross Anderson, one of the research team, said: “Guilty people fidget more and we can now measure this.”</A2></A3>
+
+Q: What can an all-body suit be used for?
+a: Create computer-generated characters
+b: Influence liars to fidget more
+c: Protect FBI and CIA agents
+d: Protect the body in cold weather
+
+Q: What does Anderson say can be measured now?
+a: Body motions that show whether someone is guilty
+b: Whether fidgeting causes people to feel guilty
+c: The reliability of the polygraph in determining if someone is guilty
+d: Small changes in breathing rate that show if someone is guilty
+
+Q2: What position does Ross Anderson hold?
+a: A researcher on the team developing the new method for lie-detection
+b: A test participant whose lies the new method could correctly detect 80% of the time
+c: A special effects editor who creates computer generated characters for tests
+d: A director of an organization looking to refine interrogation methods
+
+# Paragraph
+
+Adv: <A1>The polygraph was created in 1921 by policeman John Larson, based on research by the <D3>psychologist William Marston.</D3></A1> It records changes in pulse, blood pressure, sweating and breathing to ascertain whether a subject is lying. <A3><A2>While cinema depictions suggest the device is near-infallible, <D1>the US Supreme Court ruled, in 1998, that there was no consensus that the polygraph was reliable,</D1></A2> <D2>a finding supported by the US National Academy of Scientists</D2> in 2003.</A3>
+
+Int: <A1>The polygraph was created in 1921 by policeman John Larson, based on research by the <D3>psychologist William Marston.</D3></A1> It records changes in pulse, blood pressure, sweating and breathing to find out whether someone is lying. <A3><A2>In movies, the polygraph is always right, But, in 1998, the <D1>US Supreme Court ruled that there was no consensus that the polygraph was reliable.</D1></A2> <D2>This conclusion was supported by the US National Academy of Scientists</D2> in 2003.</A3>
+
+Ele: <A1>The polygraph was created in 1921 by policeman John Larson, based on research by the <D3>psychologist William Marston.</D3></A1> It records changes in pulse, blood pressure, sweating and breathing to find out if someone is lying. <A3><A2>In movies, the polygraph is always correct but, in 1998, the <D1>US Supreme Court decided that there was no agreement that the polygraph was reliable.</D1></A2> <D2>The US National Academy of Scientists said the same thing in 2003.</A3></D2> 
+
+Q: Who was John Larson?
+a: A policeman who developed a lie-detection method
+b: A psychologist who created the polygraph
+c: A US Supreme Court judge who ruled on the reliability of the polygraph
+d: A 21st century researcher working on new methods of lie detection
+
+Q: What happened in 1998?
+a: The Supreme Court could not confirm that polygraphs are reliable
+b: The Supreme Court decided to prohibit the use of polygraphs
+c: The US National Academy of Scientists said it cannot confirm that polygraphs are reliable
+d: The European Union decided that polygraphs are not reliable
+
+Q2: Who first stated that the polygraph might not be reliable?
+a: The Supreme Court of the United States
+b: The National Academy of Scientists
+c: The psychologist William Martson
+d: The Federal Bureau of Intelligence
+
+# Paragraph
+
+Adv: The experiment carried out by Anderson and his colleagues involved 180 students and employees at Lancaster University, of which <A1><A3>half were told to tell the truth and half to lie. They were each paid £7.50 for their participation in the 70-minute experiment, involving two tests. Some were <D2>interviewed about a computer game Never End, which they played for seven minutes,</D2></A3> while others lied about playing it, having only been shown notes about it.</A1> <A2>The second test involved a lost wallet <D1>containing £5.</D1> Some were asked to <D3>bring the wallet to a lost-and-found box while others hid it</D3> and lied about it.</A2> 
+
+Int: The experiment carried out by Anderson and his colleagues involved 180 students and employees at Lancaster University – <A1><A3>half of the people were told to tell the truth and half to lie. They were each paid £7.50 for their participation in the 70-minute experiment, involving two tests. Some were <D2>interviewed about a computer game Never End, which they played for seven minutes.</D2></A3> Others lied about playing the game – they had only seen notes about it.</A1> <A2>The second test involved a lost wallet <D1>containing £5.</D1> Some were asked to <D3>bring the wallet to a lost-and-found box. Others hid it</D3> and lied about it.</A2> 
+
+Ele: The tests Anderson and his colleagues did involved 180 students and employees at Lancaster University. <A1><A3>Half of the people were told to tell the truth and half to lie. The researchers <D2>interviewed some of the people about a computer game called Never End that they played for seven minutes.</D2></A3> Others lied about playing it.</A1> <A2>The second test involved a lost wallet with <D1>£5 inside.</D1> Some people had to <D3>bring the wallet to a lost-and-found box. Others hid it</D3> and lied about it.</A2> 
+
+Q: What did participants lie about in the Never End game experiment?
+a: Whether they played the game
+b: The duration of the game
+c: Being paid £5 to play the game
+d: Their position on the game’s leaderboard
+
+Q: What were some people supposed to do with the wallet?
+a: Return it to a box of lost-and-found items
+b: Take out £5 and leave it where they found it
+c: Discuss what they would do with it in an interview
+d: Seek out the original owner and return it
+
+Q1: What did some participants do for seven minutes?
+a: Played a computer game
+b: Were interviewed about Never End
+c: Looked for a place to hide a wallet
+d: Talked to a policeman
+
+# Paragraph
+
+Adv: “Overall, <D1>we correctly classified 82.2%</D1> (truths: 88.9%; lies: 75.6%) of the interviewees as either being truthful or deceptive based on the combined movement in their individual limbs,” the report says. Anderson said: “Our first attempt <D2>looked at the extent to which different body parts and body signals indicated deception. It turned out that liars wave their arms</D2> more but, again, this is only at the 55% level that you can get from a conventional polygraph. The pay dirt was when we considered total body motion. That turns out to tell truth from lies over 70% of the time.” <A3><A1>The use of all-body suits is expensive – they cost about £30,000 – and can be uncomfortable, and Anderson and his colleagues are now looking at low-cost alternatives.</A1></A3> <A2>These include using motion-sensing technology from <D3>computer games, such as the Kinect camera devices developed by Microsoft for the Xbox console.</D3></A2>
+
+Int: “Overall, we <D1>correctly guessed whether 82.2%</D1> (truths: 88.9%; lies: 75.6%) of the interviewees were telling the truth or lying based on the movements in their individual limbs,” the report says. Anderson said: “First, <D2>we looked at how much different body parts showed that someone was lying. We found that liars wave their arms</D2> more, but this is only at the 55% level that you can get from a polygraph. The success came when we looked at total body motion. That tells truth from lies over 70% of the time.” <A3><A1>The use of all-body suits is expensive – they cost about £30,000 – and they can be uncomfortable, so Anderson and his colleagues are now studying low-cost alternatives.</A1></A3> <A2>These include using motion-sensing technology from <D3>computer games, such as the Kinect camera devices developed by Microsoft for the Xbox console.</D3></A2>
+
+Ele: The new body-suit method was <D1>correct 82.2% of the time.</D1> Researchers <D2>monitored how much the people moved their arms</D2> and legs, to decide if they were telling the truth or lying. <A3><A1>All-body suits are expensive – they cost about £30,000 – and they can be uncomfortable, so Anderson and his colleagues are now looking at cheaper alternatives.</A1></A3> <A2>These include using motion-sensing technology from <D3>computer games, such as the Kinect camera devices developed by Microsoft for the Xbox console.</D3></A2>
+
+Q: What is one reason Anderson is looking for alternatives to body suits?
+a: Body suits are costly
+b: Body suits will become expensive in the future
+c: The new suit is only 82.2% reliable
+d: Body suits take a long time to manufacture
+
+Q: What is one possible alternative to the body suit?
+a: Technology that senses movement remotely
+b: Microsoft Xbox gaming consoles
+c: Arm monitors
+d: A brain scanner
+
+Q1: Which of the following is true about body suits?
+a: They cost a lot of money
+b: They are comfortable
+c: They were inspired by game consoles
+d: They are very durable
+

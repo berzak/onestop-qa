@@ -1,0 +1,133 @@
+# Title
+Morocco Poised to Become a Solar Superpower
+
+
+# Paragraph
+
+Adv: The Moroccan city of Ouarzazate is used to big productions. It is on the edge of the Sahara Desert and at the center of Morocco’s “Ouallywood” film industry. <A3><A1>Now, the trading city is the location for a complex of four linked <D2>solar mega-plants, which, alongside hydro and wind,</D2> will help provide nearly half of Morocco’s electricity from renewables by 2020 with, it is hoped, some spare to export to Europe.</A1> The project is a key plank in Morocco’s ambitions to use its deserts to become a global solar superpower.</A3> When the full complex is complete, it will be the largest concentrated solar power plant in the world and <D1>the first phase, called Noor 1, will go live in November 2015.</D1> <A2><D3>The mirror technology it uses is less widespread and more expensive than the photovoltaic panels that are now familiar on roofs the world over</D3> but it will have the advantage of being able to continue producing power even after the sun goes down.</A2>
+
+Int: The Moroccan city of Ouarzazate is used to big productions. It is on the edge of the Sahara Desert and at the center of Morocco’s “Ouallywood” film industry. <A3><A1>Now the city is the center for a complex of four linked <D2>solar mega-plants, which, together with hydro and wind,</D2> will help provide nearly half of Morocco’s electricity from renewable energy by 2020.</A1> The project is a key part of Morocco’s ambitions to use its deserts to become a global solar superpower.</A3> When the full complex is complete, it will be the largest concentrated solar power plant in the world. <D1>The first phase, called Noor 1, will be ready in November 2015.</D1> <A2><D3>The mirror technology it uses is less widespread and more expensive than the photovoltaic panels that you can see on roofs all over the world.</D3> But it will have the advantage of being able to continue producing power even after the sun goes down.</A2>
+
+Ele: The Moroccan city of Ouarzazate is on the edge of the Sahara Desert. <A3><A1>It is now the center for four linked solar mega-plants. <D2>The plants, together with hydro and wind,</D2> will give Morocco, in North Africa, nearly half of its electricity from renewable energy by 2020.</A1> The project is a key part of Morocco’s plans to use its deserts to become a global solar superpower.</A3> When the full complex is complete, it will be the largest concentrated solar power plant in the world. <D1>The first phase, called Noor 1, will be ready in November 2015.</D1> <A2><D3>The mirror technology it uses is more expensive than the solar panels that we can see on roofs all over the world</D3> but it will be able to produce power even after the sun goes down.</A2>
+
+Q: Where will almost half of Morocco’s electricity will come from by 2020?
+a: wind, hydro and solar energy
+b: solar energy
+c: Noor 1
+d: neighboring countries
+
+Q: How does the mirror technology used in the power plant differ from familiar roof panels?
+a: Mirror technology can generate energy at night
+b: Mirror technology is not as expensive
+c: Mirror technology is cleaner than hydro and wind power
+d: Mirror technology is easier to install than roof panels
+
+Q1: What is true of wind and hydro energy sources in Morocco?
+a: They will be used alongside solar energy
+b: They will provide half of Morocco’s energy by 2020
+c: They will be cheaper than using standard roof panels
+d: They will replace oil-based energy sources
+
+# Paragraph
+
+Adv: As engineers put the finishing touches to <A1><D3>Noor 1, its 500,000 crescent-shaped solar mirrors glitter across the desert skyline.</D3> The 800 rows follow the sun as it tracks across the heavens, whirring quietly every few minutes as their shadows slip further east.</A1> <A3><A2>When they are finished, the four plants at Ouarzazate will occupy a space as big as Morocco’s capital city, <D1>Rabat,</D1> and generate 580 mega-watts (MW) of electricity,</A2> <D2>enough to power a million homes.</D2></A3>
+
+Int: As engineers finish <A1><D3>Noor 1, its 500,000 moon-shaped solar mirrors glitter in the desert.</D3> The 800 rows follow the sun across the sky, whirring quietly every few minutes.</A1> <A3><A2>When they are finished, the four plants at Ouarzazate will need a space as big as Morocco’s capital city, <D1>Rabat,</D1> and generate 580 mega-watts of electricity,</A2> <D2>enough to power a million homes.</D2></A3>
+
+Ele: <A1><D3>At Noor 1, there are 500,000 moon-shaped solar mirrors.</D3> The 800 rows of mirrors follow the sun across the sky. They whir quietly every few minutes.</A1> <A3><A2>When they are finished, the four plants at Ouarzazate will be as big as Morocco’s capital city, <D1>Rabat,</D1> and make 580 mega-watts of electricity,</A2> <D2>enough for a million homes.</D2></A3>
+
+Q: What does the form of the mirrors resemble?
+a: The moon
+b: The sun
+c: Rabat
+d: A star
+
+Q: Where will 580 mega-watts of electricity be produced?
+a: In Ouarzazate
+b: In Rabat
+c: In a million homes
+d: In Algier
+
+Q2: What will happen once the four plants are finished?
+a: They will be as large as the capital
+b: Rabat will have one million homes
+c: Noor 1 will have 500,000 mirrors
+d: Morocco will start exporting electricity
+
+# Paragraph
+
+Adv: The potential for solar power from the desert has been known for decades. <A1>In the days after the Chernobyl nuclear accident in 1986, the German particle physicist Gerhard Knies calculated that the world’s deserts receive enough energy in a few hours to <D2>provide for humanity’s power needs for a whole year.</D2></A1> The challenge, though, has been capturing that energy and transporting it to the population centers where it is required. <A3><A2><D1>Experts expect that solar energy will make up a third of Morocco’s renewable energy supply by 2020,</D1> with wind and hydro taking the same share each.</A2></A3> <D3>“We are very proud of this project,” Morocco’s environment minister, Hakima el-Haite said. “I think it is the most important solar plant in the world.”</D3>
+
+Int: The potential for solar power from the desert has been known for decades. <A1>In the days after the Chernobyl nuclear accident in 1986, the German particle physicist Gerhard Knies calculated that the world’s deserts receive enough energy in a few hours to <D2>provide power for all the people in the world for a whole year.</D2></A1> But the challenge is to capture that energy and take it to where it is needed. <A3><A2><D1>Experts say that solar energy will make up a third of Morocco’s renewable energy supply by 2020.</D1> Wind and hydro will make up the other two-thirds.</A2></A3> <D3>“We are very proud of this project,” Morocco’s environment minister, Hakima el-Haite said. “I think it is the most important solar plant in the world.”</D3>
+
+Ele: People have known for many years that the desert is a useful place to produce solar energy. <A1>In 1986, the German scientist Gerhard Knies said that the world’s deserts receive enough energy in a few hours to <D2>make power for all the people in the world for a whole year.</D2></A1> But the challenge is to capture that energy and take it to where it is needed. <A3><A2><D1>Experts say that solar energy will make up a third of Morocco’s renewable energy supply by 2020.</D1> Wind and hydro will make up the other two-thirds.</A2></A3> <D3>“We are very proud of this project,” Morocco’s environment minister, Hakima el-Haite said. “I think it is the most important solar plant in the world.”</D3>
+
+Q: What did Gerhard Knies say?
+a: The entire world can be powered for a year with only a few hours of desert energy
+b: The world can supply a year-worth of energy to the desert within a few hours
+c: Solar energy will make up a third of Morocco’s renewable energy supply by 2020
+d: The planet will run out of energy resources sooner than people believe
+
+Q: What will happen by 2020?
+a: Two thirds of the renewable energy in Morocco will come from wind and hydro
+b: Solar energy will make up a third of Morocco's total energy supply
+c: Morocco will be able to produce a year of world energy supply in a few hours
+d: Morocco will host an international convention on solar energy
+
+Q2: By 2020, two-thirds of Morocco’s renewable energy will be ...
+a: Hydro and wind energy
+b: Solar energy
+c: Owned by Hakima el-Haite
+d: Available for export to other countries
+
+# Paragraph
+
+Adv: <A3><A1>Technicians say that the Noor 2 and 3 plants, due to open in 2017, will store energy for up to eight hours – opening <D2>the prospect of 24/7 solar energy in the Sahara</D2> and the surrounding region. But, even as the first phase of the project nears completion, Morocco is eyeing grander international ambitions. “We are already involved in high tension transportation lines to cover the full south of Morocco and Mauritania as a first step,”</A1></A3> says Ahmed Baroudi, manager of the national renewable energy investment company. <D3><D1>But he says the project’s ultimate impact will go far wider – even as far as the Middle East. Whether that ambition is achieved remains to be seen but exporting solar energy could have stabilizing effects within and between countries, according to the Moroccan solar energy agency (Masen).</D1></D3> <A2>Talks are ongoing with Tunisia and energy exports northwards across the Mediterranean remain a key goal.</A2>
+
+Int: <A3><A1>Technicians say that the Noor 2 and 3 plants, due to open in 2017, will store energy for up to eight hours – this gives <D2>the possibility of 24/7 solar energy in the Sahara</D2> and the surrounding region. The first part of the project is nearly completed and Morocco has bigger international ambitions. “We are already involved in transportation lines to cover the full south of Morocco and Mauritania,”</A1></A3> says Ahmed Baroudi, manager of the national renewable energy investment company. <D3><D1>But he says the project’s effects will go further – even as far as the Middle East. Exporting solar energy could have stabilizing effects within and between countries, according to the Moroccan solar energy agency (Masen).</D1></D3> <A2>Morocco is making plans with Tunisia and energy exports northwards across the Mediterranean are a key goal.</A2>
+
+Ele: <A3><A1>The Noor 2 and 3 plants, which are planned to open in 2017, will store energy for up to eight hours. This will mean that <D2>there could be solar energy available 24/7 in the Sahara</D2> and the rest of the region. “We are already involved in transportation lines to take energy to the south of Morocco and Mauritania,”</A1></A3> says Ahmed Baroudi, manager of the national renewable energy investment company. <D3><D1>But he says the project will go further – even as far as the Middle East. Exporting solar energy could have stabilizing effects within and between countries, according to the Moroccan solar energy agency (Masen).</D1></D3> <A2>Morocco is making plans with Tunisia and they hope to export energy north across the Mediterranean, too.</A2>
+
+Q: What is true of the south of Morocco and Mauritania?
+a: Electricity will be transported there from Noor 2 and 3
+b: Electricity will be produced there at Noor 2 and 3
+c: Electricity will be exported from there to the Middle East
+d: Electricity will be cheaper there
+
+Q: What is true of Tunisia?
+a: It discusses with Morocco the possibility of exporting energy
+b: It may import energy from Morocco via the Mediterranean sea
+c: It will make energy available 24/7 in the Sahara
+d: It will be the second largest electricity manufacturer in North Africa
+
+Q1: What will the energy-storing capacity of the Noor 2 and 3 plants allow them to do?
+a: Provide energy 24 hours a day
+b: Provide energy for up to eight hours a day
+c: Provide energy to the entire Middle East
+d: Provide energy to the United States
+
+# Paragraph
+
+Adv: <A3><A1><D2>“We believe that it’s possible to export energy to Europe but, first, we would have to build the interconnectors which don’t yet exist,”</D2> said Maha el-Kadiri, a Masen spokeswoman.</A1></A3> “Specifically, we would have to build interconnections, which would not go through the existing one in Spain, and, then, start exporting.” Spain has itself prohibited new solar projects because of a lack of interconnectors to transmit the energy to France. <A3><A1>In the meantime, Morocco is focused on using solar to meet its own needs for resource independence.</A1></A3> <A2><D3>This could, one day, include the removal of salt from sea water,</D3> in a country that is increasingly being hit by drought as the climate warms.</A2> <D1>Officials are keenly aware of the running they are making in what is the most advanced renewable energy program in the Middle East and North African region.</D1> “We are at the avant-garde of solar,” el-Kadiri says.
+
+Int: <A3><A1><D2>“We believe that it’s possible to export energy to Europe but, first, we have to build the interconnectors which don’t yet exist,”</D2> said Maha el-Kadiri, a Masen spokeswoman. In the meantime, Morocco is focused on using solar to meet its own needs.</A1></A3> <A2><D3>This could one day include the removal of salt from sea water,</D3> which is very useful in a country that is having more and more droughts as the climate warms.</A2> <D1>Officials are aware that their project is the most advanced renewable energy program in the Middle East and North African region.</D1> “We are at the avant-garde of solar,” el-Kadiri says.
+
+Ele: <A3><A1><D2>“We believe that it’s possible to export energy to Europe but, first, we have to build the interconnectors, which don’t yet exist,”</D2> said Maha el-Kadiri, a Masen spokeswoman. Until that time, the solar energy will be used in Morocco.</A1></A3> <A2><D3>They might one day use solar energy to remove salt from sea water.</D3></A2> <D1>Officials are aware this is the most advanced renewable energy program in the Middle East and North Africa.</D1> “We are at the forefront of solar,” el-Kadiri says.
+
+Q: According to Maha el-Kadiri, why does Morocco not export energy to Europe?
+a: There are no available interconnectors to transport the energy
+b: It wants to use the solar energy only in in Morocco for the time being
+c: It prefers exporting to the Middle East and North Africa first
+d: Europe does not import energy from other continents
+
+Q: How could solar energy be used in the future?
+a: To convert salt water into fresh water
+b: To make existing water less polluted
+c: To build interconnectors to Europe
+d: To produce energy at home
+
+Q1: What is Europe’s relation to Morocco’s solar energy program?
+a: Morocco might export energy to Europe
+b: Europe will build interconnectors for Morocco
+c: Europe helps Morocco to use solar energy for purifying sea water
+d: Experts from Europe consult for the program

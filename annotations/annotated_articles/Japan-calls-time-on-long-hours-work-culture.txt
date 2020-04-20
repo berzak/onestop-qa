@@ -1,0 +1,133 @@
+# Title
+Japan Calls Time on Long Hours Work Culture
+
+
+# Paragraph
+
+Adv: The regulation eight hours in the office is over. The most important work of the day is done; whatever is left can wait until the morning. This is the point many workers would think about heading for the door. <A1>Yet, for millions of Japanese employees, the thought of clearing away their desks and being at home in time for dinner is enough to invite accusations of <D3><D2>disloyalty to the company.</D2></D3></A1> <A3><A2>But, after decades of giving companies carte blanche to milk every last drop of productivity from their workforce, a challenge to Japan’s ingrained culture of overwork has come from the government, which is considering making it a legal requirement for workers to <D1>take at least five days’ paid holiday a year.</D1></A2></A3>
+
+Int: You’ve spent eight hours in the office. The most important work of the day is done; whatever is left can wait until the morning. This is the point many workers would think about heading for the door. <A1>But, for millions of Japanese employees, the thought of leaving their desks and being at home in time for dinner is enough to make people accuse them of <D3><D2>disloyalty to the company.</D2></D3></A1> For decades, the government has allowed companies to make sure their workforce is as productive as possible. <A3><A2>But, now, it is challenging Japan’s culture of overwork. The government is considering making it a legal requirement for workers to <D1>take at least five days’ paid holiday a year.</D1></A2></A3>
+
+Ele: You’ve spent eight hours in the office. You’ve finished the most important work of the day. This is the time when most workers would think about going home. <A1>But, for millions of Japanese employees, if they leave work and arrive home in time for dinner, people say that they are <D3><D2>disloyal to their company.</D2></D3></A1> <A3><A2>But now, the government is trying to do something about Japan’s culture of overwork. It wants to make workers <D1>take at least five days’ paid holiday a year.</D1></A2></A3>
+
+Q: Why would someone be considered disloyal to their company in Japan?
+a: They arrived home before dinner time
+b: They ate dinner at work
+c: They took more than five days off
+d: They revealed trade secrets
+
+Q: What does the Japanese government want workers to do now?
+a: Take more days off
+b: Not work during national holidays
+c: Be home in time for dinner
+d: Not work after-hours
+
+Q2: Who or what is driving the change in Japanese work habits?
+a: The government
+b: The culture
+c: Disloyal workers
+d: Western Europe
+
+# Paragraph
+
+Adv: <D1><D2>Japanese employees are currently entitled to an average 18.5 days’ paid holiday a year – only two fewer than the global average</D2> – with a minimum of ten days, as well as 15 one-day national holidays.</D1> <D3>In reality, few come even close to taking their full quota, typically using only nine of their 18.5-day average entitlement.</D3> <A3><A1>While many British workers regard a two-week summer holiday as an inalienable right, workers in Japan have come to see a four-night vacation as the height of self-indulgence.</A1></A3> The move, to be debated in the current parliamentary session, comes after companies started encouraging employees to nap on the job to improve their performance. <A2>By the end of the decade, the government hopes that, if passed, the law will push Japanese employees towards following the example set by British workers, who use an average of 20 days’ paid annual leave, and those in France, who take an average of 25.</A2>
+
+Int: <D1><D2>Japanese employees are currently entitled to an average 18.5 days’ paid holiday a year – only two fewer than the global average</D2> – with a minimum of ten days, as well as 15 one-day national holidays.</D1> In reality, very few employees take these days. <D3>Most use only nine of their 18.5-day average entitlement.</D3> <A3><A1>While many British workers see a two-week summer holiday as their right, workers in Japan think that a four-night vacation is complete self-indulgence.</A1></A3> <A2>By the end of the decade, the government hopes that the law will push Japanese employees towards following the example set by British workers, who use an average of 20 days’ paid annual leave, and those in France, who take an average of 25.</A2>
+
+Ele: <D1><D2>Japanese employees are allowed an average of 18.5 days’ paid holiday a year, fewer than the global average.</D2> Companies must allow them a minimum of ten days’ paid holiday, plus 15 one-day national holidays.</D1> But very few employees take these days. <D3>Most take only nine days of holiday, according to the labor ministry.</D3> <A3><A1>Many British workers think that a two-week summer holiday is their right but workers in Japan think that a four-night vacation is a big self-indulgence.</A1></A3> <A2>By 2020, the government hopes that the law will make Japanese employees follow the example of British workers, who take an average of 20 days’ paid annual leave, and workers in France, who take an average of 25.</A2>
+
+Q: What are Japanese workers likely to think about taking a two-week summer holiday?
+a: That it is unnecessarily long
+b: That it is not their right
+c: That their employers would not allow it
+d: That it would be boring
+
+Q: What does the government hope will happen by 2020?
+a: Japan will follow in the footsteps of other countries’ paid leave culture
+b: A new law will force Japanese workers to take 20 days of paid annual leave
+c: Japanese employees will be allowed an average of 18.5 days of paid annual leave
+d: Japanese employees will not work more than 8 hours a day on average
+
+Q1: What are British workers likely to think about a four-night vacation?
+a: That it would not be enough if it were only vacation they took during the year
+b: That it would be a big self-indulgence
+c: That it would be acceptable since they are guaranteed nine days of holiday a year
+d: That it would not be worth it if the location is far away
+
+# Paragraph
+
+Adv: <A1>Japan’s unforgiving work culture may have helped turn it into an economic superpower, its corporate foot soldiers revered in the rest of the world for their commitment to the company,</A1> but this has often been to the exclusion of everything else. <D1>Japan’s low birth rate and predictions of rapid population decline are partly blamed on <D2>the lack of time couples have to start families.</D2></D1> <A3><A2><D3>More employees are falling ill from stress, or worse, succumbing to karoshi, death through overwork.</D3></A2></A3> Despite studies suggesting that longer hours in the office or workshop or on the factory floor do not necessarily make people more productive, today’s workers are still nursing a collective hangover from the bubble years of the 1980s.
+
+Int: <A1>Japan’s tough work culture helped turn it into an economic superpower, its employees respected and admired in the rest of the world for their commitment to the company,</A1> but they have little time to do anything except work. <D1>Japan’s low birth rate and population decline are partly blamed on <D2>the lack of time couples have to start families.</D2></D1> <A3><A2><D3>More employees are falling ill from stress, or worse, succumbing to karoshi, death through overwork.</D3></A2></A3> Japanese people continue to work hard, despite studies that suggest that longer hours in the office or workshop or on the factory floor do not necessarily make people more productive.
+
+Ele: <A1>Japan’s employees are respected and admired in the rest of the world for their commitment to the company.</A1> But they often have no time for anything else. <D1><D2>Couples don’t have time to start families.</D2> So, Japan has a low birth rate and the population is declining.</D1> <A3><A2><D3>More employees are falling ill from stress or even dying through overwork.</D3></A2></A3> Japanese people continue to work hard, despite studies that suggest that longer hours at work do not necessarily make people more productive.
+
+Q: How do people in the world view the Japanese employees?
+a: They highly respect them
+b: They think they are too committed to their companies
+c: They criticize their willingness to sacrifice family for work
+d: They think they are too complacent
+
+Q: What is increasingly happening to Japanese employees because of work?
+a: They are dying
+b: They are not staying home when they are sick
+c: They are losing touch with their families
+d: They are feeling unfulfilled
+
+Q2: What has increased because of the Japanese culture of overworking?
+a: More related cases of people dying
+b: More workers catching illnesses from colleagues
+c: More studies failing to link longer working hours to productivity
+d: More complaints from employees
+
+# Paragraph
+
+Adv: <D3><D2>About 22% of Japanese work more than 49 hours a week,</D2> compared with 16% of US workers and 11% in France and Germany,</D3> according to data from the Japanese government. <A1>In spending 14 hours a day at work and giving up many of her paid holidays, Erika Sekiguchi is not even an extreme example. The 36-year-old trading company employee used eight of her 20 days of paid vacation in 2014, six of which counted as sick leave. “Nobody else uses their vacation days,” Sekiguchi said.</A1> She faces a dilemma: never to take time off or to invite criticism for leaving her colleagues in the lurch. <A3><A2><D1>Yuu Wakebe,</D1> a health ministry official overseeing policy on working hours, who admits putting in 100 hours of overtime a month, blames the irresistible pressure to match one’s colleagues, hour for hour. “It is a worker’s right to take paid vacations,” Wakebe said. “But unfortunately working in Japan involves quite a lot of volunteer spirit.”</A2></A3>
+
+Int: <D3><D2>About 22% of Japanese people work more than 49 hours a week,</D2> compared with 16% of US workers and 11% in France and Germany,</D3> according to data from the Japanese government. At 35%, South Korea’s workaholics work even more. <A1>Erika Sekiguchi spends 14 hours a day at work and gives up many of her paid holidays. But she is not even an extreme example. The 36-year-old trading company employee used eight of her 20 days of paid vacation in 2014, six of which were sick leave. “Nobody else uses their vacation days,” Sekiguchi said.</A1> <A3><A2><D1>Yuu Wakebe,</D1> a health ministry official overseeing policy on working hours, admits that he does 100 hours of overtime a month. He blames the pressure to match the number of hours your colleagues work. “It is a worker’s right to take paid vacations,” Wakebe said. “But unfortunately working in Japan involves quite a lot of volunteer spirit.”</A2></A3>
+
+Ele: <D3><D2>About 22% of Japanese work more than 49 hours a week,</D2> compared with 16% of US workers and 11% in France and Germany,</D3> according to data from the Japanese government. <A1>“Nobody else uses their vacation days,” says Erika Sekiguchi, a 36-year-old employee. She spends 14 hours a day at work and used only eight of her 20 days of paid vacation in 2014, six of which were sick leave.</A1> <A3><A2><D1>Yuu Wakebe,</D1> who works at the health ministry, admits that he does 100 hours of overtime a month. “It is a worker’s right to take paid vacations,” Wakebe said. “But sadly workers in Japan have to do a lot of extra work for no money.”</A2></A3>
+
+Q: Who says that Japanese workers don’t use their vacation days?
+a: Erika Sekiguchi
+b: An old employee of a company
+c: Yuu Wakebe
+d: A journalist
+
+Q: What does Yuu Wakebe say about Japanese employees?
+a: They should be able to take vacations while being paid
+b: They want to work overtime to increase their salaries
+c: About 22% of Japanese employees work over 49 hours a week
+d: About 10% of Japanese employees work less than 35 hours a week
+
+Q2: What does Yuu Wakebe’s quote convey about working in Japan?
+a: That cultural norms prevent Japanese workers from taking vacations
+b: His pride in working over 100 hours of overtime a month
+c: How Japan compares to France, Germany and the US in terms of hours worked
+d: What work culture can do to employees’ mental state
+
+# Paragraph
+
+Adv: <A3><A1>That fear of being ostracized at work is being blamed for a rise in stress-related illness, premature death and <D2>suicide.</D2></A1></A3> According to official data, <A2>about 200 people die every year from heart attacks, strokes and other karoshi events brought on by punishing work schedules.</A2> <D1><D3>The prime minister, Shinzo Abe, is not known for taking long vacations.</D3> Yet even he has spoken out against the unreasonable demands companies place on their employees as they struggle to stay afloat in a more complex globalized market. Japan’s working culture, Abe said recently, “falsely beatifies long hours”.</D1>
+
+Int: <A3><A1>That fear of being ostracized at work is the reason for a rise in stress-related illness, premature death and <D2>suicide.</D2></A1></A3> According to official data, <A2>about 200 people die every year from heart attacks, strokes and other karoshi events because of tough work schedules.</A2> <D1><D3>The prime minister, Shinzo Abe, is not known for taking long vacations.</D3> But even he has said that companies ask too much of their employees and that working hours in Japan are too long.</D1>
+
+Ele: <A3><A1>Workers are scared that their colleagues will think they are not working hard enough. This is one reason for a rise in stress-related illness, early death and <D2>suicide.</D2></A1></A3> <A2>About 200 people die every year from heart attacks and strokes in Japan, caused by long hours and hard work.</A2> <D1><D3>The prime minister, Shinzo Abe, is not known for taking long vacations.</D3> But even he has said that companies ask too much of their employees and that working hours in Japan are too long.</D1>
+
+Q: What is one reason for the increase in stress-related illnesses in Japan?
+a: Fear that one might be viewed negatively by colleagues
+b: Witnessing early death and suicide by colleagues
+c: The labor policies of the prime minister
+d: Fear for the well-being of family members
+
+Q: What makes around 200 people die every year in Japan?
+a: Long work schedules
+b: Heart attacks from exercising too much
+c: Suicide
+d: Accidents at work
+
+Q1: Who is scared of disapproval from their colleagues in Japan?
+a: Workers in general
+b: Workers who are not working hard enough
+c: The prime minister
+d: Workers who prioritize family over work

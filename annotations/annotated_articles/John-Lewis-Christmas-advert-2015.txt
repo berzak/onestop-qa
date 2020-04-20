@@ -1,0 +1,107 @@
+# Title
+John Lewis Christmas Advertisement 2015: Raising Awareness for Age UK
+
+
+# Paragraph
+
+Adv: <A1>A lonely old man living in a crater on the moon is the unlikely focus of John Lewis’s Christmas 2015 advertisement, as the department store puts a charitable spin on its latest multi-million pound campaign.</A1> Amid increasing hype around John Lewis’s seasonal ad, which has come to mark the beginning of the Christmas shopping season for many, <D3><D1>the department store will aim to use its profile to raise hundreds of thousands of pounds for the charity Age UK.</D1></D3> <D2>It will also encourage staff and customers to join up with their local branch of the charity to care for elderly people who might otherwise be alone over the holiday.</D2> <A3><A2>The retailer has spent £7m on a campaign that ranges from the slick TV ad to a smartphone game and merchandise, including glow-in-the-dark pyjamas, as well as areas decked out like the surface of the moon in 11 stores.</A2></A3>
+
+Int: <A1>A lonely old man living on the moon is the unusual focus of John Lewis’s 2015 Christmas advertisement.</A1> There is increasing hype around John Lewis’s seasonal ad, which has come to mark the beginning of the Christmas shopping season for many. <D3><D1>The department store will aim to raise hundreds of thousands of pounds for the charity Age UK.</D1></D3> <D2>It will also encourage staff and customers to join up with their local branch of the charity to care for elderly people who might be alone over the holiday.</D2> <A3><A2>The department store has spent £7m on a campaign that ranges from the TV ad to a smartphone game and merchandise, including glow-in-the-dark pyjamas, as well as making areas that look like the surface of the moon in 11 of their stores.</A2></A3>
+
+Ele: <A1>The department store John Lewis has a 2015 Christmas advertisement. The ad shows a lonely old man who lives on the moon.</A1> The ad, which for many people shows that the Christmas shopping season has begun, <D3><D1>aims to raise hundreds of thousands of pounds for the charity Age UK.</D1></D3> <D2>John Lewis will also encourage staff and customers to care for elderly people who might be alone over the holiday.</D2> <A3><A2>The department store has spent £7 million on a campaign that includes the TV ad, a smartphone game and merchandise, including glow-in-the-dark pyjamas. It will also build areas that look like the surface of the moon in 11 of its stores.</A2></A3>
+
+Q: Where does the lonely old man appear in John Lewis’s advertisement?
+a: On the moon
+b: In a department store
+c: In an Age UK shelter
+d: In a senior house
+
+Q: What is one component of John Lewis’s campaign?
+a: In-store areas that resemble the moon surface
+b: A £7 million TV ad
+c: Discounts for elderly customers
+d: A newspaper ad
+
+Q2: What will be introduced in 11 John Lewis stores?
+a: Surfaces that resemble the moon
+b: Glow-in-the-dark pyjamas
+c: Age UK booths
+d: Christmas music
+
+# Paragraph
+
+Adv: <D1>After two years of successful ads featuring cuddly animals – a bear and hare, then a penguin</D1> – <A1><A3>this time, the retailer is tugging at the heartstrings with a story of a young girl, Lily, who spots an old man living in a shack on the moon through her telescope. The determined child tries sending him a letter and firing a note via bow and arrow, before floating him a present of a telescope tied to balloons, which finally enables them to make contact.</A3></A1> The ad’s strapline is: “Show someone they’re loved this Christmas,” which echoes <D2>Age UK’s own campaign:</D2> “No one should have no one at Christmas.” <D3>Profits from three products – a mug, gift tag and card – will go to the charity.</D3> <A2>“The charity really resonates with people at this time of year and the ad lends itself to thinking about someone who lives on your street that might not see anybody,” said Rachel Swift, head of marketing at John Lewis.</A2>
+
+Int: <D1>After two years of successful ads with cuddly animals – a bear and hare, then a penguin</D1> – this time, <A1><A3>the store is tugging at the heartstrings with a story of a young girl, Lily, who spots an old man living in a shack on the moon through her telescope. The determined child tries sending him a letter and firing a note via bow and arrow, before floating him a present of a telescope tied to balloons, which finally allows them to make contact.</A3></A1> The ad’s message is: “Show someone they’re loved this Christmas,” which echoes <D2>Age UK’s own campaign:</D2> “No one should have no one at Christmas.” <D3>Profits from three products – a mug, gift tag and card – will go to the charity.</D3> <A2>Rachel Swift, head of marketing at John Lewis, said that people talk about the charity at this time of year and the ad makes you think about someone who lives on your street that might not see anybody.</A2>
+
+Ele: <D1>After two years of successful ads with cute animals – a bear and hare, then a penguin</D1> – this time, <A1><A3>the story is about a young girl, Lily, who sees an old man living in a small wooden house on the moon through her telescope. The girl first tries to send him a letter and a note via bow and arrow. Then, she floats him a present of a telescope tied to balloons. This finally allows them to make contact.</A3></A1> The ad’s message is: “Show someone they’re loved this Christmas.” This is similar to <D2>Age UK’s campaign:</D2> “No one should have no one at Christmas.” <D3>Profits from three products – a mug, gift tag and card – will go to the charity.</D3> <A2>Rachel Swift, head of marketing at John Lewis, said that people talk about charities at Christmas and the ad makes you think about someone who lives on your street that might not see anybody.</A2>
+
+Q: How is the girl able to make contact with the old man?
+a: Using balloons
+b: Using a bow and arrow
+c: Using cute animals
+d: Using the post service
+
+Q: Who does Rachel Swift work for?
+a: John Lewis
+b: A marketing company
+c: Age UK
+d: A homeless shelter
+
+Q1: What does the old man receive from the girl?
+a: A telescope
+b: A note
+c: A mug, gift tag and card
+d: A blanket
+
+# Paragraph
+
+Adv: <A1>The campaign features the Oasis track Half the World Away reinterpreted by little-known Norwegian artist Aurora.</A1> The ad cost £1m to make. The moon scenes were shot at the Warner Bros Studios, where the <D1>Harry Potter</D1> films were made, and the specially built set was created by one of the team behind <D2><D3>the latest Star Wars film, The Force Awakens.</D2></D3> <A2><A3>As in the last few years, John Lewis has drummed up interest in their most recent ad prior to its release with a teaser campaign on TV and social media using the hashtag #OnTheMoon.</A3></A2> There will be a full moon on Christmas Day 2015 – a complete coincidence, according to Swift.
+
+Int: <A1>The campaign features the Oasis track Half the World Away reinterpreted by Norwegian artist Aurora.</A1> The ad cost £1m to make. The moon scenes were shot at the Warner Bros Studios, where the <D1>Harry Potter</D1> films were made, and the specially built set was created by one of the team behind <D2><D3>the latest Star Wars film, The Force Awakens.</D2></D3> <A2><A3>As in the last few years, John Lewis has drummed up interest in their most recent ad before its release with a teaser campaign on TV and social media using the hashtag #OnTheMoon.</A3></A2> A full moon will fall on Christmas Day 2015 – a complete coincidence, according to Swift.
+
+Ele: <A1>The campaign features the Oasis track Half the World Away sung by Norwegian singer Aurora.</A1> The ad cost £1 million to make. The moon scenes were shot at the Warner Bros Studios, where the <D1>Harry Potter</D1> films were made, and the specially built set was created by one of the team behind <D2><D3>the latest Star Wars film, The Force Awakens.</D2></D3> <A2><A3>As in the last few years, John Lewis showed a short film on TV and social media using the hashtag #OnTheMoon before it showed the full advertisement.</A3></A2> There will be a full moon on Christmas Day 2015 – a complete coincidence, says Swift.
+
+Q: Who performs a song for the campaign?
+a: Aurora
+b: Oasis
+c: Harry Potter
+d: Mariah Carey
+
+Q: When was the hashtag #OnTheMoon released this year?
+a: Prior to the release of the full advertisement
+b: Prior to the release of a short teaser film
+c: Prior to the release of The Force Awakens
+d: Prior to the release of a new line of products
+
+Q2: Who used the #OnTheMoon hashtag for their campaign?
+a: John Lewis
+b: A TV film about the first moon landing
+c: The film “The Force Awakens”
+d: NASA
+
+# Paragraph
+
+Adv: <A1><A3>In 2014, the retailer John Lewis also spent £7m on a campaign featuring a realistic animated penguin and a young boy playing together to the tune of John Lennon’s Real Love, sung by British singer-songwriter Tom Odell. <D2>It had drummed up 22 million views on YouTube by the first week of January,</D2> ahead of the 16.6 million clocked by Sainsbury’s ad featuring First World War soldiers sharing a bar of chocolate, the UK’s next most popular ad of 2014.</A3></A1> <A2><D1><D3>Swift said that, despite the hype, John Lewis had stuck to the same strategy for the last five years. “It’s all about thoughtful gifting and going the extra mile for someone you love at Christmas,” she said. “In 2015, we don’t go into it thinking, 'This is going to be huge,' just getting something right for the brand at this time of year and something we hope customers really love.”</D3></D1></A2>
+
+Int: <A1><A3>In 2014, the retailer John Lewis also spent £7m on a campaign with a realistic animated penguin and a young boy playing together to the tune of John Lennon’s Real Love, sung by British singer-songwriter Tom Odell. <D2>It had drummed up 22 million views on YouTube by the first week of January</D2> – more than the 16.6 million views of Sainsbury’s ad with First World War soldiers sharing a bar of chocolate, the UK’s second most popular ad of 2014.</A3></A1> <A2><D1><D3>Swift said that, despite the hype, John Lewis had kept the same strategy for the last five years. “It’s all about thoughtful gifting and going the extra mile for someone you love at Christmas,” she said. “In 2015, we don’t go into it thinking, ‘This is going to be huge,’ just getting something right for the brand at this time of year and something we hope customers really love.”</D3></D1></A2>
+
+Ele: <A1><A3>In 2014, John Lewis also spent £7 million on a campaign with a penguin and a young boy playing together. <D2>It had 22 million views on YouTube by the first week of January</D2> – more than the 16.6 million views of Sainsbury’s ad with First World War soldiers sharing a bar of chocolate, the UK’s second most popular ad of 2014.</A3></A1> <A2><D1><D3>Swift said that in 2015 John Lewis wants to just get “something right for the company at this time of year and do something we hope customers really love.”</D3></D1></A2>
+
+Q: Who had the UK’s second most popular advertisement in 2014?
+a: Sainsbury’s
+b: John Lewis
+c: Swift
+d: Starbucks
+
+Q: Who does Swift hope will like John Lewis’ 2015 advertisement?
+a: Customers
+b: Swift
+c: 22 million YouTube viewers
+d: Young people
+
+Q1: What was featured in the UK’s second most popular advertisement in 2014?
+a: Soldiers eating chocolate
+b: A boy and a penguin playing
+c: John Lewis customers in love
+d: Christmas trees

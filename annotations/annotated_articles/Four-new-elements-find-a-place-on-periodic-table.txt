@@ -1,0 +1,186 @@
+# Title
+Four New Elements Find a Place on Periodic Table
+
+
+# Paragraph
+
+Adv: Such is the lot of the modern-day chemist: you wait ages for a new element to turn up and then four come along at once. <A1><A3>Discovered by researchers in Japan, Russia and the US, the four new elements are the first to be added to the periodic table since 2011, when <D2>elements 114 and 116</D2> were included.</A3></A1> <A2>The new elements, all spectacularly short-lived and highly radioactive, <D1><D3>complete the periodic table’s seventh row</D3></D1></A2> and render science textbooks around the world out of date. 
+
+Int: Chemists have waited a long time for a new element to turn up and, now, four have been <A1><A3>discovered by researchers in Japan, Russia and the US. The four new elements are the first to be added to the periodic table since 2011, when <D2>elements 114 and 116</D2> were included.</A3></A1> <A2>The new elements, all highly radioactive, <D1><D3>complete the seventh row of the periodic table</D3></D1></A2> and mean that science textbooks around the world are now out of date.
+
+Ele: Chemists have waited a long time to find a new element and, now, <A1><A3>researchers in Japan, Russia and the US have discovered four. The four new elements will be added to the periodic table. They are the first elements to be added since 2011, when <D2>elements 114 and 116</D2> were included.</A3></A1> <A2>The new elements, all very radioactive, <D1><D3>complete the seventh row of the periodic table.</D3></D1></A2>
+
+Q: What happened in 2011?
+a: Two new elements were added to the periodic table
+b: Four new elements were added to the periodic table
+c: The seventh row of the periodic table was completed
+d: A convention on the state of the periodic table took place
+
+Q: What is true about the new elements?
+a: They emit a significant amount of radiation
+b: They begin the seventh row of the periodic table
+c: They behave similarly to elements 114 and 116
+d: They are exist mainly in the form of a gas
+
+Q1: Who discovered the new elements?
+a: Research teams from three different countries
+b: Research teams from four different countries
+c: Research teams from seven different countries
+d: Dmitri Mendeleev
+
+# Paragraph
+
+Adv: <A1><D2>The US-based <D3>International Union of Pure and Applied Chemistry (IUPAC),</D3> the global organization that governs chemical nomenclature, terminology and measurement, verified the elements</D2> on 30 December, 2015 after poring over studies dating back to 2004.</A1> <A2>The scientists who found them must now come up with <A3>formal names to replace the clunky Latin- based placeholders – ununtrium, ununpentium, ununseptium and ununoctium – which reflect their <D1>atomic numbers, 113, 115, 117, and 118. The atomic number is the number of protons found in an element’s atomic nucleus.</D1></A3></A2>
+
+Int: <A1><D2>The US-based <D3>International Union of Pure and Applied Chemistry (IUPAC),</D3> the global organization that controls chemical names, terminology and measurement, verified the elements</D2> on 30 December, 2015 after examining studies dating back to 2004.</A1> <A2>The scientists who found them must now come up with <A3>formal names to replace the Latin-based temporary names – ununtrium, ununpentium, ununseptium and ununoctium – which reflect their <D1>atomic numbers, 113, 115, 117, and 118. The atomic number is the number of protons found in an element’s atomic nucleus.</D1></A3></A2>
+
+Ele: <A1><D2><D3>The International Union of Pure and Applied Chemistry (IUPAC)</D3> is the global organization that controls chemical names. IUPAC confirmed the new elements</D2> on 30 December, 2015 after examining studies dating back to 2004.</A1> <A2>The scientists who found them must now think of <A3>formal names for the elements, which have the <D1>atomic numbers, 113, 115, 117, and 118. The atomic number is the number of protons in an element’s atomic nucleus.</D1></A3></A2>
+
+Q: What is the International Union of Pure and Applied Chemistry?
+a: An institution that regulates element naming
+b: A global gathering of chemists which took place in 2015
+c: An institution that introduced the atomic numbering system for elements
+d: An organization that publishes chemistry journals
+
+Q: What must the scientists who found the new elements do now?
+a: Decide on the official names of the new elements
+b: Verify that the atomic numbers of the new elements are 113, 115, 117 and 118
+c: Verify the new elements with IUPAC
+d: Further study the properties of the new elements
+
+Q2: 113, 115, 117, and 118 are ...
+a: the number of protons in the nuclei of the new elements
+b: the formal names for the newly discovered elements
+c: the number of member countries in IUPAC over the past four years
+d: the number of known elements in each of the past four years
+
+# Paragraph
+
+Adv: <A1><A3>IUPAC</A3> announced that a Russian-American team of scientists at <D3>the Joint Institute for Nuclear Research in Dubna</D3> and Lawrence Livermore National Laboratory in California had produced sufficient evidence to claim the discovery of elements 115, 117 and 118.</A1> <A2><A3>The body awarded credit for the discovery of element 113, which had also been claimed by the Russians and Americans, to <D1>a team of scientists from the RIKEN Institute in Japan.</D1> The decision means Japan becomes the first Asian country to name an element.</A3></A2> Under <D2>IUPAC rules, new elements</D2> can be named after mythological concepts, minerals, a place or country, or a scientist. 
+
+Int: <A1><A3>IUPAC</A3> announced that a Russian-American team of scientists at <D3>the Joint Institute for Nuclear Research in Dubna</D3> and Lawrence Livermore National Laboratory in California had produced enough evidence to claim the discovery of elements 115, 117 and 118.</A1> <A2><A3>The organization gave credit for the discovery of element 113, which had also been claimed by the Russians and Americans, to <D1>a team of scientists from the RIKEN Institute in Japan.</D1> The decision means Japan becomes the first Asian country to name an element.</A3></A2> Under <D2>IUPAC rules, new elements</D2> can be named after mythological concepts, minerals, a place or country, or a scientist.
+
+Ele: <A1><A3>IUPAC</A3> said that a Russian-American team of scientists at <D3>the Joint Institute for Nuclear Research in Dubna</D3> and Lawrence Livermore National Laboratory in California had discovered elements 115, 117 and 118.</A1> <A2><A3>The organization said <D1>a team of scientists from the RIKEN Institute in Japan</D1> discovered element 113. The decision means Japan becomes the first Asian country to name an element.</A3></A2> Under <D2>IUPAC rules, new elements</D2> can be named after mythological concepts, minerals, a place or country, or a scientist. 
+
+Q: Who discovered elements 115, 117, and 118?
+a: Scientists in California and Dubna
+b: Scientists at IUPAC
+c: Japanese scientists from the RIKEN Institute
+d: Scientists at a Canadian lab
+
+Q: Why does the article mention Japan?
+a: A group of scientists from Japan found a new element
+b: Japan is the first country that will name an element
+c: Japan helped reform IUPAC rules regarding new elements
+d: Japan has discovered more elements than any other country
+
+Q2: Who did IUPAC credit the discovery of element 113 to?
+a: A group of researchers working in Japan
+b: A group of researchers from Japan working in other Asian countries
+c: A Russian-American group of researchers in Dubna and California
+d: 113 Different research groups around the world
+
+# Paragraph
+
+Adv: <A1>When elements 114 and 116 were assigned formal names in 2012, scientists chose flerovium and livermorium respectively, after the Flerov Lab at Dubna’s Joint Institute of Research and the Lawrence Livermore Lab in the US, where the elements were discovered.</A1> <A3><A2>Kosuke Morita, who led the research at RIKEN, said his team now planned to “look into the uncharted territory of element 119 and beyond.”</A2></A3> Jan Reedijk, president of the Inorganic Chemistry Division of <D3><D1>IUPAC,</D1></D3> said: “The chemistry community is <D2>eager to see its most cherished table finally being completed</D2> down to the seventh row.” 
+
+Int: <A1>When elements 114 and 116 were given formal names in 2012, scientists chose flerovium and livermorium respectively, after the Flerov Lab at Dubna’s Joint Institute of Research and the Lawrence Livermore Lab in the US, where the elements were discovered.</A1> <A3><A2>Kosuke Morita, who led the research at RIKEN, said his team now planned to “look into the uncharted territory of element 119 and beyond.”</A2></A3> Jan Reedijk of <D3><D1>IUPAC,</D1></D3> said: “The chemistry community is <D2>eager to see the table finally completed</D2> down to the seventh row.”
+
+Ele: <A1>In 2012, scientists chose the formal name flerovium for element 114, after the Flerov Lab at Dubna’s Joint Institute of Research. And they chose the formal name livermorium for element 116, after the Lawrence Livermore Lab in the US.</A1> The elements were discovered there. <A3><A2>Kosuke Morita, who led the research at RIKEN, said his team now planned to “look into the undiscovered element 119 and beyond.”</A2></A3> Jan Reedijk of <D3><D1>IUPAC</D1></D3> said: “Chemists <D2>want to see the periodic table finally completed</D2> down to the seventh row.”
+
+Q: How were the formal names for elements 114 and 116 chosen?
+a: They were named after the lab where they were discovered
+b: They were named after scientists who were founders of the field
+c: They were named after scientists at IUPAC
+d: They were named after their chemical properties
+
+Q: What does the RIKEN research team plan to do now? # p,c
+a: Try to discover additional new elements
+b: Further look into the element they discovered
+c: Finally move beyond completing the seventh row of the periodic table
+d: Figure out uses for the newly uncovered elements
+
+Q2: Who is Kosuke Morita?
+a: A leader of a research team
+b: The researcher who discovered element 119
+c: An employee of IUPAC
+d: A science journalist
+
+# Paragraph
+
+Adv: The Japanese team is believed to be <D2>considering three names for ununtrium: japonium, rikenium and nishinarium,</D2> after <D3>the Nishina Center for Accelerator-Based Science, where the element was found.</D3> “They will have been thinking about it for a while already,” said <A1>Polly Arnold, professor of chemistry at Edinburgh University. “This is painstaking work. All this trying to understand Mother Nature helps us with our models and with understanding radioactive decay.</A1> <A3>If we understand it better, hopefully we can do better at dealing with nuclear waste and things that are important in the real world. <A2>It also leads to <D1>fantastic technological advances</D1> in building the equipment to make these observations.”</A2></A3>
+
+Int: The Japanese team is <D2>considering three names for ununtrium: japonium, rikenium and nishinarium,</D2> after <D3>the Nishina Center for Accelerator-Based Science, where the element was found.</D3> “They have been thinking about it for a while already,” said <A1>Polly Arnold, professor of chemistry at Edinburgh University. “This is painstaking work. The work helps us with our models and with understanding radioactive decay.</A1> <A3>If we understand it better, hopefully we can improve how we deal with nuclear waste and things that are important in the real world. <A2>It also leads to <D1>fantastic technological advances</D1> in building the equipment to make these observations.”</A2></A3>
+
+Ele: The Japanese team is <D2>considering three names for element 113: japonium, rikenium and nishinarium,</D2> after <D3>the Nishina Center for Accelerator-Based Science, where they found the element.</D3> <A1>Polly Arnold, professor of chemistry at Edinburgh University, said, “This is very difficult and slow work. The work helps us understand radioactive decay.</A1> <A3>If we understand it better, hopefully we can find a better way to deal with nuclear waste and things that are important in the real world. <A2>And, when they build the equipment to make these discoveries, it also leads to <D1>fantastic improvements in technology.”</D1></A2></A3>
+
+Q: What does Polly Arnold say about the work that is being done?
+a: It is hard and requires a lot of effort
+b: It helps us prevent radioactive decay
+c: It has gotten easier due to advances in technology
+d: The work is rewarding for the scientists involved
+
+Q: What would lead to great improvements in technology?
+a: Development of equipment for discovering new elements
+b: The discovery of new elements
+c: Utilization of japonium, rikenium and nishinarium
+d: More involvement of commercial companies in chemical research
+
+Q2: What may happen once people understand radioactive decay better?
+a: Improved handling of nuclear waste
+b: Significant technological developments
+c: Scientists in the Nishina Center may be able to find new elements
+d: Nuclear reactors can become safer
+
+# Paragraph
+
+Adv: Along with new names, the scientists must propose two-letter symbols for the elements. <A3><A1><D2>When IUPAC has received the researchers’ suggestions,</D2> they will be put up for public review for five months. That allows scientists and others to raise any objections.</A1></A3> In 1996, <A2>the symbol Cp was proposed for copernicium, or element 112, but it was swapped to Cn when <D3>scientists complained</D3> that Cp <D1>referred to another substance.</D1></A2> 
+
+Int: Along with new names, the scientists must suggest two-letter symbols for the elements. <A3><A1><D2>When IUPAC has received the researchers’ suggestions,</D2> they will go to public review for five months. That allows scientists and others to raise any objections.</A1></A3> In 1996, <A2>the symbol Cp was suggested for copernicium, or element 112, but it was changed to Cn when <D3>scientists complained</D3> that Cp <D1>referred to another substance.</D1></A2>
+
+Ele: Scientists must find new names for the elements but, also, they must suggest two-letter symbols for the elements. <A3><A1><D2>When IUPAC has received the researchers’ suggestions,</D2> they will tell the public so that people can comment on the names. That allows scientists and others to find any problems with the names.</A1></A3> In 1996, <A2>someone suggested the symbol Cp for copernicium, or element 112, but it was changed to Cn, when <D3>scientists complained</D3> that Cp was <D1>already the symbol for another substance.</D1></A2>
+
+Q: What happens once IUPAC receives a suggested symbol for an element?
+a: It allows the outside world to give feedback on the suggestion
+b: It internally reviews and comments on issues with the proposed symbol
+c: It verifies that it is not already the name of another substance
+d: It sends an official acknowledgment letter
+
+Q: Why was the suggestion to use symbol Cp for copernicium not accepted?
+a: The symbol was already being used for a different substance
+b: The symbol Cn was already assigned to it
+c: UIPAC did not receive the suggestion in time
+d: The symbol Co was already assigned to it
+
+Q1: Why is the public involved in the element symbol-naming process?
+a: To see if there are issues with or opposition to a proposed symbol
+b: To source suggestions for symbol names
+c: To avoid complaints about overinvolvement of scientists
+d: To get the public more excited about scientific discovery
+
+# Paragraph
+
+Adv: <A3><A1>To discover the elements, researchers at the three labs slammed lighter nuclei into one another and looked for signature <D2>radioactive decays</D2> that should come from the new elements.</A1></A3> Ununtrium and ununpentium are thought to be metals, while ununseptium could be a <D1>metalloid – a material bearing some metallic properties. The fourth element, ununoctium, may be a noble gas,</D1> like other group-18 elements, helium, neon and argon. It is hard to know for sure because so few atoms of each element have ever been made. <A2>Paul Karol, chair of the IUPAC panel that verified the elements, said: <D3>“Practical applications of the new elements,</D3> if any, are a long way off because of the difficulty in synthesis.”</A2>
+
+Int: <A3><A1>To discover the elements, researchers at the three labs slammed lighter nuclei into one another and looked for <D2>radioactive decays</D2> that should come from the new elements.</A1></A3> Ununtrium and ununpentium are thought to be metals. Ununseptium could be a <D1>metalloid. The fourth element, ununoctium, may be a gas,</D1> like other elements, helium, neon and argon. It is hard to know for sure because so few atoms of each element have ever been made. <A2>Paul Karol, chair of the IUPAC panel that verified the elements, said: “It will be a long time before we can find <D3>practical uses for the new elements.”</D3></A2> 
+
+Ele: <A3><A1>To discover the elements, researchers at the three labs crashed lighter nuclei into one another and looked for the <D2>radioactive decays</D2> that should come from the new elements.</A1></A3> 113 and 115 are probably metals. 117 could be a <D1>metalloid – a material with some metallic characteristics. The fourth element, 118, may be a gas.</D1> <A2>Paul Karol, chair of the IUPAC panel that checked the elements, said: “It will be a long time before we can find <D3>practical uses for the new elements.”</D3></A2>
+
+Q: How did researchers discover the elements?
+a: By creating collisions between less heavy nuclei
+b: By inducing radioactive decay of other elements
+c: By transforming metalloid elements into gasses
+d: By removing protons from previously discovered elements
+
+Q: What does Paul Karol say about the new elements?
+a: They will not be utilized for a while
+b: They will be used in practice before too long
+c: They do not have radioactive decays
+d: They reflect huge progress in the chemistry field
+
+Q1: Why did researchers look for radioactive decays?
+a: To detect the presence of the novel elements
+b: To determine the right time to crash nuclei into one another
+c: To see if the new elements could be put to practical use
+d: To calculate the half-life of the new elements
+

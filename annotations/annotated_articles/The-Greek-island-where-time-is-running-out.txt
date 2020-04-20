@@ -1,0 +1,185 @@
+# Title
+The Greek Island Where Time Is Running Out
+
+
+# Paragraph
+
+Adv: <D3><D2>Agios Efstratios is so remote,</D2></D3> so forgotten by the banks, the government and most of the modern world that the mobile phone network can’t process data and <D1>there isn’t a single ATM or credit-card machine on the island.</D1> <A1>Before Greece was plunged into financial chaos, residents of this tranquil outpost in the northern Aegean managed quite well.</A1> They did their banking at the post office and <A2><A3>the few dozen rooms to rent were booked out every summer with people who had heard – by word of mouth – of its spectacular empty beaches, clear seas and fresh seafood.</A3></A2>
+
+Int: <D3><D2>The Greek island of Agios Efstratios is so remote,</D2></D3> so forgotten by the banks, the government and most of the modern world that <D1>there isn’t a single ATM or credit-card machine on the island.</D1> <A1>Before the economic crisis in Greece, residents of this tranquil island in the northern Aegean managed quite well.</A1> They did their banking at the post office and <A2><A3>the few dozen rooms to rent were fully booked every summer with people who had heard – by word of mouth – of its spectacular empty beaches, clear seas and fresh seafood.</A3></A2>
+
+Ele: <D3><D2>The Greek island of Agios Efstratios is very remote.</D2></D3> It has been forgotten by the banks, the government and most of the modern world. <D1>It doesn’t have a single ATM or credit-card machine.</D1> <A1>Before the economic crisis in Greece, the people of this peaceful island in the northern Aegean lived quite well.</A1> <A2><A3>The few rooms to rent were fully booked every summer with people enjoying its empty beaches, clear seas and fresh seafood.</A3></A2>
+
+Q: What event dramatically reduced the quality of life for residents in Agios Efstratios? # Q,a,b,c
+a: The financial crisis that occurred in the country
+b: A storm in the northern Aegean sea that devastated the island
+c: The removal of ATM machines from the island
+d: The installment of a new government
+
+Q: What was true about tourism in Agios Efstratios before the recent financial crisis? # Q,b,c,d # a,c
+a: A small number of tourists visited Agios Efstratios each summer
+b: Tourists overcrowded Agios Efstratios
+c: Agios Efstratios was so remote that tourists were not able to access it
+d: Many tourism agencies gave awards to Agios Efstratios
+
+Q2: Are there many hotels in Agios Efstratios?
+a: No, as there are only a small number of rooms for rent
+b: No, the beaches are empty of hotels
+c: Yes, they are all in remote locations
+d: Yes, the island has several 5-star resorts
+
+# Paragraph
+
+Adv: <A3><A1>But, because the island still runs on cash, the closure of banks nationwide has been devastating. Residents have been forced to make <D2>nine-hour round trips to the nearest big island</D2> to get cash</A1></A3> and <A2>Greek visitors say they can’t get together enough cash to come.</A2> “Tourist numbers are down 80% this year,” said Mayor Maria Kakali, in an office in the village where she grew up, home to around 200 people. <D3><D1>“Even people born here and living in Athens, who have their own places on the island, aren’t coming.”</D1></D3>
+
+Int: <A3><A1>But, because the island still uses only cash, the closure of the Greek banks has been devastating. Residents have to make <D2>nine-hour round trips to the nearest big island</D2> to get cash</A1></A3> and <A2>Greek visitors say they can’t get hold of enough money to come.</A2> “Tourist numbers have reduced by 80% this year,” said Mayor Maria Kakali, in an office in the village where she grew up, with a population of around 200 people. <D3><D1>“Even people born here and living in Athens, who have their own places on the island, aren’t coming.”</D1></D3>
+
+Ele: <A3><A1>But the island still uses only cash so the closure of the Greek banks has had a serious effect. Local people have to make <D2>nine-hour round trips to the nearest big island</D2> to get cash.</A1></A3> <A2>Greek visitors say they don’t have enough cash to come.</A2> “Tourist numbers have reduced by 80% this year,” said Mayor Maria Kakali, in an office in the village where she grew up. The village has about 200 people. <D3><D1>“Even people born here and living in Athens, who have their own places on the island, aren’t coming.”</D1></D3>
+
+Q: How has the closure of Greek banks affected the local residents of the island? # b,d # a,c,d
+a: They have to make long trips to another island to get money
+b: They have to go to the biggest Greek island for banking services
+c: Some have moved to Athens to earn more money
+d: All the bank workers on the island lost their jobs
+
+Q: Why do Greek visitors no longer come to the island? # a,b,c # c,d
+a: They do not have enough physical money
+b: They can’t afford the trip
+c: It is 9 hours away from the closest island
+d: Travel agents no longer recommend it as an attractive destination
+
+Q1: Where do island residents have to travel to get cash? # b,c,d
+a: To a bigger neighboring island
+b: To a bank on the same island that can take 9 hours to reach
+c: To the city of Athens
+d: To the post office
+
+# Paragraph
+
+Adv: <D2><D3>Kakali has badgered the government and a major Greek bank into promising an ATM within weeks</D3> but she still feels it may come too late for this season</D2> on an island where tourism dwarfs the two other sources of income: fishing and agriculture: <A1>“We have almost no reservations in August, when usually we have people calling us up asking to find a room and we can’t help them.”</A1> A hard winter ahead may be slightly improved by 50 workers billeted in the village to expand the harbor <A3><A2><D1>but there is an even bigger crisis looming because the government has said it will end a decades-old tax break for islands.</A2></A3></D1>
+
+Int: <D2><D3>Kakali has badgered the government and a major Greek bank into promising an ATM within weeks</D3> but she still feels it may be too late for this season</D2> on an island where tourism is the main source of income: <A1>“We have almost no reservations in August, when usually we have people calling us up asking to find a room and we can’t help them.”</A1> A hard winter ahead may be slightly improved because 50 workers will live and work in the village to expand the harbor. <D1><A3><A2>But there is an even bigger crisis ahead because the government has said it will end a tax break for islands.</A2></A3></D1>
+
+Ele: <D2><D3>Kakali has asked the government and a major Greek bank to install an ATM, and this should arrive soon.</D3></D2> But tourism is the main business on the island, <D2>and she feels the ATM may come too late for this season.</D2> <A1>“We have almost no reservations in August, when usually we are full.”</A1> <D1><A3><A2>But there is an even bigger crisis ahead – the government has said it will end a tax break for islands.</A2></A3></D1>
+
+Q: How many tourists will likely visit the island this season compared to previous years? # Q,c # a
+a: Fewer tourists, as indicated by the small number of reservations for August
+b: More tourists, as all the hotels are already fully reserved for August
+c: Fewer tourists, since tourism is more expensive now that the island’s tax break has ended
+d: More tourists, since the weather is forecasted to be good
+
+Q: What is the upcoming “bigger crisis”? #,c
+a: Islands will have to pay additional taxes
+b: The government will end taxes for tourists visiting the island
+c: The removal of ATMs from the island
+d: The Greek government will shut down in the summer
+
+Q2: Who has said islands will stop getting their current tax breaks? # b,c,d
+a: The government
+b: The islands themselves
+c: Kakali
+d: A newspaper reporter
+
+# Paragraph
+
+Adv: Created to help island communities survive when they were suffering mass emigration, a lower sales tax contained the costs of living in places where everything had to be imported and made tourism more affordable. Tourist favorites such as Mykonos fear that losing the tax breaks will make it hard for them to compete with Turkey but, for Agios Efstratios, it poses a far greater threat. <A1>“If we have to pay a tax of 23%, I’m sorry to say it but we will all die on the island,” says Kakali.</A1> <D3><D1>Food and fuel are already more expensive than on mainland Greece,</D1></D3> there are no economies of scale and little economic flexibility on an island which, even in summer, <D2>has only three shops, two restaurants</D2> and not a single official hotel. <A3>“This is an expensive island. <A2>Everything, even milk or bread, has changed hands three or four times before it gets to us and each middleman has to take a profit,”</A2> said Provatas Costas,</A3> a 58-year-old fisherman. 
+
+Int: The tax break was created to help island communities survive the problem of mass emigration. The lower sales tax reduced the costs of living on the islands, where everything had to be imported, and it made tourism more affordable. Tourist favorites such as Mykonos fear that losing the tax breaks will make it hard for them to compete with Turkey. But, for Agios Efstratios, it is a far greater problem. <A1>“If we have to pay a tax of 23%, I’m sorry to say it but we will all die on the island,” says Kakali.</A1> <D3><D1>Food and fuel are already more expensive than on the mainland.</D1></D3> Even in summer <D2>the island has only three shops, two restaurants</D2> and not a single official hotel. <A3>“This is an expensive island. <A2>Everything, even milk or bread, has been bought and sold three or four times before it gets to us and everyone has to take a profit,”</A2> said Provatas Costas,</A3> a 58-year-old fisherman.
+
+Ele: The sales tax break was created to help people on islands survive when lots of people were emigrating. Islands that are popular with tourists, such as Mykonos, fear that losing the tax break will make things very hard for them. But, for Agios Efstratios, it is a much bigger problem. <A1>“If we have to pay a tax of 23%, we will all die on the island,” says Kakali.</A1> <D3><D1>Food and fuel are already more expensive than on mainland Greece.</D1></D3> Even in summer, <D2>the island has only three shops, two restaurants</D2> and not one official hotel. <A3>“This is an expensive island. <A2>Everything, even milk or bread, has been bought and sold three or four times by middlemen before it gets to us and so is very expensive,”</A2> said Provatas Costas, a 58-year-old fisherman.</A3> 
+
+Q: According to Kakali, what will happen in Agios Efstratios once the tax break ends? # Q,a,b,c,d
+a: Its residents will have to pay a 23% sales tax
+b: 23% of the residents will have to pay higher taxes
+c: Food and fuel will go from costing less than they do in mainland Greece to costing more
+d: The extra government revenue will sponsor tourism on the island
+
+Q: Why are things generally more expensive in Agios Efstratios, according to Provatas Costas? # Q,b,c
+a: There are many additional costs in getting products to the island due to middlemen
+b: The high price of milk and bread makes other products more expensive
+c: There are only three shops and two restaurants, so there is little competition between businesses
+d: The products are of higher quality than on the mainland
+
+Q2: Why does Provatas Costas mention milk and bread when describing Agios Efstratios? # Q,a,b,d,c
+a: To show how even everyday items are relatively expensive
+b: To demonstrate how long it takes for food to arrive
+c: To show how much more expensive fuel is than basic food on the island
+d: To describe food items that the island is famous for
+
+# Paragraph
+
+Adv: For Agios Efstratios and its closest large neighbor, Lemnos, the timing of the crisis is particularly cruel. <A1><A3><D2>They were condemned to relative obscurity for years in part because they are served by slow and unreliable ferries.</D2></A3> In 2015, the government had finally given the contract to a new, efficient company, drawing floods of new visitors to explore the islands’ largely overlooked charms,</A1> <A2>before the bank controls hit. <D3>“This season started out as the best season in 30 years and, in one week, became the worst,”</D3></A2> said <D1>Atzamis Konstantinos, a travel agent in Lemnos</D1> who used to earn €15,000 a month as a captain of petroleum tankers and other large ships but came home because he missed it so much. 
+
+Int: For Agios Efstratios and its closest large neighbor, Lemnos, the timing of the crisis is particularly cruel. <A1><A3><D2>They were seen as remote for years partly because you could only reach the islands by slow and unreliable ferries.</D2></A3> In 2015, the government had finally given the contract to a new, efficient company and this has brought many new visitors to explore the islands’ charms.</A1> <A2>But, then, the bank controls hit. <D3>“This season started as the best season in 30 years and, in one week, it became the worst,”</D3></A2> said <D1>Atzamis Konstantinos, a travel agent in Lemnos.</D1>
+
+Ele: Things are also difficult for the island of Lemnos, the closest large neighbor of Agios Efstratios. <A1><A3><D2>People saw the islands as remote for years partly because the only way to get there was by slow and unreliable ferries.</D2></A3> In 2015, they finally had new, efficient ferries and this brought many new visitors to explore these islands.</A1> <A2>But, then, the bank controls began. <D3>“This season started as the best season in 30 years and, in one week, it became the worst,”</D3></A2> said <D1>Atzamis Konstantinos, a travel agent in Lemnos.</D1>
+
+Q: What improvement made the islands more popular for tourists? # b,c
+a: Efficient transportation to the islands
+b: Ferry cruises around the islands
+c: The opening of Atzamis Konstantinos’ travel agency in Lemnos
+d: A new marketing campaign by the Greek tourism ministry
+
+Q: What caused this tourism season to be the worst in 30 years? # a,b,d
+a: Introduction of bank controls
+b: Fewer controls on banks
+c: Slow, unreliable ferries
+d: Other islands became more popular
+
+Q1: Why did people consider the islands as remote and obscure? # Q,a,b,c,d
+a: The only way to get there was by slow and unreliable ferries
+b: The financial crisis made ferries unreliable and slow
+c: They did not have any tourism infrastructure for 30 years 
+d: Because of travel reviews by previous tourists
+
+# Paragraph
+
+Adv: <A1><D3>Lemnos has dozens of wild beaches,</D3> where even at the height of summer you can swim and sunbathe virtually alone, a small nightlife scene, and <D2>numerous cultural sites.</D2></A1> <A2><A3>Lemnos is the eighth largest island in Greece</A3> so it is in line for the first round of tax increases in autumn 2015</A2> but far less wealthy than many smaller ones. <D1>It has just over 3,000 beds for visitors,</D1> compared with tens of thousands on an island such as Rhodes. Its councilors say that they will fight the tax rise, although none can say how. “We have been suffering economically in recent years and, now, we will suffer more,” said Lemnos Mayor, Dimitris Marinakis. “When there is not enough money, you reduce your consumption and therefore the whole economy declines.” 
+
+Int: <A1><D3>Lemnos has dozens of wild beaches,</D3> where you can swim and sunbathe virtually alone, a small nightlife scene and <D2>many cultural sites.</D2></A1> <A2><A3>Lemnos is the eighth largest island in Greece,</A3> so it is in line for the first round of tax increases in autumn, 2015</A2> but it is far less wealthy than many smaller islands. <D1>It has just over 3,000 beds for visitors,</D1> compared with tens of thousands on an island such as Rhodes. “We have been suffering economically in recent years and now we will suffer more,” said Lemnos Mayor, Dimitris Marinakis. “When there is not enough money, you reduce your consumption and the whole economy gets worse.”
+
+Ele: <A1><D3>Lemnos has wild beaches,</D3> where you can swim and sunbathe almost alone, a small nightlife scene and <D2>many cultural sites.</D2></A1> <A2><A3>Lemnos is the eighth largest island in Greece</A3> so it will have to pay the first round of tax increases in autumn 2015.</A2> But Lemnos is far less wealthy than many smaller islands. <D1>It has just over 3,000 beds for visitors</D1> – Rhodes, for example, has tens of thousands of beds. “We have been suffering economically in recent years and now we will suffer more,” said Lemnos Mayor, Dimitris Marinakis.
+
+Q: What is among the primary attractions of Lemnos? # b,c
+a: A large number of cultural destinations
+b: Beaches constantly full of locals and tourists
+c: 3,000 luxury hotels
+d: Highly-regarded restaurants
+
+Q: Why does Lemnos have to pay the first round of tax increases? # b,c
+a: It is one of the largest islands in Greece
+b: It is the eighth most visited island in Greece
+c: It has a large number of cultural sites
+d: It is one of the richest islands in Greece
+
+Q2: How does Lemnos compare in size to other islands in Greece? # Q,a,b,c,d
+a: There are seven islands larger than it
+b: It is the largest island
+c: It is the smallest among the islands that have public beaches
+d: It is the smallest among the islands that are accessible by public ferries
+
+# Paragraph
+
+Adv: <D2>If taxes go up, even more young people will leave,</D2> warns Mayor Kakali, who has devoted her year in office to improving education on the island to help keep it an attractive place for families. <A3><A1>Because it is one of the smallest islands, Agios Efstratios has until 2017 before the rise is due to come in, so Kakali hopes that the roller coaster of Greek politics means it yet may be spared.</A1></A3> <A2><D1>If not, though, she plans to travel to Athens to remind the distant government what the tax rise would cost.</D1> “The truth is the government doesn’t pay much attention to <D3>the islands of the north Aegean,”</D3> she said, “so I would take all the kids from our school to the gates of parliament, to tell them: ‘There is still life in these islands’.”</A2>
+
+Int: <D2>If taxes go up, even more young people will leave,</D2> warns Mayor Kakali, who has worked to improve education on the island to help keep it an attractive place for families. <A3><A1>Because it is one of the smallest islands, Agios Efstratios has until 2017 before the tax rise comes in. Kakali hopes that, because things change very fast in Greek politics, the island might still avoid the tax.</A1></A3> <A2><D1>If not, though, she plans to travel to Athens to remind the distant government what the tax rise would cost.</D1> “The truth is the government doesn’t pay much attention to <D3>the islands of the north Aegean,”</D3> she said, “so I would take all the kids from our school to the gates of parliament, to tell them: ‘There is still life in these islands’.”</A2>
+
+Ele: <D2>If taxes go up, more young people will leave,</D2> warns Mayor Kakali. <A3><A1>Because it is one of the smallest islands, Agios Efstratios will not have to pay the tax increase until 2017. And Kakali hopes the political situation in Greece will change before then.</A1></A3> <A2><D1>But, if not, she plans to travel to Athens to remind the distant government what the tax rise would cost.</D1> “The government doesn’t pay much attention to <D3>the islands of the north Aegean,”</D3> she said, “so I would take all the kids from our school to the gates of parliament, to tell them: ‘There is still life in these islands’.”</A2>
+
+Q: What does Kakali hope will happen by 2017? # a,b,c,d # a,c
+a: The planned tax increase for Agios Efstratios will be cancelled
+b: Greek politicians will start paying more taxes
+c: Government officials in Athens will invite Kakali to discuss the island’s situation
+d: More hotels will be built in Agios Efstratios
+
+Q: What will Kakali do if Agios Efstratios has to pay the proposed tax increase?
+a: Visit the government with kids from Agios Efstratios
+b: Invite parliament members to visit schools in Agios Efstratios
+c: Encourage young people to leave Agios Efstratios
+d: Resign from her position to protest the government
+
+Q1: Why wasn’t Agios Efstratios one of the first islands to pay taxes? # c,d # a,b,d
+a: Because it is one of the smallest islands in Greece
+b: Because in 2017 Kakali changed the island’s political situation
+c: Because it is a north Aegean island
+d: Because it is a relatively poor island

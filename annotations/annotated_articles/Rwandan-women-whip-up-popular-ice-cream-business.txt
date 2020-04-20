@@ -1,0 +1,160 @@
+# Title
+Rwandan Women Whip up Popular Ice Cream Business
+
+
+# Paragraph
+
+Adv: <A3><A1>From all across Rwanda, and even parts of neighboring Burundi, people flock to the southern town of <D2>Butare to a little shop called Inzozi Nziza (Sweet</D2> Dreams).</A1></A3> They come for a taste of the unknown, something most have never tasted – the sweet, cold, velvety embrace of ice cream. Here, at the central <D3>African</D3> country’s first ice-cream parlor, customers can buy scoops in sweet cream, passion fruit, strawberry and pineapple flavors. <A2>Toppings include fresh fruit, honey, chocolate chips and granola. <D1>Black tea and coffee are also on sale.</D1></A2> 
+
+Int: <A3><A1>From all across Rwanda, and even parts of neighboring Burundi, people are coming to the southern town of <D2>Butare to a little shop called Inzozi Nziza (Sweet</D2> Dreams).</A1></A3> They come for a taste of the unknown, something most have never tasted before – sweet, cold ice cream. Here, at the central <D3>African</D3> country’s first ice-cream parlor, customers can buy scoops in sweet cream, passion fruit, strawberry and pineapple flavors. <A2>Toppings include fresh fruit, honey, chocolate chips and granola. <D1>Black tea and coffee are also on sale.</D1></A2>
+
+Ele: <A3><A1>From all across Rwanda, and even from Burundi, people are coming to the southern town of <D2>Butare to a little shop called Inzozi Nziza (Sweet</D2> Dreams).</A1></A3> They come for a taste of something new, something most of them have never tasted before – sweet, cold ice cream. Here, at the central <D3>African</D3> country’s first ice-cream shop, customers can buy ice cream in sweet cream, passion fruit, strawberry and pineapple flavors. <A2>Toppings include fresh fruit, honey, chocolate chips and granola. <D1>They can also buy black tea and coffee.</D1></A2>
+
+Q: Where is the ice cream shop located?
+a: Butare
+b: Burundi
+c: Near a popular tea and coffee shop
+d: The capital Kigali
+
+Q: What can customers buy at the ice cream shop, other than ice cream?
+a: Beverages
+b: Passion fruit
+c: Traditional Butare sweets
+d: Frozen yogurt
+
+Q1: Where is one place where people come to the ice cream shop from?
+a: Burundi
+b: Inzozi Nziza
+c: South Africa
+d: Uganda
+
+# Paragraph
+
+Adv: The shop, which has “ice cream, coffee, dreams” across its signage, is milking <D1>local curiosity about the dessert</D1> – and <D2>“changing lives”</D2> in the process, says Inzozi Nziza’s manager, Louise Ingabire. “Ice cream is important,” she says between mouthfuls of a honey-flavored offering. <A1>“Some Rwandans like ice cream, but it’s a new thing. We still have some work to do, to tell others that they’ll enjoy it.”</A1> True to Inzozi Nziza’s motto, the shop can certainly <D3>make dreams come true.</D3> <A3><A2>“I didn’t have a job before: I just stayed at home. Now, I have a vision for the future. I am making money and I can give some of it to my family,” says the 27-year-old.</A2></A3>
+
+Int: The shop, which has “ice cream, coffee, dreams” written on its signs, is taking advantage of <D1>local curiosity about the dessert</D1> – and <D2>“changing lives”</D2> in the process, says Inzozi Nziza’s manager, Louise Ingabire. “Ice cream is important,” she says between mouthfuls of a honey-flavored offering. <A1>“Some Rwandans like ice cream, but it’s a new thing. We still have some work to do, to tell others that they’ll enjoy it.”</A1> The shop can certainly <D3>make dreams come true.</D3> <A3><A2>“I didn’t have a job before: I just stayed at home. Now, I have a vision for the future. I am making money and I can give some of it to my family,” says the 27-year-old.</A2></A3>
+
+Ele: The shop, which has “ice cream, coffee, dreams” written on its signs, is taking advantage of <D1>local people’s curiosity about ice cream</D1> – and the shop is also <D2>“changing lives,”</D2> says Inzozi Nziza’s manager, Louise Ingabire. “Ice cream is important,” she says between mouthfuls of honey-flavored ice cream. <A1>“Some Rwandans like ice cream, but it’s a new thing. We still have some work to do, to tell others that they’ll enjoy it.”</A1> The shop can certainly <D3>make dreams come true.</D3> <A3><A2>“I didn’t have a job before: I just stayed at home. Now, I have a vision for the future. I am making money and I can give some of it to my family,” says the 27-year-old.</A2></A3>
+
+Q: Why does Louise Ingabire say there is still work to be done?
+a: Ice cream is currently not very common in Rwanda
+b: Many Rwandans say they will not enjoy it
+c: Local people are incurious about ice cream
+d: The ice cream flavor can still be improved
+
+Q: What does Ingabire plan to do with some of the money she is making?
+a: Provide financial support to her relatives
+b: Start a family
+c: Change many people’s lives
+d: Improve her shop
+
+Q2: Why did Ingabire previously stay at home?
+a: She was not employed
+b: She was able to make money from home
+c: She was trying to make her family’s dreams come true
+d: She was taking care of her parents
+
+# Paragraph
+
+Adv: <A1><A3>Butare, which has 89,600 residents and is located 135km south of <D2>the capital, Kigali,</D2> is the home of the National University of Rwanda.</A3></A1> Inzozi Nziza has become a hub for tired students looking to treat themselves to something cool and different. “It’s something uniting people here,” Kalisa Migendo, a 24-year-old agriculture student, says. “If you need to go out and talk to a friend, a girl or a boy, you come to Inzozi Nziza for an ice cream.” <A2><D3>Most of the ingredients are sourced locally</D3> and the milk comes from a depot in nearby <D1>Nyanza.</D1> The vanilla beans and cocoa are imported.</A2>
+
+Int: <A1><A3>Butare, which has 89,600 residents and is located 135km south of <D2>the capital, Kigali,</D2> is the home of the National University of Rwanda.</A3></A1> Inzozi Nziza has become a meeting place for tired students looking to treat themselves to something cool and different. “It’s something uniting people here,” Kalisa Migendo, a 24-year-old agriculture student, says. “If you need to go out and talk to a friend, a girl or a boy, you come to Inzozi Nziza for an ice cream.” <A2><D3>Most of the ingredients are from local sources</D3> and the milk comes from nearby <D1>Nyanza.</D1> The vanilla beans and cocoa are imported.</A2>
+
+Ele: <A1><A3>Butare has 89,600 residents and is 135km south of <D2>the capital, Kigali.</D2> It is the home of the National University of Rwanda.</A3></A1> Inzozi Nziza has become a meeting place for students who want to treat themselves to something cool and different. “The shop is uniting people here,” Kalisa Migendo, a 24-year-old student, says. “If you need to go out and talk to a friend, a girl or a boy, you come to Inzozi Nziza for an ice cream.” <A2><D3>Most of the ingredients are from local sources</D3> and the milk comes from nearby <D1>Nyanza.</D1> The vanilla beans and cocoa are imported.</A2>
+
+Q: Where is the National University of Rwanda located?
+a: Butare
+b: Kigali
+c: Nyanza
+d: Nairobi
+
+Q: Where do the ice cream shop’s ingredients come from?
+a: Some are local and some are not local
+b: Most are from nearby Nyanza
+c: Some are local and some from the capital, Kigali
+d: Most are from a nearby grocery store
+
+Q1: What is true of Kigali?
+a: It is 135km away from Butare
+b: It is the home of the National University of Rwanda
+c: It is where Inzozi Nziza gets most of its ingredients from 
+d: It is the most famous city in Rwanda
+
+# Paragraph
+
+Adv: <A1><A3>Inzozi Nziza was opened by the theater director <D2>Odile Gakire Katese.</D2> She met Alexis Miesen and Jennie Dundas, co-founders of Blue Marble Ice Cream in Brooklyn, New York, and formed a partnership with them to open the shop in 2010.</A3></A1> “An ice-cream shop, Katese proposed, might help to put the human pieces back together by rebuilding spirits, hopes and family traditions,” Miesen says. <A2>At the start, Miesen and Dundas owned the shop <D3>in partnership with its staff</D3> and had shares in the business, which is a cooperative and non-profit. They did not set financial targets, but waited for 18 months before <D1>they transferred their shares to the women, who had by then proved their business credentials.</D1></A2>
+
+Int: <A1><A3>Inzozi Nziza was opened by the theater director <D2>Odile Gakire Katese.</D2> She met Alexis Miesen and Jennie Dundas, co-founders of Blue Marble Ice Cream in Brooklyn, New York, and formed a partnership with them to open the shop in 2010.</A3></A1> “An ice-cream shop, Katese said, might help to put the human pieces back together by rebuilding spirits, hopes and family traditions,” Miesen says. <A2>At the start, Miesen and Dundas owned the shop <D3>in partnership with its staff</D3> and had shares in the business, which is a cooperative and non-profit. After 18 months, <D1>they transferred their shares to the women, who had by then proved they could run the business.</D1></A2>
+
+Ele: <A1><A3>Inzozi Nziza was opened by <D2>Odile Gakire Katese.</D2> She met Alexis Miesen and Jennie Dundas, co-founders of Blue Marble Ice Cream in Brooklyn, New York. The three women formed a partnership to open the shop in 2010.</A3></A1> <A2>At the start, Miesen and Dundas owned the shop in <D3>partnership with its employees</D3> and had shares in the business, which is a cooperative. After 18 months, <D1>they gave their shares to the women employees, who by then could control the business by themselves.</D1></A2>
+
+Q: What happened in 2010?
+a: A partnership was formed to open an ice cream shop
+b: Alexis Miesen and Jennie Dundas co-founded Blue Marble Ice Cream
+c: Women workers received shares of Inzozi Nziza
+d: Inzozi Nziza became the most popular dessert shop in Rwanda
+
+Q: Who had all the shares of the business 18 months after the opening?
+a: The workers
+b: Miesen and Dundas
+c: Odile Gakire Katese
+d: A local family
+
+Q1: Who founded Blue Marble Ice Cream?
+a: Alexis Miesen and Jennie Dundas
+b: Odile Gakire Katese
+c: A partnership of ice cream store workers
+d: A group of social activists
+
+# Paragraph
+
+Adv: Though ice cream is somewhat new to Rwanda, Ndangiza is enthused by the idea of the shop. “I think it’s great. It requires a lot of skills and changing people’s mindsets because selling and <D2>eating ice cream is not part of Rwanda’s culture".</D2> <A3><A1>The Butare shop employs nine women, who spend their spare time practicing with Ingoma Nshya, Rwanda’s first and only female drumming troupe, which was established by Katese ten years ago. The musicians are Hutu and Tutsi women,</A1></A3> <D3><D1>some survivors of the 1994 genocide,</D1> during which almost a million Tutsis and moderate Hutus were killed.</D3> Some members of Ingoma Nshya are widows, some orphans. <A2>Ingabire’s father, two siblings and many cousins were killed in the genocide. “Some of us are survivors; some know someone who was killed,” she says. “When I’m drumming with them, it gives me power because we’re still alive and survivors.”</A2>
+
+Int: Ice cream is new to Rwanda. Making the business successful requires a lot of skills and changing people’s way of thinking because selling and <D2>eating ice cream is not part of Rwandan culture.</D2> <A3><A1>The Butare shop employs nine women, who spend their spare time practicing with Ingoma Nshya, Rwanda’s first and only female drumming group, which was established by Katese ten years ago. The musicians are Hutu and Tutsi women.</A1></A3> <D3><D1>Some are survivors of the 1994 genocide,</D1> during which almost a million Tutsis and Hutus were killed.</D3> Some members of Ingoma Nshya are widows, some orphans. <A2>Ingabire’s father, two siblings and many cousins were killed in the genocide. “When I’m drumming, it gives me power because we’re still alive and survivors,” she says.</A2>
+
+Ele: Ice cream is new to Rwanda. Selling and eating <D2>ice cream is not part of the Rwandan culture.</D2> <A3><A1>The Butare shop employs nine women. They spend their free time practicing with Ingoma Nshya, Rwanda’s first and only female drumming group. The musicians are Hutu and Tutsi women.</A1></A3> <D3><D1>Some are survivors of the 1994 genocide,</D1> when almost a million Tutsis and Hutus were killed.</D3> Some members of Ingoma Nshya are widows, some orphans. <A2>Ingabire’s father, two siblings and many cousins were killed in the genocide. “When I’m drumming, it gives me power because we’re still alive and survivors,” she says.</A2>
+
+Q: What is common to all the members of Ingoma Nshya?
+a: They are all Hutu and Tutsi women
+b: They are all employees of the Butare ice cream shop
+c: They are all survivors of the 1994 genocide
+d: They all like ice cream
+
+Q: What does drumming do for Ingabire?
+a: It empowers her as a survivor
+b: It is something she can enjoy with her family
+c: It makes her feel part of the Rwandan culture
+d: It provides a source of stress relief
+
+Q1: What is Ingoma Nshya?
+a: A group of drummers in Rwanda whose members are all women
+b: A group of Hutu and Tutsi drummers that are ice cream shop employees
+c: A support group for Tutsi and Hutu survivors of the 1994 genocide
+d: A drumming festival in Rwanda
+
+# Paragraph
+
+Adv: <A3><A1>The popular ice-cream shop features in a documentary by Rob and Lisa Fruchtman, sibling film-makers. Sweet Dreams, which tells the story of how the women have forged a promising post-genocide future, also includes the <D2>female drummers.</D2></A1></A3> The film, which has been screened in more than a dozen countries, including the US, UK and <D3>several African states,</D3> premieres in Rwanda in 2014. <A2>“We feel the film is about resilience, <D1>hope, bravery,</D1> resourcefulness and the ability to change the course of your own life,” says Lisa Fruchtman, who won an Academy Award for film-editing in 1984.</A2>
+
+Int: <A3><A1>The ice-cream shop is in a documentary by film-makers Rob and Lisa Fruchtman. Sweet Dreams, which tells the story of how the women have made a promising post-genocide future, also includes the <D2>female drummers.</D2></A1></A3> The film has been shown in more than a dozen countries, including the US, UK and <D3>several African states.</D3> <A2>“We feel the film is about resilience, <D1>hope, bravery,</D1> resourcefulness and the ability to change the course of your own life,” says Lisa Fruchtman.</A2>
+
+Ele: <A3><A1>The ice-cream shop is in a documentary by film-makers Rob and Lisa Fruchtman. Sweet Dreams, which tells the story of how the women have made a positive future after the genocide, also includes the <D2>female drummers.</D2></A1></A3> The film has been shown in many countries, including the US, UK and <D3>several African states.</D3> <A2>“We feel the film is about <D1>hope, bravery</D1> and the ability to change your life,” says Lisa Fruchtman.</A2> 
+
+Q: What is the name of Rob and Lisa Fruchtman’s film?
+a: Sweet Dreams
+b: The Ice-cream Shop
+c: Hope and Bravery
+d: Against the Odds
+
+Q: What is one of the things Lisa Fruchtman feels the film is about?
+a: Courage
+b: How to change your friends’ lives
+c: The importance of female drummers
+d: Love
+
+Q1: Who appears in the film Sweet Dreams?
+a: Women who drum
+b: Women whose relatives did not survive the genocide
+c: Women from several African states who are ice cream shop employees
+d: Women who are trying ice cream for the first time
+
