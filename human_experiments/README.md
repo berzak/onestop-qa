@@ -20,6 +20,8 @@ QA Experiment ran with MIT students in lab. The task is identical to the prolifi
 OneStopQA: os[article \#]\_[paragraph \#]\_[question \#]\_[difficulty level]  
 RACE: r[file name]\_[question \#]\_[difficulty level]
 
+Answers map: 0:a, 1:b, 2:c, 3:d
+
 OnesStopQA items are taken from the following 20 articles:
 
 |\#	| file name |
