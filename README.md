@@ -28,6 +28,7 @@ Questions: 486
 Question-Paragraph Level pairs: 1,458  
 
 # Citation
+[STARC: Structured Annotations for Reading Comprehension](http://people.csail.mit.edu/berzak/papers/acl2020.pdf)  
 ```
 @inproceedings{starc2020,  
       author    = {Berzak, Yevgeni and Malmaud, Jonathan and Levy, Roger},  
