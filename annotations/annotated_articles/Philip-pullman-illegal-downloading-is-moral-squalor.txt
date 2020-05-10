@@ -10,13 +10,13 @@ Int: <D1>Illegal downloading is a kind of “moral squalor” and theft, as much
 
 Ele: <D1>Illegal downloading is morally wrong, and it is theft, the same as how putting your hand in someone’s pocket and stealing their wallet is theft,</D1> says author Philip Pullman. <A1>In an article for the magazine Index on Censorship, Pullman, who is president of the Society of Authors,</A1> <D3><D2>strongly defends copyright laws.</D2></D3> <A3><A2>He criticizes Internet users who think it is OK to download music or books without paying for them.</A2></A3>
 
-Q: Where does Philip Pullman hold a senior position? # Q,a,b,c,d
+Q: Where does Philip Pullman hold a senior position?
 a: The “Society of Authors”
 b: The “Index on Censorship”
 c: The “Association Against Illegal Downloading”
 d: The “Arts Union”
 
-Q: What does Pullman think about pirating? # a,b,c
+Q: What does Pullman think about pirating?
 a: He disapproves of people who are OK with pirating
 b: He thinks it is only OK to download music or books without paying for them if it is done infrequently
 c: He believes it is a robust defense against copyright laws
@@ -36,19 +36,19 @@ Int: <D3>“The technical brilliance is so dazzling</D3> that <D2>people can’t
 
 Ele: <D3>“The technology is so dazzling</D3> that <D2>people can’t see that what they’re doing is morally wrong,”</D2> he writes. <A1>“It is outrageous that anyone can steal an artist’s work without punishment. It is theft, just as putting your hand in someone’s pocket and taking their wallet is theft.”</A1> His article comes after music industry leaders met British Prime Minister David Cameron in Downing Street to discuss the issue of web piracy. <A3><A2>Pullman, writer of the His Dark Materials trilogy, says <D1>authors and musicians work in poverty for years</D1> to bring their work to the level “that gives happiness to their audiences and, when they achieve that, the possibility of making money from it is taken away from them”.</A2></A3> He concludes: “If we want to enjoy the work that someone does, we should pay for it.”
 
-Q: What does Pullman find outrageous? # Q,a,b,c,d
+Q: What does Pullman find outrageous?
 a: That someone pirating a book would not face consequences
 b: That someone stealing a wallet would not be punished
 c: That authors and musicians work in poverty for years
 d: That his book is one of the most pirated books on the Internet
 
-Q: What does Pullman imply about artists? # Q,a,b,c,d
+Q: What does Pullman imply about artists?
 a: They do not earn enough money for the amount of effort they put in
 b: Their happiness is derived from their audience’s happiness as a result of their work
 c: They can’t see some of the moral issues with illegal downloading
 d: They are unaware how often their works are pirated
 
-Q2: What does Pullman say about authors and musicians? # a,b,c,d
+Q2: What does Pullman say about authors and musicians?
 a: Many don’t have financial success for many years
 b: They have to choose between bringing happiness to their audience and making money
 c: Many use technology extensively
@@ -62,19 +62,19 @@ Int: Pullman is writing in the next issue of the campaign group’s magazine in 
 
 Ele: Pullman is writing in the next issue of the campaign group’s magazine in a dialogue with Cathy Casserly, chief executive of Creative Commons. <A1>Casserly argues that there is a lot wrong with copyright, which was created a long time ago. <A3>Casserly writes: “Copyright closes the door on the many ways that people can share, <D2>build upon and remix each other’s work,</D2> possibilities that we could not imagine when those laws were made.”</A3></A1> <D3><A2><D1>She says artists need to think creatively</D1> about how they earn money from their work.</A2></D3>
 
-Q: What is Casserly’s position on current copyright law? # Q,b,c,d
+Q: What is Casserly’s position on current copyright law?
 a: It is outdated and too strict
 b: It is unable to protect authors from having their work shared, built upon and remixed
 c: It will allow artists to do more creative work
 d: It is a good compromise between the needs of artists and consumers
 
-Q: What does Casserly recommend that artists do? # c
+Q: What does Casserly recommend that artists do?
 a: Think of out-of-the-box ways to get money from their work
 b: Use a creative new system that Casserly invented to earn money
 c: Build upon each other’s work
 d: Offer more of their creative output for a lower price
 
-Q1: According to Casserly, what does the current copyright law prevent artists from doing? # a,b,c,d
+Q1: According to Casserly, what does the current copyright law prevent artists from doing?
 a: Adding to or editing work that was created by others
 b: Imagining new possibilities for protecting their work
 c: Earning money from the work they produce
@@ -88,19 +88,19 @@ Int: Index on Censorship agrees. The magazine’s editor, Rachael Jolley, said: 
 
 Ele: Index on Censorship agrees. <A1>The magazine’s editor, Rachael Jolley, said: “Illegal downloading is a very big problem.” <A3>Between November 2012 and January 2013 in the UK, 280 million music tracks were digitally pirated along with 52 million TV shows, 29 million films, 18 million ebooks and 7 million software or games files.</A3> 18% of Internet users aged over 12 say they have pirated items, and <D2>9% say they are afraid they will get caught.</D2></A1> <A2>Pullman writes in his article: <D3><D1>“The ease and speed with which people can get music in MP3</D1></D3> is still very surprising to people like me who have been building up their iTunes list for some time.”</A2>
 
-Q: What do the statistics in the paragraph convey? # b,d # a,b
+Q: What do the statistics in the paragraph convey?
 a: How frequently different kinds of digital content are pirated
 b: How pirating frequency has changed between November 2012 and January 2013
 c: The ease and quickness of the MP3 format
 d: How pirating has evolved over time to combat copyright law
 
-Q: What is the purpose of Pullman’s quote? # a,c # d
+Q: What is the purpose of Pullman’s quote?
 a: It contrasts the time and effort of getting music legally with downloading it illegally
 b: It conveys how strikingly well legal downloading services like iTunes work
 c: It informs that only 9% of people are fearful they might get caught when pirating music
 d: It informs people about the legal consequences of pirating
 
-Q1: Which type of digital media is pirated the least, according to the statistics presented in the passage? # b,d
+Q1: Which type of digital media is pirated the least, according to the statistics presented in the passage?
 a: Software and games
 b: TV shows 
 c: MP3 music
@@ -114,19 +114,19 @@ Int: One thing to emerge from <D3><D1>the Downing Street meeting</D1></D3> was C
 
 Ele: After <D3><D1>the Downing Street meeting,</D1></D3> <A3>Cameron asked <A1>the Conservative member of parliament Mike Weatherley to be his adviser on the subject. The BPI, an organization that supports music companies, said: “Mike Weatherley is a strong supporter of copyright and <D2>the artists and creative producers it’s there to protect.</D2></A1></A3> <A2>We hope Weatherley’s influence and the prime minister’s support for copyright will change what the government does about illegal downloading in the UK.”</A2>
 
-Q: Who is Mike Weatherly and what is his relation to the BPI? # Q,a,b,c,d # b
+Q: Who is Mike Weatherly and what is his relation to the BPI?
 a: He is a politician who is endorsed by the BPI
 b: He is a conservative businessman who is the head of the BPI
 c: He is a resident of Downing Street who organizes meetings to oppose the BPI
 d: He is a lobbyist who works for the BPI
 
-Q: Who does the BPI expect will drive change in copyright policy? # Q,a,b,c,d
+Q: Who does the BPI expect will drive change in copyright policy?
 a: Weatherly and the prime minister
 b: Weatherly and copyright supporters
 c: Artists and creative producers
 d: The general public and copyright activists
 
-Q1: Who states that copyright is meant to protect artists and producers? # d
+Q1: Who states that copyright is meant to protect artists and producers?
 a: The BPI
 b: Cameron
 c: Downing Street

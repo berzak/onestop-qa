@@ -10,19 +10,19 @@ Int: The right of Bolivia’s indigenous Indian tribes to chew coca leaves, the 
 
 Ele: A big international disagreement has started over the right of Bolivia’s indigenous Indian tribes to chew coca leaves, the main ingredient in cocaine. This could have a significant effect on global drugs policy. <A3><A1><D2>Bolivia has received a special exemption from the 1961 Convention on Drugs,</D2> the agreement that controls international drugs policy. The exemption allows Bolivia’s indigenous people to chew the leaves.</A1></A3> <A2><D1>Bolivia said that the convention was against its new constitution,</D1> adopted in 2009, which says it must “protect native and ancestral coca” as part of its cultural heritage and says that <D3>coca “in its natural state ... is not a dangerous drug.”</D3></A2> 
 
-Q: What was the purpose of the 1961 Convention on Drugs? # Q,a,b,c,d
+Q: What was the purpose of the 1961 Convention on Drugs?
 a: Regulating international policy on drugs
 b: Discussing whether indigenous people in Bolivia should be allowed to chew coca leaves
 c: Discussing the legal status of Bolivia’s constitution
 d: Negotiating extradition agreements for drug traffickers
 
-Q: What does Bolivia’s constitution say? # Q,a,b,c,d
+Q: What does Bolivia’s constitution say?
 a: That coca should be protected
 b: Bolivia does not allow the consumption of dangerous drugs
 c: That it accepts the decisions of the 1961 Convention on Drugs
 d: That consumption of drugs, but not their distribution, is legal
 
-Q1: Who is currently permitted to consume coca in Bolivia? # Q,a,b,c,d
+Q1: Who is currently permitted to consume coca in Bolivia?
 a: Anyone who is considered to be indigenous
 b: Anyone who received a special exemption from the Bolivian government
 c: Anyone who uses it in its natural state
@@ -100,7 +100,7 @@ b: Lower risk of more liberal drug control regimes
 c: Less popular support for Bolivia’s dictatorship
 d: An increased risk of conflict in the region
 
-Q2: What did Russia warn will happen? 
+Q2: What did Russia warn will happen?
 a: Bolivia’s exemption will be a hazardous model that could be used by other countries
 b: Dangerously strict drug control regimes will be adopted by many countries
 c: Russia will annul its 1964 decision to support the right of indigenous people to chew coca

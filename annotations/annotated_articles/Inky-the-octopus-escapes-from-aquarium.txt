@@ -10,7 +10,7 @@ Int: An octopus has escaped from the National Aquarium in New Zealand by leaving
 
 Ele: An octopus has escaped from the National Aquarium in New Zealand. It escaped from its tank, slid down a 50-meter drainpipe and <D2>disappeared into the sea.</D2> Inky – a common New Zealand octopus – escaped after someone left the lid of his tank open. <D1>Staff at the aquarium believe that, in the middle of the night, when there was no-one in the building,</D1> Inky climbed down the side of the tank and traveled across the floor. Rob Yarrell, national manager of the National Aquarium of New Zealand in Napier, said: <A1>“Octopuses are famous for their ability to escape. I don’t think <D3>he was unhappy</D3> with us, or lonely, because octopuses like to live alone.</A1> <A3><A2>But, he is such a curious boy. He would want to know what’s happening on the outside. That’s his personality.”</A2></A3>
 
-Q: Why does Yarrell mention that octopuses live alone? # # a,d
+Q: Why does Yarrell mention that octopuses live alone?
 a: To provide evidence that Inky did not escape because he was lonely
 b: To propose that Inky escaped because there were too many people in the aquarium
 c: To explain why Inky could only escape when no one was around
@@ -22,7 +22,7 @@ b: He was scared of something happening outside his tank
 c: He wanted to disappear into the sea
 d: He was being mistreated by aquarium personnel
 
-Q2: How does Yarrell describe Inky’s personality? # a,c,d
+Q2: How does Yarrell describe Inky’s personality?
 a: Curious
 b: Nervous about what’s happening on the outside
 c: Unhappy
@@ -36,19 +36,19 @@ Int: <A1>One theory is that Inky slid across the aquarium floor – a journey of
 
 Ele: <A1>One idea is that Inky crossed the aquarium floor – a journey of three or four meters – and then, he realized that freedom was very near so he <D3><D2>entered a drainpipe that led directly to the sea.</D2> The drainpipe was 50 meters long</D3> and opened into Hawke’s Bay, on the east coast of New Zealand’s North Island. It is also possible that <D3>Inky escaped through an open pipe</D3> at the top of his tank, which led under the floor to the drain.</A1> “When we came in the next morning and his tank was empty, I was really surprised,” said <A3><A2><D1>Yarrell, who has not started looking for Inky. “The staff and I have been sad.</D1></A2> But then, this is Inky and he’s always been a bit of a surprise octopus.”</A3>
 
-Q: How did Inky escape? # a,c,d # a
+Q: How did Inky escape?
 a: No one is sure - there are several theories that could explain his escape
 b: Through an open pipe at the top of his tank
 c: Yarrell and other staff secretly helped him
 d: Through a window that was accidentally left open
 
-Q: What was the staff’s reaction to Inky’s disappearance? # d
+Q: What was the staff’s reaction to Inky’s disappearance?
 a: They were upset but did not search for him
 b: They were sad and launched a thorough search, but couldn’t find him
 c: They examined a drainpipe that led directly to the sea to find him
 d: They were upset that they did not take adequate precautions
 
-Q2: Why does Inky’s escape make sense to Yarrell? # b,c,d
+Q2: Why does Inky’s escape make sense to Yarrell?
 a: Inky has been known to surprise people
 b: Inky had been sad for a while
 c: Inky always liked to explore to pipes
@@ -62,19 +62,19 @@ Int: Reiss Jenkinson, exhibits keeper at the National Aquarium, said he was abso
 
 Ele: Reiss Jenkinson, a keeper at the National Aquarium, said he was absolutely certain Inky was not stolen. “I understand octopus behavior very well,” he said. “I have seen octopuses on boats escape through waste pumps. <A3><A1>And, the security here is too good for anyone to take Inky and why would they?”</A1></A3> <D2>Because octopuses have no bones, they can fit into very small spaces and can squeeze through gaps the size of coins.</D2> <A2>They are also very intelligent and able to use tools. At the Island Bay Marine Education Center in Wellington, an octopus visited another tank every night to <D3><D1>steal crabs,</D1></D3> then return to its own tank. Another octopus at the center, Ozymandias, broke a world record for opening a jar.</A2>
 
-Q: How good is the security of the aquarium, according to Jenkinson? # Q,a,b,c,d
+Q: How good is the security of the aquarium, according to Jenkinson?
 a: Too good for anything to be stolen from the aquarium without the theft being noticed
 b: Not great, since the aquarium didn’t think anyone would try to steal from them 
 c: Not effective, as crabs and other creatures have been stolen in the past
 d: It used to be poor, but became more secure in response to Inky’s disappearance
 
-Q: Why does the article mention Ozymandias? # b,d # a
+Q: Why does the article mention Ozymandias?
 a: To give an example of the cleverness of octopuses
 b: To explain that octopuses like opening jars
 c: To prove that octopuses can squeeze through gaps the size of coins
 d: To convey that there were other octopuses in the aquarium
 
-Q1: According to Inky’s keeper, why is it likely Inky wasn’t stolen? # a,d
+Q1: According to Inky’s keeper, why is it likely Inky wasn’t stolen?
 a: No one would have motivation to steal him
 b: Security cameras saw him escape
 c: It is more common for people to steal crabs
@@ -88,7 +88,7 @@ Int: <D3>Inky was brought to the National Aquarium several years ago by a local 
 
 Ele: <D3>Inky was brought to the National Aquarium several years ago by a local fisherman who found him in a fishing pot.</D3> <A3><A1>Yarrell said, “He lived on the reef and fought with fish so he wasn't in a good shape.”</A1></A3> According to Yarrell, Inky – who is about the size of a rugby ball – was an “unusually intelligent” octopus. <D1>“He was very friendly and a popular attraction here.</D1> <D2>We have another octopus, Blotchy,</D2> but he is smaller than Inky and Inky had the personality.” <A2>The aquarium has no plans to increase security as a result of the escape but the staff now know “what octopuses can do” so they will be more careful. The aquarium is not looking for another octopus but, if a fisherman brought in another octopus, the aquarium might take it.</A2>
 
-Q: How was Inky before coming to the aquarium? # a,d # a,b
+Q: How was Inky before coming to the aquarium?
 a: He was not doing well
 b: He was strong from fighting with fish
 c: He was friendly and popular
@@ -100,7 +100,7 @@ b: They will upgrade their security
 c: They will get another octopus which they will name “Blotchy”
 d: They will start a search for Inky
 
-Q1: Why was Inky in poor shape before coming to the aquarium? # Q,a,b,c,d
+Q1: Why was Inky in poor shape before coming to the aquarium?
 a: Because he fought with fish on a reef
 b: Because he lived around sick fish
 c: Because he lived in a dirty fishing pot

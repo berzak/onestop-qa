@@ -36,7 +36,7 @@ Int: <D1><D2>Fildes, 49, is at the forefront of the UK’s growing astrotourism 
 
 Ele: <D1><D2>Fildes is a leading figure in the UK’s growing astrotourism industry.</D2></D1> The key moment for Northumberland came in 2013 when the entire national park, about 1,500 square kilometers in area, got Dark Sky Park status. It is the only one in England. Dark Sky Parks are rare. <A1><D3>The 2013 Star Count showed that only 5% of the UK population can see more than 31 stars on a clear night.</D3></A1> <A3><A2>The International Dark-Sky Association (IDA) gives the status of Dark Sky Park</A2> only to places that take big steps to prevent light pollution. The areas must also prove their night skies are very dark. In Northumberland Dark Sky Park, it is so dark that Venus casts a shadow on the Earth.</A3>
 
-Q: What did the 2013 Star Count find? #Q,c,d
+Q: What did the 2013 Star Count find?
 a: That only a small portion of the population could see over 31 stars on a clear night
 b: That 5% of the UK population goes out to look at stars
 c: That Fieldes is the leading figure in the UK’s astrotourism industry
@@ -88,7 +88,7 @@ Int: <A1><A3>Wise agrees that Northumberland needs to do more to take advantage 
 
 Ele: <A1><A3>Wise agrees that Northumberland needs to do more to take advantage of its dark skies, which are very rare. He believes the region needs more observatories to make sure that visitors will see what they came for. <D2>A new £14-million national landscape discovery center</D2> will have an observatory when it is completed in a couple of years.</A3></A1> <A2>Fildes has big ambitions. He is planning Britain’s first “astrovillage” – it would have the largest public observatory in the world, a 100-seat auditorium, <D3>a 100-seat planetarium, and radiomagnetic and solar telescopes.</A2> The multimillion-pound project would also have a hotel</D3> and <D1>attract 100,000 visitors a year – that is four times the number that are currently able to use the observatory. Fildes believes the astrovillage will be a reality by 2018.</D1>
 
-Q: Why does Wise believe Northumberland needs more observatories? #a,b,d
+Q: Why does Wise believe Northumberland needs more observatories?
 a: So that more visitors will be able to view the dark skies
 b: So that the government will invest £14 million in the region
 c: So that 100,000 people can visit Northumberland by 2018

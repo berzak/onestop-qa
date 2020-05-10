@@ -10,19 +10,19 @@ Int: <D1><D3>Do you want your child to be good at sports, play for the school te
 
 Ele: <D1><D3>Do you want your child to be good at sports, play for the school team and, maybe one day, even be in international competitions?</D3></D1> <D2>Well, try to make sure that your child is born in November or October.</D2> A study has found that schoolchildren born in November or October are fitter than everyone else in their class. <A3><A1>Children born in November or October were fitter, stronger and more powerful than children born in the other ten months of the year. They are especially fitter, stronger and more powerful than children with birthdays in April or June.</A1></A3> <A2>Dr. Gavin Sandercock of Essex University found in his study that children born in the autumn had “a clear physical advantage” over their classmates.</A2>
 
-Q: What does the study say about the fitness of children born in April or June? # Q,b,c
+Q: What does the study say about the fitness of children born in April or June?
 a: They are weaker than children born in November and October
 b: They are stronger than all children, except those born in November and October 
 c: They tend to be particularly good at sports
 d: They tend to perform well on math and science exams when compared to other children
 
-Q: Who is Gavin Sandercock? # Q,a,b,c,d
+Q: Who is Gavin Sandercock?
 a: A researcher who conducted the study
 b: The dean of Essex University
 c: A parent of children who were born in November and October
 d: A professional athlete who was born in the fall
 
-Q1: Who does the article suggest to be the weakest in comparison with children born in October and November? # Q,a,b,c,d
+Q1: Who does the article suggest to be the weakest in comparison with children born in October and November?
 a: Children born in April and June
 b: All children not born in October and November are equally weak
 c: Children whose parents did not encourage them to be good at sports
@@ -42,13 +42,13 @@ b: They changed significantly between 2007 and 2010 for all children
 c: They were different between boys and girls and between different state schools
 d: They were similar for children coming from similar family backgrounds
 
-Q: What were the study’s conclusions concerning the stamina, power, and strength of November children compared to other children? # Q,a,b,c,d
+Q: What were the study’s conclusions concerning the stamina, power, and strength of November children compared to other children?
 a: November children ranked second in strength and first in stamina and power
 b: November children scored highest in each category
 c: November children came slightly behind December children in one of the categories
 d: November children did not differ from children born in other months
 
-Q1: What was one measure the scientists used to assess the children’s fitness? # a,b,c
+Q1: What was one measure the scientists used to assess the children’s fitness?
 a: Hand muscle strength
 b: Upper body strength
 c: Age
@@ -62,19 +62,19 @@ Int: The gap in physical ability between children in <D2>the same class</D2> but
 
 Ele: The gap in physical ability between children in <D2>the same class</D2> but born in different months was sometimes very wide. <A1>“For example, we found that a boy born in November <D3>can run at least 10% faster, jump 12% higher and is 15% more powerful</D3> than a child of the same age born in April. This is a huge physical advantage,” said Sandercock.</A1> <A2>These gaps could decide who became a top-level athlete because <A3><D1>“selection into elite sports may often depend on very small differences in a person’s physical performance”.</D1></A3></A2> The study found that, when scores for the three kinds of fitness were put together, children born in April were the least fit, followed by children born in June.
 
-Q: What are percentages used for in the passage? # a,d
+Q: What are percentages used for in the passage?
 a: To indicate that November-born children have physical advantages
 b: To compare fall-born children born in different years
 c: To show how even small differences in physical performance affect selection for elite sports
 d: To indicate the fraction of children born in November who become professional athletes
 
-Q: What can small differences in physical performance determine? # a,b,c,d # b
+Q: What can small differences in physical performance determine?
 a: Whether a person will become a professional athlete
 b: Whether a top-level sport is considered “elite”
 c: Whether a person can compete in a lower weight class
 d: Whether a person will develop an interest in sports
 
-Q2: According to Sandercock, what does selection into elite sports often depend on? # Q,a,b,c,d # c
+Q2: According to Sandercock, what does selection into elite sports often depend on?
 a: Small differences in physical ability
 b: The decision of a small selection committee
 c: Being in the top 10% to 15% of the population in speed, height and power
@@ -88,19 +88,19 @@ Int: The findings seem to show that children born in the early months of the sch
 
 Ele: The findings seem to show that children born in the early months of the school year enjoy a <D3>double “autumn advantage” – we already know that they have an academic advantage</D3> and, now, they also seem to be better at sports, too. <A1>The authors of the study believe that the most likely explanation is that <D2>children born in autumn get more vitamin D over the summer months towards the end of pregnancy.</D2></A1> <A3><A2><D1>John Steele, chief executive of the Youth Sport Trust, said the quality of a young person’s introduction to sports at school can be “a major factor” in their sporting development.</D1> “Children that get a high-quality first experience will have greater agility, balance and coordination, and are more likely to develop an enjoyment of physical activity and be good at sports as they grow up”, he said.</A2></A3>
 
-Q: What does the study say about vitamin D? # Q,a,b,c,d
+Q: What does the study say about vitamin D?
 a: Exposure to vitamin D during pregnancy explains why autumn born children are better at sports
 b: The amount of vitamin D given by the researchers to each child affect their performance at sports
 c: It supports Steele’s claim that vitamin D is a major factor in children’s sporting development
 d: Vitamin D causes more children to be born during the fall time
 
-Q: What is one effect of a high-quality first sports experience, according to Steele? # Q,a,b,c,d
+Q: What is one effect of a high-quality first sports experience, according to Steele?
 a: Enjoyment of physical activity
 b: High expectations from the social environment to be good at sports
 c: Increased exposure to vitamin D due to spending more time outside
 d: Better performance on standardized tests
 
-Q2: What does Steele say is “a major factor” in the development of a child’s athletic abilities? # d
+Q2: What does Steele say is “a major factor” in the development of a child’s athletic abilities?
 a: The child’s initial exposure to sports in school
 b: The enjoyment the children derive from sports
 c: The academic advantage of autumn-born children
@@ -114,19 +114,19 @@ Int: <D3><D2>UK Sport could not say if a disproportionate majority of the 1,300 
 
 Ele: <D3><D2>UK Sport could not say if a majority of the 1,300 athletes it gives money to were born in November and October.</D2></D3> <A1>Natalie Dunman, its head of performance, said that the differences shown in the new study were true for teenagers in junior-level competitions, but that the differences disappear before athletes were in adult competitions.</A1> <A3><A2>She said: “With adult athletes, there are <D1>many factors that make a champion</D1> and we don’t think that month of birth is one of the key ingredients.”</A2></A3>
 
-Q: What does Natalie Dunman note is a limitation to the study? # Q,b,c
+Q: What does Natalie Dunman note is a limitation to the study?
 a: It did not investigate if the differences in teenagers persisted to adulthood
 b: The teenagers in the study did not take part in junior-level competitions
 c: It examined too many unimportant factors in determining what makes a champion athlete
 d: It had too small a sample size
 
-Q: According to Dunman, when it comes to adult athletes ...  # Q,c,d
+Q: According to Dunman, when it comes to adult athletes ...
 a: birth month is a relatively unimportant component
 b: birth month is only one of the key ingredients
 c: almost half the 1,300 athletes employed by UK Sport were born in November and October
 d: getting sufficient vitamin D is unimportant
 
-Q2: Where does Dunamn believe the athletic abilities of adults are derived from? # Q,a,b,d
+Q2: Where does Dunamn believe the athletic abilities of adults are derived from?
 a: A combination of multiple different factors
 b: The month in which they were born in
 c: The opportunities offered by UK Sport during their youth

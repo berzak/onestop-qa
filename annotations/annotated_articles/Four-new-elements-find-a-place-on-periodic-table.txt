@@ -94,7 +94,7 @@ b: They were named after scientists who were founders of the field
 c: They were named after scientists at IUPAC
 d: They were named after their chemical properties
 
-Q: What does the RIKEN research team plan to do now? # p,c
+Q: What does the RIKEN research team plan to do now?
 a: Try to discover additional new elements
 b: Further look into the element they discovered
 c: Finally move beyond completing the seventh row of the periodic table

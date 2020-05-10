@@ -10,13 +10,13 @@ Int: According to American researchers, a nasal spray containing the ‘Love hor
 
 Ele: American researchers say that a nasal spray containing the ‘Love hormone’ oxytocin could help children with autism behave more normally in social situations. <A1>Scans of autistic children showed that the chemical made the brain respond better to faces.</A1> This could make social interactions easier for them. <A3><A2>The researchers said oxytocin might help other treatments that are used to help people with autism in social situations.</A2></A3> <D3>“Over time, there would be more normal social responding.</D3> Autistic people would be more interested in interacting with other people; there would be more eye contact and <D1>more conversation,”</D1> <D2>said Kevin Pelphrey, of Yale University.</D2>
 
-Q: What difference did oxytocin make to the brains of autistic children, as shown in brain scans? # b,c
+Q: What difference did oxytocin make to the brains of autistic children, as shown in brain scans?
 a: Improved responses to faces
 b: Improved flow of chemicals in the brain
 c: Increased responses to conversation
 d: Increased activity when solving math problems
 
-Q: How can oxytocin be used for people with autism, according to the researchers? # b,c
+Q: How can oxytocin be used for people with autism, according to the researchers?
 a: It can enhance the effectiveness of current treatments
 b: It can effectively replace current treatments
 c: It can help children like Kevin Pelphrey go to school more regularly
@@ -36,19 +36,19 @@ Int: Autism is a disorder that one in <D2>100 people have.</D2> It affects peopl
 
 Ele: Autism is a disorder that one in <D2>100 people have.</D2> It affects people in different ways, but causes difficulties in social interaction and communication. <A3><A1>So far, there is no effective treatment for the social problems that autism causes.</A1></A3> <A2><D3>Researchers at Yale have studied the brain chemical oxytocin.</D3> They say it is a possible treatment for the social problems caused by autism because it plays an important role in bonding and trust. But not all results are positive: one recent study found no significant benefit for <D1>young people who took the chemical for several days.</D1></A2> But Pelphrey said oxytocin might help the brain learn from social interactions; it would work best when used together with therapies that encourage people with autism to interact more socially, he said.
 
-Q: How were the social aspects of autism effectively treated before the time this article was written? # b,c
+Q: How were the social aspects of autism effectively treated before the time this article was written?
 a: There was no effective treatment available
 b: So far, by focusing on causes of autism
 c: With chemicals
 d: With surgery
 
-Q: What are the results of Oxytocin experiments so far? # Q,a,b,c,d
+Q: What are the results of Oxytocin experiments so far?
 a: Some experiments found oxytocin had an effect on autism and some did not
 b: Experiments worked well on all participants but one
 c: They showed good results on more than 100 people
 d: No experiments have been conducted so far
 
-Q1: What is the effectiveness of non-oxytocin treatments for social problems caused by autism? # Q,a,b,c,d
+Q1: What is the effectiveness of non-oxytocin treatments for social problems caused by autism?
 a: They have no significant effect
 b: They are highly effective but not perfect
 c: The studies conducted by researchers at Yale are focusing on this question
@@ -68,13 +68,13 @@ b: One received oxytocin through injections; the other through a nose spray
 c: One group looked at images of cars; the other looked at images of facial expressions
 d: One group was given behavioral therapy; the other was given cognitive therapy
 
-Q: What is the normal response of reward circuits in children’s brains? # Q,c
+Q: What is the normal response of reward circuits in children’s brains?
 a: Increased activity when looking at faces; decreased activity when looking at cars
 b: Increased activity when looking at cars; decreased activity when looking at faces
 c: It depends if their age is eight or 16
 d: The same activity when looking at faces and cars
 
-Q2: Why did the scientists have autistic children look at both people and cars? # d
+Q2: Why did the scientists have autistic children look at both people and cars?
 a: To see if oxytocin changed how their brains responded to them
 b: To analyze which regions of their brains respond more to people versus cars 
 c: To evoke different emotions in the children
@@ -88,19 +88,19 @@ Int: <A1><D2>“Our study suggests that oxytocin might treat something for which
 
 Ele: <A1><D2>“Our study suggests that oxytocin might treat basic social motivation. This is something for which we don’t have a treatment in autism,” said Pelphrey.</D2> <D3>He said that it was too early to use oxytocin as a treatment for the social difficulties caused by autism</D3></A1> and <A2><A3>said people should not buy oxytocin online. <D1>“We don’t want them to try oxytocin at home.</D1> It is impossible to say what they are buying. This is not a treatment yet. It needs more research,” said Pelphrey.</A3></A2> “This is an important new study,” said Simon Baron-Cohen, director of the Autism Research Center at Cambridge University.
 
-Q: Who or what claims that oxytocin could be helpful for social motivation in autism? # Q,a,b,c,d
+Q: Who or what claims that oxytocin could be helpful for social motivation in autism?
 a: Perphrey’s study
 b: Most of the past studies on treating autism
 c: People who tried it at home
 d: Popular science magazines
 
-Q: What is one reason Pelphrey warns against buying oxytocin online? # Q,a,b,c,d
+Q: What is one reason Pelphrey warns against buying oxytocin online?
 a: More research still needs to be done
 b: People might buy the wrong product
 c: He is afraid it will be used for conditions other than autism for which we don’t yet have a treatment
 d: Oxytocin requires a doctor’s prescription
 
-Q2: What does Pelphrey think about buying oxytocin online? # Q,a,b,c,d # a
+Q2: What does Pelphrey think about buying oxytocin online?
 a: He is opposed to it since more research is still needed
 b: He thinks it’s difficult to buy it online
 c: He thinks it’s too early to know if it will be sold online
@@ -114,19 +114,19 @@ Int: A surprising finding, however, is that oxytocin nasal spray did not change 
 
 Ele: But, the scientists were surprised to find that oxytocin did not help the children in social recognition tasks. <A1><A3>It is also not known yet if oxytocin only has benefits for people with autism or <D2>has any bad side effects.</D2></A3></A1> <A2><D3>Finally, oxytocin effects only last about 45 minutes, so it might be difficult to use it as a treatment.</D3></A2> <D1>“This study has a lot of evidence from animal and human work to show that oxytocin helps, but we need more research,” said Simon Baron-Cohen.</D1>
 
-Q: What is one of the reasons scientists are uncertain about using oxytocin in real life? # a,b,c,d # c,d
+Q: What is one of the reasons scientists are uncertain about using oxytocin in real life?
 a: It may have harmful side effects
 b: It might benefit people with autism but harm others
 c: Experts such as Baron-Cohen claim there is no evidence that oxytocin is effective
 d: They are afraid that insurance companies will not pay for it
 
-Q: The duration of oxytocin effects indicates that ... # Q,a,b,c,d
+Q: The duration of oxytocin effects indicates that ...
 a: it will be challenging to use it as a treatment
 b: it has the potential of being an effective treatment
 c: it might have bad side effects
 d: it might be no more effective than placebo
 
-Q1: What is currently known about the benefits and side effects of oxytocin? # Q,a,b,c,d
+Q1: What is currently known about the benefits and side effects of oxytocin?
 a: There is evidence that it has potential benefits, but little is known about its side effects
 b: Oxytocin has negative side effects while little is known about its potential benefits
 c: Oxytocin has about 45 known side effects, most of which are minor
@@ -140,19 +140,19 @@ Int: Uta Frith, who studies autism at University College London, said: <D2><D3><
 
 Ele: Uta Frith, who studies autism at University College London, said: <D2><A1><D3>“According to this study, oxytocin may make faces more interesting.</D3></A1> Disappointingly, this effect is seen only in brain activity and not in behavior.”</D2> <A3><A2><D1>She said that, if we want oxytocin to become a useful treatment for autism, we need to show that is has an effect on behavior.</D1></A2></A3>
 
-Q: What does Frith say is a result of the oxytocin study? # Q,a,b,c,d
+Q: What does Frith say is a result of the oxytocin study?
 a: Oxytocin can increase interest in faces
 b: Oxytocin leads to more accurate recognition of faces
 c: Oxytocin affects behavior in response to faces
 d: Oxytocin can make people forget faces
 
-Q: According to Frith, what would be the crucial piece of evidence needed for showing oxytocin is a valuable treatment for autism? # Q,a,b,c,d # b
+Q: According to Frith, what would be the crucial piece of evidence needed for showing oxytocin is a valuable treatment for autism?
 a: The existence of behavioral effects
 b: Even stronger behavioral effects
 c: Increased brain response to faces
 d: Repeating the experiment to see if the same behavioral effects are obtained
 
-Q2: Why does Firth advocate for demonstrating behavioral effects of oxytocin? # Q,a,b,c,d
+Q2: Why does Firth advocate for demonstrating behavioral effects of oxytocin?
 a: To show that oxytocin can be an effective treatment for autism
 b: To show that oxytocin can become popular
 c: To show that oxytocin might change brain activity

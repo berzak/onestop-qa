@@ -10,19 +10,19 @@ Int: <A1>Angela Erdmann never knew her grandfather. He died in 1946, six years b
 
 Ele: <A1>Angela Erdmann never knew her grandfather. He died in 1946, six years before she was born. <D3>But, on Tuesday April 28th, 2014, she described the extraordinary moment when she received a message in a bottle,</D3> 101 years after he threw it <D2>into the Baltic Sea.</D2></A1> The bottle is possibly the world’s oldest message in a bottle. <A3><A2>It was presented to Erdmann by the <D1>museum</D1> that is now exhibiting it in Germany.</A2></A3>
 
-Q: Who threw the bottle into the Baltic Sea? # b
+Q: Who threw the bottle into the Baltic Sea?
 a: Angela Erdmann’s grandfather
 b: Angela Erdmann
 c: A museum worker
 d: A fisherman
 
-Q: Where is the bottle now? # b,d
+Q: Where is the bottle now?
 a: On exhibit in Germany
 b: In Angela Erdmann’s possession
 c: In the Baltic Sea
 d: In a private collection of maritime items
 
-Q2: How did Angela Erdmann find out about the bottle? # Q,c,d
+Q2: How did Angela Erdmann find out about the bottle?
 a: A museum told her that they had it
 b: She coincidentally saw it at the museum where it was held
 c: She found it in her basement on April 28th, 2014
@@ -36,19 +36,19 @@ Int: “It was very surprising,” Angela Erdmann, 62, said, describing how she 
 
 Ele: “It was very surprising,” Angela Erdmann, 62, said, when she described how she found out about the bottle. <A3><A1><D2>“A man came to my door and told me he had post from my grandfather.</D2> Then, he told me that someone had found a message in a bottle and that on the card was my grandfather’s name.”</A1></A3> <A2>Her visitor was a family-tree researcher who found her in Berlin after <D3><D1>someone gave the letter to a museum in the northern city of Hamburg.</D1></D3></A2>
 
-Q: What did Angela’s visitor deliver? # Q,a,c,d
+Q: What did Angela’s visitor deliver?
 a: News of the discovery of the bottle
 b: A message from the post office
 c: A letter from a museum in Hamburg
 d: A package for Angela
 
-Q: Who was Angela’s visitor? # b,c
+Q: Who was Angela’s visitor?
 a: An ancestry researcher
 b: A museum representative from Hamburg
 c: A postman
 d: A journalist
 
-Q1: How did the visitor know the message in the bottle was written by Angela’s grandfather? # a,b,c,d
+Q1: How did the visitor know the message in the bottle was written by Angela’s grandfather?
 a: Her grandfather’s name appeared on the message
 b: Her grandfather’s name was carved on the bottle
 c: The person who gave it to the museum said so
@@ -62,19 +62,19 @@ Int: <A1><D2>The brown beer bottle, which had been in the water for 101 years,</
 
 Ele: <A1><D2>The brown beer bottle was in the water for 101 years.</D2> A fisherman found it in <D3>the Baltic Sea</D3> off the northern city of Kiel.</A1> <A3><A2><D1>Holger von Neuhoff, a curator at the museum,</D1> said this bottled message was the oldest he had ever seen. “There are documents without the bottle that are older and they are in the museum,” he said. “But, with the bottle and the document, this is certainly the oldest at the moment. It is in very good condition.”</A2></A3>
 
-Q: How was the bottle discovered? # b,c,d
+Q: How was the bottle discovered?
 a: A fisherman discovered it
 b: It washed up on the shore of Kiel
 c: Holger von Neuhoff discovered it
 d: A boy discovered it while playing in the sea
 
-Q: What does Holger von Neuhoff say about the bottled message? # a,b,c,d
+Q: What does Holger von Neuhoff say about the bottled message?
 a: It is the oldest message found along with the bottle he has ever encountered
 b: It is the oldest message in the museum
 c: It is a beer bottle that was in the water for 101 years
 d: It is the most recent addition to the museum’s collection
 
-Q2: Does the museum have older messages than the one recently discovered? # Q,a,b,c,d
+Q2: Does the museum have older messages than the one recently discovered?
 a: Yes, but without the bottle
 b: No, it is the oldest message
 c: Yes, but not from the Baltic Sea
@@ -94,13 +94,13 @@ b: Before 1913
 c: At the age of 54
 d: Before 1901
 
-Q: What did Richard Platz request from the person who finds the bottle? # c,d
+Q: What did Richard Platz request from the person who finds the bottle?
 a: To use the stamps in the bottle to send the letter to Platz
 b: To buy two stamps and sent the letter to Platz
 c: To give the bottle to Angela after his death
 d: To rescue him from the island he was stranded on
 
-Q2: Where did Richard Platz want the postcard to end up? # b,d
+Q2: Where did Richard Platz want the postcard to end up?
 a: His home
 b: In the hands of whomever found it
 c: Floating in the sea
@@ -140,13 +140,13 @@ Int: <A3><A1>The message and the bottle will be on display at Hamburg’s Mariti
 
 Ele: <A3><A1>The message and the bottle will be on display at Hamburg’s Maritime Museum until the beginning of May 2014. Then, <D2>experts will try to decipher the rest of the text.</D2> It is not clear what will happen to the bottle after that, but Erdmann hopes it will stay at the museum.</A1></A3> <A2><D3><D1>“We want to find a few photos to put with the bottle</D1></D3> and give it a face, so visitors can see the young man who threw the bottle into the water,” she said.</A2>
 
-Q: What will happen to the bottle after the experts finish examining the text? # c
+Q: What will happen to the bottle after the experts finish examining the text?
 a: Its fate is not known
 b: It will stay at the Maritime Museum
 c: Photos of it will be put on display
 d: It will be given to Erdmann
 
-Q: What does Erdmann want to add to the bottle exhibit? # b
+Q: What does Erdmann want to add to the bottle exhibit?
 a: Pictures of the bottled message’s author
 b: A photo that depicts a young man throwing a bottle into the sea
 c: A deciphered copy of the text

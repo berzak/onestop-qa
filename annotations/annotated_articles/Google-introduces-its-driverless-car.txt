@@ -10,19 +10,19 @@ Int: <A1><D3><D2>A car with a top speed of 25mph, two seats and no pedals or ste
 
 Ele: <A1><D3><D2>A car with a maximum speed of 25 miles per hour, two seats and no pedals or steering wheel</D2></D3> does not sound very interesting. But Google, in the US, shocked the car and taxi industries when it unveiled the latest version of its driverless car.</A1> Google has begun testing the electric car at its headquarters in Mountain View, California. <A3><D1>The car does not have all the normal car controls, such as foot pedals.</D1> <A2>Instead, it has a smartphone app that calls it and tells it the destination,</A2> and a STOP button between the two seats in case the passengers need to override the computer.</A3>
 
-Q: What kind of reaction did Google’s new driverless car draw from the automobile industry? # Q,a,b,c,d # d,a
+Q: What kind of reaction did Google’s new driverless car draw from the automobile industry?
 a: It drew strong attention from the industry
 b: The industry wasn’t impressed and did not find it interesting at first, but was shocked later
 c: It drew mostly excitement, but also disappointment at its lack of controls
 d: It drew considerable skepticism from safety experts
 
-Q: How does the car passenger’s phone interact with the car? # Q,a,b,c,d
+Q: How does the car passenger’s phone interact with the car?
 a: It tells the car where the user wants to go
 b: It has an app with normal car controls in case of an emergency
 c: It keeps track of the car’s speed so that it does not exceed 25 miles per hour
 d: It processes the sensory information from the car and guides the car
 
-Q2: What is unique about the controls of the car that Google just released? # Q,a,b,c,d
+Q2: What is unique about the controls of the car that Google just released?
 a: It has fewer controls compared to a typical car
 b: It has special foot pedals
 c: It can quickly accelerate to a speed of 25 miles per hour
@@ -36,7 +36,7 @@ Int: The car, in fact, does all the tasks of navigation, steering, acceleration 
 
 Ele: <D1>The company is building about 100 prototypes for a two-year test. The company’s co-founder, Sergey Brin, said that the vehicle was still just a prototype.</D1> <D2><A3><A1>He says that they want to change the world for people who do not find it easy to use transportation today.</A1></A3></D2> Talking about the car, he said, “You’re just sitting there; no steering wheel, no pedals. <A2><D3>For me, it was very relaxing.</D3> About ten seconds after getting into the car, I forgot I was there. I found it really fun.”</A2> 
 
-Q: What does Brin say his company’s motivation is for making this car? # a,c
+Q: What does Brin say his company’s motivation is for making this car?
 a: Helping people who do not have good transportation today
 b: Changing the world for people who already drive regularly
 c: Becoming the leading company in prototyping autonomous vehicles
@@ -48,7 +48,7 @@ b: forgettable
 c: life-changing
 d: thrilling
 
-Q1: Who does Brin say the car will benefit? # d # c
+Q1: Who does Brin say the car will benefit?
 a: People who find it difficult to travel around
 b: People who want to change the world
 c: People who find driving very relaxing
@@ -62,19 +62,19 @@ Int: <A1><D2>Google says that the aim of the project is to improve safety and th
 
 Ele: <A1><D2>Google says that the aim of the project is to improve safety. They say that the car is made with foam at the front and a plastic windscreen, so “it should be far safer than any other car for pedestrians.”</D2></A1> <D3>The cars have been built specially by a company in Detroit.</D3> <A3><A2><D1>Google will now test the cars, which are not yet for sale.</D1></A2></A3>
 
-Q: According to the article, what has Google done to improve safety? # c
+Q: According to the article, what has Google done to improve safety?
 a: Used materials that are safer for pedestrians
 b: Designed the car to automatically detect pedestrians
 c: Gone through multiple rounds of testing
 d: Installed more cameras and sensors throughout the car
 
-Q: What will Google do now? # Q,c,d # a
+Q: What will Google do now?
 a: Test-pilot the cars
 b: Begin selling the cars to a limited audience
 c: Further improve safety by adding more foam
 d: Add more comfort features to the cars
 
-Q2: Could Google’s cars be purchased at the time that the article was written? # Q,a,b,c,d
+Q2: Could Google’s cars be purchased at the time that the article was written?
 a: No, they needed to go through more tests
 b: Yes, but only by signing up for a special testing program
 c: Yes, but only in Detroit
@@ -88,19 +88,19 @@ Int: <A3><A1>One challenge is creating high-definition scans of the <D2>roads an
 
 Ele: <A3><A1>There need to be detailed scans of the <D2>roads before the cars can drive on them,</D2> because they cannot collect and process enough information in real time.</A1></A3> So far, <D3><D1>there are detailed maps of about 2,000 miles of California’s roads, but California has more than 170,000 miles of roads.</D1></D3> <A2>Google says it wants to license the technology to traditional car makers when they have improved it.</A2> 
 
-Q: Why are detailed, high-quality scans of the road needed? # Q,a,b,d
+Q: Why are detailed, high-quality scans of the road needed?
 a: Because the cars cannot collect and process enough information in real time
 b: Because people cannot collect and process enough information in real time
 c: Because California has thousands of miles of roads
 d: Because the cars often don’t arrive at their destination
 
-Q: When will Google allow other car companies to use their technology? # a,b,c # c
+Q: When will Google allow other car companies to use their technology?
 a: When the technology has become better
 b: When traditional car companies improve their technology
 c: When the cars can drive on highways
 d: When people trust driverless cars more
 
-Q1: Why can’t the driverless cars currently drive on all roads? # Q,a,b,c,d # a,b
+Q1: Why can’t the driverless cars currently drive on all roads?
 a: Not all roads have been thoroughly scanned yet
 b: Even the best currently-possible road scans are not of high enough quality to make these cars safe
 c: Driverless cars are restricted by law to about 2,000 of California’s 170,000 miles of road
@@ -114,19 +114,19 @@ Int: <A1>But the idea of driverless cars replacing human-driven taxis has been t
 
 Ele: <A1>But the idea that driverless cars will replace taxis with human drivers has alarmed some people. <D3><D2>Dennis Conyon from the UK National Taxi Association said that taxi drivers will become unemployed.</D2></D3></A1> <A3><A2>London has about 22,000 taxis and Conyon thinks that the <D1>total number of people who drive taxis in the UK is about 100,000.</D1></A2></A3>
 
-Q: Why is Conyon worried about driverless cars? # a,b,c,d
+Q: Why is Conyon worried about driverless cars?
 a: Drivers may lose their jobs
 b: He is alarmed by their safety record compared to taxis driven by humans
 c: Driverless cars will overcrowd the UK roads, which already have 100,000 taxis
 d: Driverless cars might be too expensive
 
-Q: Approximately how many taxi drivers are there in the UK? # Q,c,d
+Q: Approximately how many taxi drivers are there in the UK?
 a: 100,000
 b: 22,000
 c: Unknown, as many drivers are not part of the UK National Taxi Association
 d: Almost none, as most are now working for Uber and Lyft
 
-Q2: The number of taxi drivers in London is ... # d
+Q2: The number of taxi drivers in London is ...
 a: about 22,000
 b: about 100,000
 c: decreasing, as the number of unemployed taxi drivers has been rising
@@ -140,19 +140,19 @@ Int: <A3><A1><D2>Other car makers, including Volvo, Ford and Mercedes, are worki
 
 Ele: <A3><A1><D2>Other car makers, including Volvo, Ford and Mercedes, are going to make vehicles that will be different from Google’s version because they will have driver controls.</D2></A1></A3> But <D3>Chris Urmson,</D3> director of the driverless car project at Google, said that <A2>the new prototypes do not have a steering wheel or brakes because a human passenger might not be able to take control in an emergency.</A2> <D1>He said that it was simpler just to have an emergency stop button.</D1>
 
-Q: How will Volvo’s cars contrast with Google’s cars? # b,c,d
+Q: How will Volvo’s cars contrast with Google’s cars?
 a: Volvos will keep their driver controls
 b: Volvos will drive with more control
 c: Volvos will have an emergency stop button
 d: Volvos will be capable of driving at higher speeds
 
-Q: Why did Google remove the steering wheel from their driverless car prototypes? # Q,b,d
+Q: Why did Google remove the steering wheel from their driverless car prototypes?
 a: People may not be able to assume control during an emergency
 b: In a crisis, drivers can just use the brakes
 c: They wanted to be different from other companies
 d: To make driving more pleasant
 
-Q1: Who is planning on implementing driver controls in self-driving cars? # Q,a,b,c,d
+Q1: Who is planning on implementing driver controls in self-driving cars?
 a: Volvo, Ford and Mercedes
 b: Google
 c: Chris Urmson
@@ -166,19 +166,19 @@ Int: Urmson said: “The vehicles will be very basic. We want to learn from them
 
 Ele: Urmson said: “The vehicles will be very basic. <A1><D3>But they will take you where you want to go at the push of a button.</D3></A1> And, that’s an important step towards improving road safety and <A1>helping millions of people travel around more easily.”</A1> <A3><A2><D1>So far, the Google versions of the driverless cars have driven 700,000 miles</D1> without an accident caused by the computer.</A2></A3> The company says that thousands of people die each year on the roads and that <D2>about 80% of crashes are caused by human mistakes.</D2>
 
-Q: Getting where you want to go with Google’s new car will ... # Q,a,b,c,d # a,b
+Q: Getting where you want to go with Google’s new car will ...
 a: be very easy
 b: require pressing a button that says “push”
 c: be possible for 700,000 miles
 d: require using voice commands
 
-Q: How do Google driverless cars perform? # b
+Q: How do Google driverless cars perform?
 a: They travel hundreds of thousands of miles without accidents
 b: They can travel up to 700,000 miles before needing maintenance
 c: They are 80% better than human-driven cars
 d: They are worse than human-driven cars
 
-Q2: What kind of accidents does Google pride itself in having managed to avoid during the testing phase of the car? # Q,b,d
+Q2: What kind of accidents does Google pride itself in having managed to avoid during the testing phase of the car?
 a: Accidents that are caused by the car’s computer
 b: Accidents that damage the car’s computer
 c: Accidents resulting from pushing buttons

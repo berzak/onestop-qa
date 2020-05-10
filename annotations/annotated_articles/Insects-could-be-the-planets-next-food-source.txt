@@ -68,7 +68,7 @@ b: One billion people will not have enough food
 c: The level of greenhouse gases will increase by 35%
 d: Food quality will decrease
 
-Q: Why are rainforests being destroyed? 
+Q: Why are rainforests being destroyed?
 a: To make grazing fields and produce food for cows
 b: To grow livestock
 c: To accommodate the increase in the population of the planet
@@ -100,7 +100,7 @@ b: It would reduce the destruction of green forests by 95%
 c: It would create useful organic waste
 d: It would lower the environmental damage caused by shipping heavy animals
 
-Q1: What is an advantage in producing food from insects rather than sheep? # p,a,b
+Q1: What is an advantage in producing food from insects rather than sheep?
 a: Insects transform food to protein more efficiently
 b: Insects have higher-quality protein, vitamins and amino acids than sheep
 c: Countries like Zimbabwe and Laos cannot afford to grow sheep

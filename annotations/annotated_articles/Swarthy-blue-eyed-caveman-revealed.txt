@@ -10,19 +10,19 @@ Int: DNA taken from the wisdom tooth of a <D2><D3><D1>European hunter-gatherer</
 
 Ele: Scientists have taken DNA from the tooth of a <D2><D3><D1>European hunter-gatherer</D1> and have found out what modern humans looked like before they started farming.</D3></D2> <A1><A3>The Mesolithic man, who lived in Spain about 7,000 years ago,</A3> had an unusual mix of blue eyes, black or brown hair and dark skin.</A1> <A2>He was probably lactose intolerant and could not digest starchy foods easily.</A2>
 
-Q: What was unusual about the Mesolithic man? # d
+Q: What was unusual about the Mesolithic man?
 a: He had blue eyes and dark skin
 b: He had blond hair and dark skin
 c: He was a European hunter-gatherer
 d: He had larger bones than modern man
 
-Q: Which of these foods would the Mesolithic man find difficult to digest? # Q,a,b,c,d
+Q: Which of these foods would the Mesolithic man find difficult to digest?
 a: Foods containing lactose
 b: Foods lacking sufficient starch
 c: Foods from farms
 d: Foods that are spicy
 
-Q1: Where did the Mesolithic man live? # b,c
+Q1: Where did the Mesolithic man live?
 a: Spain
 b: Scientists have narrowed it to 7,000 plausible locations
 c: Farms in Europe
@@ -36,19 +36,19 @@ Int: <A3>The invention of farming brought humans and animals into much closer co
 
 Ele: <A3>The invention of farming brought humans and animals much closer and <D2>humans probably developed stronger immune systems to ﬁght infections from the animals.</D2> But the change to humans’ immune systems may not be as big as scientists thought – <A1>tests on the hunter-gatherer’s DNA found that he already had genes that made his immune system strong.</A1></A3> <D3><D1>Some of these genes still exist in modern Europeans today.</D1></D3> <A2>“Before we started this work, I had some ideas of what we were going to ﬁnd,” said Carles Lalueza-Fox, who led the study at the Institute of Evolutionary Biology in Barcelona. “Most of those ideas turned out to be completely wrong.”</A2>
 
-Q: What did the DNA test reveal about human immune systems? # a,b,c
+Q: What did the DNA test reveal about human immune systems?
 a: Humans had strong immune systems even before they started farming
 b: Genes can affect the immune system
 c: Modern Europeans have relatively weak immune systems
 d: Since the time of the hunter-gatherers, immune systems have been dependent on a healthy diet
 
-Q: What does Lalueza-Fox say about the study results? # b # Q,a,b,c,d
+Q: What does Lalueza-Fox say about the study results?
 a: She found them to be surprising
 b: They supported her previous ideas
 c: They show how humans developed better immune systems to deal with infections from farm animals
 d: They describe the appearance of the Mesolithic man with unprecedented accuracy
 
-Q1: What did scientists assume about the hunter-gatherer’s immune system before the DNA tests of this study? # Q,d,b,d # Q,d
+Q1: What did scientists assume about the hunter-gatherer’s immune system before the DNA tests of this study?
 a: The invention of farming had a significant impact on its development
 b: Hunter-gatherers had highly developed immune systems
 c: Europeans had stronger immune systems than other populations
@@ -62,13 +62,13 @@ Int: The Spanish team started their work after a group of cave explorers found t
 
 Ele: The Spanish team started their work after a group of cave explorers found two skeletons in a <D2>deep cave</D2> high up in the Cantabrian Mountains of northwest Spain in 2006. <D1>The skeletons, which belonged to two men in their early 30s,</D1> had been very well <D3><D2>preserved in the cool cave.</D2></D3> <A1>Carbon dating showed the skeletons are around 7,000 years old, from the time before farming arrived in Europe from the Middle East.</A1> <A3><A2>Other things were found in the cave, including reindeer teeth that were hung from the people’s clothing.</A2></A3>
 
-Q: What does carbon dating tell us about the skeletons? # a,b,d
+Q: What does carbon dating tell us about the skeletons?
 a: They were from the time before the introduction of farming in Europe
 b: They belonged to men who arrived in Europe from the Middle East
 c: They belonged to men in their early 30s
 d: They were from a time around the Middle Ages
 
-Q: Where were reindeer teeth found? # Q,a,b,c,d
+Q: Where were reindeer teeth found?
 a: Attached to clothing 
 b: Hung in the caves
 c: Next to cave carvings
@@ -88,19 +88,19 @@ Int: <A3><A1>On top of the scientific impact, artists might have to rethink thei
 
 Ele: <A3><A1>This discovery is important for science. It is also important to artists who will have to draw Mesolithic people in a new way. “You see a lot of pictures of these people hunting and gathering and they look like modern Europeans with light skin. You never see a picture of a Mesolithic hunter-gatherer with dark skin and blue eyes,”</A1></A3> Lalueza-Fox said. <D2>The Spanish team</D2> compared the hunter-gatherer to modern Europeans from different regions to see how they might be related. <A2>They found that the ancient DNA was most closely related to the DNA of <D3><D1>people living in northern Europe, in particular Sweden and Finland.</D1></D3></A2>
 
-Q: How will the discovery impact how artists should portray Mesolithic hunter-gatherers? # a,b,c,d # Q
+Q: How will the discovery impact how artists should portray Mesolithic hunter-gatherers?
 a: They should start drawing Mesolithic hunter-gatherers with dark skin and blue eyes
 b: They should start drawing light-skinned Mesolithic hunter-gatherers
 c: They should start using modern people from Sweden and Finland as models
 d: They should start featuring females more prominently when depicting Mesolithic societies
 
-Q: Which of these nationalities has DNA most closely related to Mesolithic hunter-gatherers? # a,b,c,d
+Q: Which of these nationalities has DNA most closely related to Mesolithic hunter-gatherers?
 a: Northern European
 b: European, with the exception of Sweden and Finland 
 c: Spanish
 d: Nationalities outside of Europe
 
-Q1: How are Mesolithic hunter-gatherers currently portrayed through art? # b,d
+Q1: How are Mesolithic hunter-gatherers currently portrayed through art?
 a: As modern Europeans
 b: As dark-skinned Europeans
 c: As northern Europeans

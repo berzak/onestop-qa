@@ -10,13 +10,13 @@ Int: Will we soon live in a world where drones deliver packages? <D3>If you beli
 
 Ele: One day, drones could deliver packages to your home. <D3>When will this happen? If you believe Amazon, it will be soon.</D3> <D1>Other people are not so sure.</D1> They have to invent the right technology but, also, they have to consider public safety. <A1>Amazon says that they will be ready as soon as the Federal Aviation Authority (FAA) introduce rules for using drones. <A3>The FAA will finally introduce rules for using unmanned aircraft by June 2016.</A3></A1> <D2>But the technology has a long way to go before then and larger machines aren’t legal yet – only drones up to 25kg will be legal.</D2> <A2>And the FAA says in the rules they want to introduce that drones will all have to use different radio frequencies that nobody can block or hijack.</A2>
 
-Q: When does Amazon claim it will be ready to deliver packages using drones? # Q,a,b,c,d
+Q: When does Amazon claim it will be ready to deliver packages using drones?
 a: Once the FFA releases their rules
 b: Once the FFA approves Amazon’s existing drones
 c: Amazon says it is not sure when this will happen
 d: Once the FFA regulations are approved by Congress in 2017
 
-Q: What will be included in FAA’s new drone rules regarding radio frequencies? # Q,a,b,c,d
+Q: What will be included in FAA’s new drone rules regarding radio frequencies?
 a: All drones must operate at different radio frequencies
 b: Drones that were jammed or hijacked must switch to a different frequency 
 c: Drones over 25kg will have their own frequency bandwidth
@@ -36,19 +36,19 @@ Int: Professor Sanjiv Singh, who runs a cargo delivery company called NearEarth,
 
 Ele: Professor Sanjiv Singh, who works for delivery company NearEarth, said that <D3><D1>flying drones is quite simple – you just give it some basic instructions: go to this height, do this short task, go back home.</D1></D3> But even short flights from a mobile landing place could cause serious problems, he said. “They’re not planning to deliver in areas where nobody lives; they’re planning to deliver from a warehouse to the consumer, which will probably be in a town or city,” he said. “The drone will have to see hazards. Maybe there will be things that the map doesn’t know about. Maybe there will be construction equipment that wasn’t there but is there now. <A1><A3><D2>Maybe GPS signals will be blocked</D2> so it’s going to have an incorrect idea about where it is.”</A3></A1> <A2>All this can be solved, he said – but it’s difficult.</A2>
 
-Q: Why does Sanjiv mention GPS systems? # Q,a,b,c,d
+Q: Why does Sanjiv mention GPS systems?
 a: To provide an example of a critical problem that may arise during drone flight
 b: To argue that people have incorrect ideas about how they work in drones
 c: To illustrate how easy it is to fly drones 
 d: To discuss how common they are
 
-Q: What does Professor Singh think about fixing current drone delivery problems? # Q,a,b,c,d
+Q: What does Professor Singh think about fixing current drone delivery problems?
 a: He thinks that it is possible to resolve these problems
 b: He believes the problems might be too difficult to fix
 c: He thinks that blocked GPS signals will be the hardest problem to fix
 d: He believes that his company will be the first to offer solutions to the problems
 
-Q1: What is Professor Singh worried will happen when the drone is unable to access GPS signals? # b,c,d
+Q1: What is Professor Singh worried will happen when the drone is unable to access GPS signals?
 a: It will have unreliable knowledge of its current location
 b: It will deliver to an incorrect location
 c: It will be unable to follow simple instructions like “go to this height”
@@ -62,19 +62,19 @@ Int: One major problem is maintaining radio contact with a drone and planning fo
 
 Ele: One big problem is keeping radio contact with a drone and planning for what happens if that contact breaks. <D3><A1>”If a drone loses radio contact, <D2>it will keep going and crash into the ground,” said robot expert Daniel Huber.</D2></A1></D3> “We already have most of the technology we need,” said Huber. <A3><A2>He is working on a program that will use drones to check telephone lines, bridges and so on. <D1>“We can make drones fly around a certain area and look at every surface.”</D1></A2></A3>
 
-Q: What currently happens to a typical drone if it loses contact with its human operator? # b,c,d
+Q: What currently happens to a typical drone if it loses contact with its human operator?
 a: It will collide with the ground
 b: It will crash into an obstacle
 c: It will fly around a certain area and look at every surface for a proper landing site
 d: It will automatically return to its launch site
 
-Q: What is Huber working on to improve drone technology? # a,b
+Q: What is Huber working on to improve drone technology?
 a: A program that makes drones check every surface of a given area
 b: A program that will enable checking the condition of drones on various surfaces
 c: A program that prevents the drone from crashing into the ground
 d: A program that helps the drone fly longer distances
 
-Q2: What will Huber’s program enable drones to do? # Q,a,b,c,d
+Q2: What will Huber’s program enable drones to do?
 a: Examine facilities like bridges and telephone lines
 b: Fly more safely around certain dangerous areas
 c: Identify interfering radio signals and antennas
@@ -88,19 +88,19 @@ Int: Huber said about Amazon: “I have heard them say that many packages are li
 
 Ele: Huber said about Amazon: “They say that many packages are light – a drone can carry a kilogram for 15 minutes. <D3>If you have a vehicle that can go into a neighborhood, it can deliver from that vehicle.</D3> <A3><A1>You need a 15-minute distance, and typical drones have about that distance.” It’s one way, he said, to make sure people are safe. “The larger the distance, the more dangerous it becomes.”</A1></A3> <A2><D1>Of course, safety is still a big worry – Singh points out that for a passenger airplane to be allowed to fly, it can only have one serious failure every one million hours.</D1></A2> <D2>Drones, he said, are much less safe. “The Reaper drone, for example, has one failure in 10,000 hours,” Singh said.</D2>
 
-Q: What happens as you increase the distance a drone travels to deliver a package? # Q,b,d
+Q: What happens as you increase the distance a drone travels to deliver a package?
 a: The drone becomes more dangerous to people
 b: It’s harder for the drone to spot dangers
 c: It would be acceptable only if the drone has less than one failure every one million hours
 d: The drone needs to fly faster
 
-Q: What determines if a passenger plane is allowed to operate? # a,b,c,d
+Q: What determines if a passenger plane is allowed to operate?
 a: The number of serious failures every one million hours
 b: The number of minor failures every one million hours
 c: The number of serious failures every 10,000 hours
 d: The number of times it has been inspected within one week prior to take off
 
-Q1: What is one way to increase drone safety, according to Huber? # Q,a,b,c,d # b
+Q1: What is one way to increase drone safety, according to Huber?
 a: Have drones fly shorter distances
 b: Require drones to report their status every 15 minutes
 c: Prevent drones from delivering packages from vehicles
@@ -114,19 +114,19 @@ Int: Part of the reason for this is that air travel is dangerous so standards ar
 
 Ele: Part of the reason for this is simply that air travel is dangerous so standards are much higher. <A3><A1><D2>“If you fly a passenger airplane, often they will say, ‘Oh, a small part isn’t working; we have to go back,’”</D2> Singh said. “And people have been flying passenger airplanes for 60 years!</A1></A3> <D1><D3>I hate to think that a drone might come down on a busy road.”</D3></D1> <A2>Part of the solution, Singh said, is planning for every situation: “If things fail, the drone has to do something sensible.”</A2>
 
-Q: Why does Singh bring up the example of passenger airplanes? # Q,a,b,c,d
+Q: Why does Singh bring up the example of passenger airplanes?
 a: To show how many precautions people take when dealing with aircraft
 b: To demonstrate how often airplane parts fail
 c: To demonstrate how drones should perform when they need to come down on a busy highway
 d: To point out how small drones are compared to typical airplanes
 
-Q: What does Singh say drones should do to improve safety? # b
+Q: What does Singh say drones should do to improve safety?
 a: They should have a strategy for handling all circumstances
 b: They should have built-in responses to common problems
 c: They should always return to their base if a problem occurs 
 d: They should land immediately in the event of a problem
 
-Q1: According to Singh, why do passenger airplanes often return to the gate? # Q,a,b,c,d
+Q1: According to Singh, why do passenger airplanes often return to the gate?
 a: A small part has failed
 b: A passenger identified a problem with the airplane
 c: They are in danger of coming down on a busy road
