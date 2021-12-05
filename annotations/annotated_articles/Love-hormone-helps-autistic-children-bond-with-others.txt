@@ -134,7 +134,7 @@ d: Not much; both have been debated for decades
 
 # Paragraph
 
-Adv: Uta Frith, who studies autism at University College London, said: <D2><A1><D3>“According to this study, oxytocin may have the effect of making faces more interesting</D3></A1> as assessed by greater activity in brain structures concerned with reward evaluation. <A3><A2>Disappointingly, this effect is seen only in brain activity and not in behavior.</D2> <D1>Demonstrating an effect on behavior will be critical if nasal spray treatment is to be of any value.”</D1></A2></A3>
+Adv: Uta Frith, who studies autism at University College London, said: <D2><A1><D3>“According to this study, oxytocin may have the effect of making faces more interesting</D3></A1> as assessed by greater activity in brain structures concerned with reward evaluation. <A3>Disappointingly, this effect is seen only in brain activity and not in behavior.</D2> <A2><D1>Demonstrating an effect on behavior will be critical if nasal spray treatment is to be of any value.”</D1></A2></A3>
 
 Int: Uta Frith, who studies autism at University College London, said: <D2><D3><A1>“According to this study, oxytocin may have the effect of making faces more interesting.</D3></A1> Disappointingly, this effect is seen only in brain activity and not in behavior.</D2> <A3><A2><D1>Demonstrating an effect on behavior will be critical if nasal spray treatment is to be of any value.”</D1></A2></A3>
 
