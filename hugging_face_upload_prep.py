@@ -117,7 +117,7 @@ def _parse_raw_text(text_path: Path) -> dict:
     text = []
     with open(text_path, "rb") as f:
         for line in f:
-            clean_line = line.decode().strip("\r\n")
+            clean_line = line.decode().strip()
             if clean_line:
                 text.append(clean_line)
 
@@ -128,21 +128,21 @@ def _parse_raw_text(text_path: Path) -> dict:
             if text_block:
                 parsed_text["text_blocks"].append(text_block)
             text_block = {
-                "Adv": _parse_paragraph(text[ind + 1].strip("Adv: ")),
-                "Int": _parse_paragraph(text[ind + 2].strip("Int: ")),
-                "Ele": _parse_paragraph(text[ind + 3].strip("Ele: ")),
+                "Adv": _parse_paragraph(text[ind + 1].removeprefix("Adv: ")),
+                "Int": _parse_paragraph(text[ind + 2].removeprefix("Int: ")),
+                "Ele": _parse_paragraph(text[ind + 3].removeprefix("Ele: ")),
                 "qas": [],
             }
 
         elif line.startswith("Q"):
             qa = {
-                "question": line.lstrip("Q12: "),
+                "question": line.removeprefix("Q: ").removeprefix("Q1: ").removeprefix("Q2: "),
                 "references": int(line[1]) - 1 if line[1] != ":" else -1,
                 "answers": [
-                    text[ind + 1].strip("a: "),
-                    text[ind + 2].strip("b: "),
-                    text[ind + 3].strip("c: "),
-                    text[ind + 4].strip("d: "),
+                    text[ind + 1].removeprefix("a: "),
+                    text[ind + 2].removeprefix("b: "),
+                    text[ind + 3].removeprefix("c: "),
+                    text[ind + 4].removeprefix("d: "),
                 ],
             }
             text_block["qas"].append(qa)
