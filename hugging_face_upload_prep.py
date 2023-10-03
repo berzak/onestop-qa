@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-
+PARAGRAPH_START_IDENTIFIER = "# Paragraph"
 def assert_huggingface_correct():
     # d = json.load(Path('parsed_data.json').open())
     # japan = d['data'][12]
@@ -50,7 +50,10 @@ def convert_raw_text_to_json(base_path: Path, raw_text_path: Path, save_name: st
     assert data == text_data["data"], "Saving/loading data failed!"
 
 
-def _parse_paragraph(raw_paragraph_text: str) -> dict:
+def _parse_paragraph(raw_paragraph_text: str, level: str) -> dict:
+    start_identifier = f"{level}: "
+    assert raw_paragraph_text.startswith(start_identifier), "incorrect level"
+    raw_paragraph_text = raw_paragraph_text.replace(start_identifier, "", 1)
     a1_span = []
     a2_span = []
     a3_span = []
@@ -112,9 +115,14 @@ def _parse_paragraph(raw_paragraph_text: str) -> dict:
         "d_spans": [d1_span, d2_span, d3_span],
     }
 
+def _parse_answer(line: str, letter: str):
+    start_identifier = f"{letter}: "
+    assert line.startswith(start_identifier), "incorrect answer format"
+    line = line.replace(start_identifier, "", 1)
+    return line
 
 def _parse_raw_text(text_path: Path) -> dict:
-    text = []
+    text: list[str] = []
     with open(text_path, "rb") as f:
         for line in f:
             clean_line = line.decode().strip("\r\n")
@@ -124,26 +132,27 @@ def _parse_raw_text(text_path: Path) -> dict:
     parsed_text = {"title": text[1], "text_blocks": []}
     text_block = {}
     for ind, line in enumerate(text):
-        if line == "# Paragraph":
+        if line == PARAGRAPH_START_IDENTIFIER:
             if text_block:
                 parsed_text["text_blocks"].append(text_block)
             text_block = {
-                "Adv": _parse_paragraph(text[ind + 1].strip("Adv: ")),
-                "Int": _parse_paragraph(text[ind + 2].strip("Int: ")),
-                "Ele": _parse_paragraph(text[ind + 3].strip("Ele: ")),
+                "Adv": _parse_paragraph(text[ind + 1], "Adv"),
+                "Int": _parse_paragraph(text[ind + 2], "Int"),
+                "Ele": _parse_paragraph(text[ind + 3], "Ele"),
                 "qas": [],
             }
 
         elif line.startswith("Q"):
+            assert line.startswith(("Q: ", "Q1: ", "Q2: ")), "incorrect question format"
             qa = {
-                "question": line.lstrip("Q12: "),
+                "question": line.replace("Q: ", "").replace("Q1: ", "").replace("Q2: ", ""),
                 "references": int(line[1]) - 1 if line[1] != ":" else -1,
                 "answers": [
-                    text[ind + 1].strip("a: "),
-                    text[ind + 2].strip("b: "),
-                    text[ind + 3].strip("c: "),
-                    text[ind + 4].strip("d: "),
-                ],
+                    _parse_answer(text[ind + 1], "a"), 
+                    _parse_answer(text[ind + 2], "b"), 
+                    _parse_answer(text[ind + 3], "c"), 
+                    _parse_answer(text[ind + 4], "d")],
+
             }
             text_block["qas"].append(qa)
     if text_block:
