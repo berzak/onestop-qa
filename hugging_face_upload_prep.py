@@ -155,6 +155,6 @@ if __name__ == "__main__":
     convert_raw_text_to_json(
         base_path=Path("."),
         raw_text_path=Path("annotations") / "annotated_articles",
-        save_name="parsed_data.json",
+        save_name="onestop_qa.json",
     )
     #assert_huggingface_correct()
