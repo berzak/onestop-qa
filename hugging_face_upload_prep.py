@@ -125,7 +125,7 @@ def _parse_raw_text(text_path: Path) -> dict:
     text: list[str] = []
     with open(text_path, "rb") as f:
         for line in f:
-            clean_line = line.decode().strip("\r\n")
+            clean_line = line.decode().strip()
             if clean_line:
                 text.append(clean_line)
 
@@ -145,7 +145,7 @@ def _parse_raw_text(text_path: Path) -> dict:
         elif line.startswith("Q"):
             assert line.startswith(("Q: ", "Q1: ", "Q2: ")), "incorrect question format"
             qa = {
-                "question": line.replace("Q: ", "").replace("Q1: ", "").replace("Q2: ", ""),
+                "question": line.removeprefix("Q: ").removeprefix("Q1: ").removeprefix("Q2: "),
                 "references": int(line[1]) - 1 if line[1] != ":" else -1,
                 "answers": [
                     _parse_answer(text[ind + 1], "a"), 
