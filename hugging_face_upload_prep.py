@@ -188,6 +188,17 @@ def _parse_raw_text(text_path: Path) -> dict:
             q_ind += 1
             text_block["qas"].append(qa)
     if text_block:
+        # TODO duplicate code
+        references = [qa["references"] for qa in text_block["qas"]]
+        counts = {i: references.count(i) for i in references}
+
+        # Define the mapping based on the counts
+        mapping = {i: 1 if counts[i] == 2 else 0 for i in counts}
+
+        # Use list comprehension to convert the list
+        converted_references = [mapping[i] for i in references]
+        for i, qa in enumerate(text_block['qas']):
+            qa['cs_has_two_questions'] = converted_references[i]
         parsed_text["text_blocks"].append(text_block)
     return parsed_text
 
