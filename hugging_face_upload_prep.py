@@ -159,6 +159,29 @@ def _parse_raw_text(text_path: Path) -> dict:
                 converted_references = [mapping[i] for i in references]
                 for i, qa in enumerate(text_block['qas']):
                     qa['cs_has_two_questions'] = converted_references[i]
+                    
+                    
+                    
+                    
+                    
+                lonely_index = converted_references.index(0)
+                for i, qa in enumerate(text_block['qas']): # type: ignore                
+                    if qa['cs_has_two_questions'] == 0:
+                        qa['question_prediction_label'] = 0
+                    else:
+                        if lonely_index == 0:
+                            qa['question_prediction_label'] = qa['q_ind']
+                        elif lonely_index == 1:
+                            if i == 0:
+                                qa['question_prediction_label'] = qa['q_ind'] + 1
+                            else:
+                                qa['question_prediction_label'] = qa['q_ind']
+                        else:
+                            qa['question_prediction_label'] = qa['q_ind'] + 1
+                    
+                    
+                    
+                
                 parsed_text["text_blocks"].append(text_block)
             text_block = {
                 "Adv": _parse_paragraph(text[ind + 1], "Adv"),
@@ -170,12 +193,12 @@ def _parse_raw_text(text_path: Path) -> dict:
             paragraph_id += 1
             q_ind = 0
 
-        elif line.startswith("Q"):
-            assert line.startswith(("Q: ", "Q1: ", "Q2: ")), "incorrect question format"
+        elif line.startswith("Q"): # type: ignore
+            assert line.startswith(("Q: ", "Q1: ", "Q2: ")), "incorrect question format" # type: ignore
             qa = {
-                "question": line.removeprefix("Q: ")
-                .removeprefix("Q1: ")
-                .removeprefix("Q2: "),
+                "question": line.removeprefix("Q: ") # type: ignore
+                .removeprefix("Q1: ") # type: ignore
+                .removeprefix("Q2: "), # type: ignore
                 "references": int(line[1]) - 1 if line[1] != ":" else q_ind,
                 "answers": [
                     _parse_answer(text[ind + 1], "a"),
@@ -186,10 +209,10 @@ def _parse_raw_text(text_path: Path) -> dict:
                 'q_ind': q_ind
             }
             q_ind += 1
-            text_block["qas"].append(qa)
+            text_block["qas"].append(qa) # type: ignore
     if text_block:
         # TODO duplicate code
-        references = [qa["references"] for qa in text_block["qas"]]
+        references = [qa["references"] for qa in text_block["qas"]] # type: ignore
         counts = {i: references.count(i) for i in references}
 
         # Define the mapping based on the counts
@@ -197,8 +220,25 @@ def _parse_raw_text(text_path: Path) -> dict:
 
         # Use list comprehension to convert the list
         converted_references = [mapping[i] for i in references]
-        for i, qa in enumerate(text_block['qas']):
+        for i, qa in enumerate(text_block['qas']): # type: ignore
             qa['cs_has_two_questions'] = converted_references[i]
+        
+        lonely_index = converted_references.index(0)
+        for i, qa in enumerate(text_block['qas']): # type: ignore                
+            if qa['cs_has_two_questions'] == 0:
+                qa['question_prediction_label'] = 0
+            else:
+                if lonely_index == 0:
+                    qa['question_prediction_label'] = qa['q_ind']
+                elif lonely_index == 1:
+                    if i == 0:
+                        qa['question_prediction_label'] = qa['q_ind'] + 1
+                    else:
+                        qa['question_prediction_label'] = qa['q_ind']
+                else:
+                    qa['question_prediction_label'] = qa['q_ind'] + 1
+                    
+
         parsed_text["text_blocks"].append(text_block)
     return parsed_text
 
