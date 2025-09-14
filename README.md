@@ -1,3 +1,5 @@
+**Note:** OneStopQA is also available on 🤗 Hugging Face https://huggingface.co/datasets/malmaud/onestop_qa
+
 # OneStopQA
 
 OneStopQA is a multiple choice reading comprehension dataset annotated according to the STARC (Structured Annotations for Reading Comprehension) scheme. The reading materials are Guardian articles taken from the [OneStopEnglish corpus](https://github.com/nishkalavallabhi/OneStopEnglishCorpus). Each article comes in three difficlty levels, Elementary, Intermediate and Advanced. Each paragraph is annotated with three multiple choice reading comprehension questions. The reading comprehension questions can be answered based on any of the three paragraph levels.
